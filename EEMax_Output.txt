@@ -1,0 +1,589 @@
+#BS43MS45BP0.102
+#plot "coordinates.txt" index 0:0 using 2:3 title "users" with points, "SpectrumEfficiencyCPLEX_Output.txt" index 0:0 using 2:3:1 notitle with labels, "SpectrumEfficiencyCPLEX_Output.txt" index 0:0 using 2:3:4 title "Macro Cell" with circles, "SpectrumEfficiencyCPLEX_Output.txt" index 1:1 using 2:3:1 notitle with labels, "SpectrumEfficiencyCPLEX_Output.txt" index 1:1 using 2:3:4 title "micro cell" with circles, "SpectrumEfficiencyCPLEX_Output.txt" index 2:2 using 5:6 title "BS[0]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 3:3 using 5:6 title "BS[1]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 4:4 using 5:6 title "BS[2]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 5:5 using 5:6 title "BS[3]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 6:6 using 5:6 title "BS[4]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 7:7 using 5:6 title "BS[5]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 8:8 using 5:6 title "BS[6]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 9:9 using 5:6 title "BS[7]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 10:10 using 5:6 title "BS[8]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 11:11 using 5:6 title "BS[9]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 12:12 using 5:6 title "BS[10]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 13:13 using 5:6 title "BS[11]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 14:14 using 5:6 title "BS[12]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 15:15 using 5:6 title "BS[13]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 16:16 using 5:6 title "BS[14]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 17:17 using 5:6 title "BS[15]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 18:18 using 5:6 title "BS[16]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 19:19 using 5:6 title "BS[17]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 20:20 using 5:6 title "BS[18]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 21:21 using 5:6 title "BS[19]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 22:22 using 5:6 title "BS[20]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 23:23 using 5:6 title "BS[21]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 24:24 using 5:6 title "BS[22]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 25:25 using 5:6 title "BS[23]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 26:26 using 5:6 title "BS[24]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 27:27 using 5:6 title "BS[25]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 28:28 using 5:6 title "BS[26]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 29:29 using 5:6 title "BS[27]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 30:30 using 5:6 title "BS[28]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 31:31 using 5:6 title "BS[29]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 32:32 using 5:6 title "BS[30]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 33:33 using 5:6 title "BS[31]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 34:34 using 5:6 title "BS[32]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 35:35 using 5:6 title "BS[33]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 36:36 using 5:6 title "BS[34]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 37:37 using 5:6 title "BS[35]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 38:38 using 5:6 title "BS[36]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 39:39 using 5:6 title "BS[37]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 40:40 using 5:6 title "BS[38]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 41:41 using 5:6 title "BS[39]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 42:42 using 5:6 title "BS[40]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 43:43 using 5:6 title "BS[41]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 44:44 using 5:6 title "BS[42]" with lines, "SpectrumEfficiencyCPLEX_Output.txt" index 45:45 using 2:3 title "Modulation0" with points, "SpectrumEfficiencyCPLEX_Output.txt" index 46:46 using 2:3 title "Modulation1" with points, "SpectrumEfficiencyCPLEX_Output.txt" index 47:47 using 2:3 title "Modulation2" with points, "SpectrumEfficiencyCPLEX_Output.txt" index 48:48 using 2:3 title "Modulation3" with points
+
+ "BS[0]" 250 250 290.931
+ "BS[1]" 1000 250 225.089
+ "BS[2]" 625 500 0
+ "BS[3]" 250 750 357.315
+ "BS[4]" 1000 750 348.761
+ "BS[5]" 625 1000 182.236
+ "BS[6]" 250 1250 284.429
+ "BS[7]" 1000 1250 344.398
+ "BS[8]" 625 1500 213.46
+
+
+ "BS[9]" 91 1270 0
+ "BS[10]" 648 537 0
+ "BS[11]" 248 573 0
+ "BS[12]" 649 601 30.8058
+ "BS[13]" 222 1099 0
+ "BS[14]" 455 914 0
+ "BS[15]" 906 88 0
+ "BS[16]" 205 609 0
+ "BS[17]" 917 1022 0
+ "BS[18]" 1212 874 0
+ "BS[19]" 809 642 0
+ "BS[20]" 1166 1403 0
+ "BS[21]" 963 451 0
+ "BS[22]" 829 1630 0
+ "BS[23]" 490 219 0
+ "BS[24]" 924 271 0
+ "BS[25]" 783 196 0
+ "BS[26]" 95 252 0
+ "BS[27]" 941 546 0
+ "BS[28]" 292 582 0
+ "BS[29]" 1096 401 0
+ "BS[30]" 310 13 0
+ "BS[31]" 675 392 0
+ "BS[32]" 614 1162 0
+ "BS[33]" 384 1288 0
+ "BS[34]" 223 621 0
+ "BS[35]" 1086 546 0
+ "BS[36]" 1205 1391 0
+ "BS[37]" 836 1179 0
+ "BS[38]" 718 1442 0
+ "BS[39]" 612 254 0
+ "BS[40]" 263 1432 0
+ "BS[41]" 996 278 0
+ "BS[42]" 658 1219 0
+
+
+BS[0] 250 250 BS[0] 250 250
+BS[0] 250 250 MS[13] 481 358 DS 10 power 6.46268e-07 mW SE 1.19455e+06 with modulation 0
+BS[0] 250 250 MS[14] 530 329 DS 6 power 1.0282e-06 mW SE 690527 with modulation 0
+BS[0] 250 250 MS[20] 169 121 DS 3 power 2.09971e-06 mW SE 1.45734e+06 with modulation 3
+BS[0] 250 250 MS[21] 176 481 DS 4 power 1.08124e-06 mW SE 1.53296e+06 with modulation 1
+BS[0] 250 250 MS[24] 102 299 DS 5 power 2.27869e-07 mW SE 6.24043e+06 with modulation 1
+BS[0] 250 250 MS[27] 264 239 DS 2 power 7.05176e-10 mW SE 1.08484e+09 with modulation 0
+BS[0] 250 250 MS[28] 307 179 DS 3 power 3.42717e-08 mW SE 3.38472e+07 with modulation 1
+BS[0] 250 250 MS[34] 394 100 DS 8 power 1.57855e-07 mW SE 5.23423e+06 with modulation 0
+BS[0] 250 250 MS[43] 276 223 DS 4 power 4.8854e-09 mW SE 1.53007e+08 with modulation 0
+
+
+BS[1] 1000 250 BS[1] 1000 250
+BS[1] 1000 250 MS[23] 1219 198 DS 10 power 2.0871e-07 mW SE 3.8714e+06 with modulation 0
+BS[1] 1000 250 MS[25] 905 159 DS 1 power 1.25286e-06 mW SE 1.93158e+06 with modulation 3
+BS[1] 1000 250 MS[30] 1050 72 DS 1 power 4.15501e-06 mW SE 522261 with modulation 3
+BS[1] 1000 250 MS[38] 1012 33 DS 3 power 7.34329e-06 mW SE 403089 with modulation 3
+BS[1] 1000 250 MS[40] 1004 183 DS 4 power 2.94072e-09 mW SE 2.5844e+08 with modulation 0
+
+
+BS[2] 625 500 BS[2] 625 500
+
+
+BS[3] 250 750 BS[3] 250 750
+BS[3] 250 750 MS[1] 595 657 DS 3 power 8.44298e-06 mW SE 75802.6 with modulation 0
+BS[3] 250 750 MS[9] 219 934 DS 10 power 2.15083e-07 mW SE 3.79388e+06 with modulation 0
+BS[3] 250 750 MS[11] 209 957 DS 10 power 3.31754e-07 mW SE 2.45664e+06 with modulation 0
+BS[3] 250 750 MS[17] 370 774 DS 3 power 1.93774e-06 mW SE 1.43122e+06 with modulation 3
+BS[3] 250 750 MS[32] 103 853 DS 4 power 3.7434e-07 mW SE 4.07384e+06 with modulation 1
+BS[3] 250 750 MS[33] 152 847 DS 1 power 3.71413e-08 mW SE 7.00029e+06 with modulation 0
+BS[3] 250 750 MS[35] 104 897 DS 11 power 1.55861e-07 mW SE 4.9578e+06 with modulation 0
+BS[3] 250 750 MS[39] 166 1091 DS 10 power 1.00014e-06 mW SE 770892 with modulation 0
+
+
+BS[4] 1000 750 BS[4] 1000 750
+BS[4] 1000 750 MS[8] 960 685 DS 6 power 3.67291e-08 mW SE 4.09757e+07 with modulation 1
+BS[4] 1000 750 MS[16] 839 1008 DS 6 power 1.2019e-06 mW SE 636492 with modulation 0
+BS[4] 1000 750 MS[41] 1035 403 DS 1 power 3.88531e-06 mW SE 33459.4 with modulation 1
+BS[4] 1000 750 MS[42] 1192 709 DS 1 power 5.13349e-06 mW SE 142203 with modulation 3
+BS[4] 1000 750 MS[44] 1181 654 DS 5 power 5.96561e-07 mW SE 2.63175e+06 with modulation 1
+
+
+BS[5] 625 1000 BS[5] 625 1000
+BS[5] 625 1000 MS[3] 623 1077 DS 5 power 1.5103e-07 mW SE 1.07793e+07 with modulation 1
+BS[5] 625 1000 MS[4] 696 909 DS 10 power 1.5768e-07 mW SE 4.83257e+06 with modulation 0
+BS[5] 625 1000 MS[5] 724 847 DS 10 power 7.87883e-07 mW SE 1.05599e+06 with modulation 0
+BS[5] 625 1000 MS[6] 653 1084 DS 6 power 2.46744e-07 mW SE 5.8225e+06 with modulation 1
+
+
+BS[6] 250 1250 BS[6] 250 1250
+BS[6] 250 1250 MS[10] 325 1460 DS 2 power 4.02919e-07 mW SE 1.4395e+06 with modulation 0
+BS[6] 250 1250 MS[15] 300 970 DS 1 power 7.54221e-06 mW SE 283736 with modulation 2
+BS[6] 250 1250 MS[29] 43 1220 DS 2 power 6.41625e-06 mW SE 325735 with modulation 3
+BS[6] 250 1250 MS[37] 130 1322 DS 1 power 3.91282e-08 mW SE 2.5557e+06 with modulation 0
+
+
+BS[7] 1000 1250 BS[7] 1000 1250
+BS[7] 1000 1250 MS[18] 1031 907 DS 3 power 3.7168e-06 mW SE 408057 with modulation 1
+BS[7] 1000 1250 MS[19] 1226 1182 DS 2 power 1.9589e-06 mW SE 878044 with modulation 2
+BS[7] 1000 1250 MS[22] 1191 1259 DS 1 power 4.67749e-06 mW SE 709782 with modulation 3
+BS[7] 1000 1250 MS[26] 1179 1398 DS 11 power 2.33091e-07 mW SE 3.57254e+06 with modulation 0
+BS[7] 1000 1250 MS[36] 1155 1079 DS 11 power 2.27948e-07 mW SE 3.42183e+06 with modulation 0
+
+
+BS[8] 625 1500 BS[8] 625 1500
+BS[8] 625 1500 MS[7] 624 1604 DS 7 power 2.74442e-08 mW SE 2.9098e+07 with modulation 0
+BS[8] 625 1500 MS[12] 627 1426 DS 12 power 8.28533e-09 mW SE 9.90707e+07 with modulation 0
+BS[8] 625 1500 MS[31] 694 1702 DS 3 power 6.89272e-07 mW SE 1.78449e+06 with modulation 1
+
+
+BS[9] 91 1270 BS[9] 91 1270
+
+
+BS[10] 648 537 BS[10] 648 537
+
+
+BS[11] 248 573 BS[11] 248 573
+
+
+BS[12] 649 601 BS[12] 649 601
+BS[12] 649 601 MS[0] 624 619 DS 1 power 9.27612e-06 mW SE 22638.8 with modulation 1
+BS[12] 649 601 MS[2] 652 595 DS 2 power 1.76237e-07 mW SE 9.39076e+06 with modulation 1
+
+
+BS[13] 222 1099 BS[13] 222 1099
+
+
+BS[14] 455 914 BS[14] 455 914
+
+
+BS[15] 906 88 BS[15] 906 88
+
+
+BS[16] 205 609 BS[16] 205 609
+
+
+BS[17] 917 1022 BS[17] 917 1022
+
+
+BS[18] 1212 874 BS[18] 1212 874
+
+
+BS[19] 809 642 BS[19] 809 642
+
+
+BS[20] 1166 1403 BS[20] 1166 1403
+
+
+BS[21] 963 451 BS[21] 963 451
+
+
+BS[22] 829 1630 BS[22] 829 1630
+
+
+BS[23] 490 219 BS[23] 490 219
+
+
+BS[24] 924 271 BS[24] 924 271
+
+
+BS[25] 783 196 BS[25] 783 196
+
+
+BS[26] 95 252 BS[26] 95 252
+
+
+BS[27] 941 546 BS[27] 941 546
+
+
+BS[28] 292 582 BS[28] 292 582
+
+
+BS[29] 1096 401 BS[29] 1096 401
+
+
+BS[30] 310 13 BS[30] 310 13
+
+
+BS[31] 675 392 BS[31] 675 392
+
+
+BS[32] 614 1162 BS[32] 614 1162
+
+
+BS[33] 384 1288 BS[33] 384 1288
+
+
+BS[34] 223 621 BS[34] 223 621
+
+
+BS[35] 1086 546 BS[35] 1086 546
+
+
+BS[36] 1205 1391 BS[36] 1205 1391
+
+
+BS[37] 836 1179 BS[37] 836 1179
+
+
+BS[38] 718 1442 BS[38] 718 1442
+
+
+BS[39] 612 254 BS[39] 612 254
+
+
+BS[40] 263 1432 BS[40] 263 1432
+
+
+BS[41] 996 278 BS[41] 996 278
+
+
+BS[42] 658 1219 BS[42] 658 1219
+
+
+
+
+MS[13] 481 358 DS 10 power 6.46268e-07 mW select Mod 0
+MS[14] 530 329 DS 6 power 1.0282e-06 mW select Mod 0
+MS[27] 264 239 DS 2 power 7.05176e-10 mW select Mod 0
+MS[34] 394 100 DS 8 power 1.57855e-07 mW select Mod 0
+MS[43] 276 223 DS 4 power 4.8854e-09 mW select Mod 0
+MS[23] 1219 198 DS 10 power 2.0871e-07 mW select Mod 0
+MS[40] 1004 183 DS 4 power 2.94072e-09 mW select Mod 0
+MS[1] 595 657 DS 3 power 8.44298e-06 mW select Mod 0
+MS[9] 219 934 DS 10 power 2.15083e-07 mW select Mod 0
+MS[11] 209 957 DS 10 power 3.31754e-07 mW select Mod 0
+MS[33] 152 847 DS 1 power 3.71413e-08 mW select Mod 0
+MS[35] 104 897 DS 11 power 1.55861e-07 mW select Mod 0
+MS[39] 166 1091 DS 10 power 1.00014e-06 mW select Mod 0
+MS[16] 839 1008 DS 6 power 1.2019e-06 mW select Mod 0
+MS[4] 696 909 DS 10 power 1.5768e-07 mW select Mod 0
+MS[5] 724 847 DS 10 power 7.87883e-07 mW select Mod 0
+MS[10] 325 1460 DS 2 power 4.02919e-07 mW select Mod 0
+MS[37] 130 1322 DS 1 power 3.91282e-08 mW select Mod 0
+MS[26] 1179 1398 DS 11 power 2.33091e-07 mW select Mod 0
+MS[36] 1155 1079 DS 11 power 2.27948e-07 mW select Mod 0
+MS[7] 624 1604 DS 7 power 2.74442e-08 mW select Mod 0
+MS[12] 627 1426 DS 12 power 8.28533e-09 mW select Mod 0
+
+
+MS[21] 176 481 DS 4 power 1.08124e-06 mW select Mod 1
+MS[24] 102 299 DS 5 power 2.27869e-07 mW select Mod 1
+MS[28] 307 179 DS 3 power 3.42717e-08 mW select Mod 1
+MS[32] 103 853 DS 4 power 3.7434e-07 mW select Mod 1
+MS[8] 960 685 DS 6 power 3.67291e-08 mW select Mod 1
+MS[41] 1035 403 DS 1 power 3.88531e-06 mW select Mod 1
+MS[44] 1181 654 DS 5 power 5.96561e-07 mW select Mod 1
+MS[3] 623 1077 DS 5 power 1.5103e-07 mW select Mod 1
+MS[6] 653 1084 DS 6 power 2.46744e-07 mW select Mod 1
+MS[18] 1031 907 DS 3 power 3.7168e-06 mW select Mod 1
+MS[31] 694 1702 DS 3 power 6.89272e-07 mW select Mod 1
+MS[0] 624 619 DS 1 power 9.27612e-06 mW select Mod 1
+MS[2] 652 595 DS 2 power 1.76237e-07 mW select Mod 1
+
+
+MS[15] 300 970 DS 1 power 7.54221e-06 mW select Mod 2
+MS[19] 1226 1182 DS 2 power 1.9589e-06 mW select Mod 2
+
+
+MS[20] 169 121 DS 3 power 2.09971e-06 mW select Mod 3
+MS[25] 905 159 DS 1 power 1.25286e-06 mW select Mod 3
+MS[30] 1050 72 DS 1 power 4.15501e-06 mW select Mod 3
+MS[38] 1012 33 DS 3 power 7.34329e-06 mW select Mod 3
+MS[17] 370 774 DS 3 power 1.93774e-06 mW select Mod 3
+MS[42] 1192 709 DS 1 power 5.13349e-06 mW select Mod 3
+MS[29] 43 1220 DS 2 power 6.41625e-06 mW select Mod 3
+MS[22] 1191 1259 DS 1 power 4.67749e-06 mW select Mod 3
+
+
+Macro BS Statistics
+Power from BS 0: 500.000005
+DS from BS 0: 45
+Bandwidth from BS 0: 49.510000
+MSs served by BS 0: 9
+Spectrum efficiency: 11.120250
+Spectrum-energy efficiency: 0.022240
+
+Power from BS 1: 500.000013
+DS from BS 1: 19
+Bandwidth from BS 1: 24.590000
+MSs served by BS 1: 5
+Spectrum efficiency: 9.118000
+Spectrum-energy efficiency: 0.018236
+
+Power from BS 2: 8.000000
+DS from BS 2: 0
+Bandwidth from BS 2: 0.000000
+MSs served by BS 2: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 3: 500.000012
+DS from BS 3: 52
+Bandwidth from BS 3: 49.120000
+MSs served by BS 3: 8
+Spectrum efficiency: 8.373061
+Spectrum-energy efficiency: 0.016746
+
+Power from BS 4: 500.000011
+DS from BS 4: 19
+Bandwidth from BS 4: 22.330000
+MSs served by BS 4: 5
+Spectrum efficiency: 4.700000
+Spectrum-energy efficiency: 0.009400
+
+Power from BS 5: 500.000001
+DS from BS 5: 31
+Bandwidth from BS 5: 32.700000
+MSs served by BS 5: 4
+Spectrum efficiency: 4.658667
+Spectrum-energy efficiency: 0.009317
+
+Power from BS 6: 500.000014
+DS from BS 6: 6
+Bandwidth from BS 6: 7.580000
+MSs served by BS 6: 4
+Spectrum efficiency: 4.910000
+Spectrum-energy efficiency: 0.009820
+
+Power from BS 7: 500.000011
+DS from BS 7: 28
+Bandwidth from BS 7: 29.050000
+MSs served by BS 7: 5
+Spectrum efficiency: 8.169394
+Spectrum-energy efficiency: 0.016339
+
+Power from BS 8: 500.000001
+DS from BS 8: 22
+Bandwidth from BS 8: 19.130000
+MSs served by BS 8: 3
+Spectrum efficiency: 2.849405
+Spectrum-energy efficiency: 0.005699
+
+Micro BS Statistics
+Power from BS 9: 0.002800
+DS from BS 9: 0
+Bandwidth from BS 9: 0.000000
+MSs served by BS 9: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 10: 0.002800
+DS from BS 10: 0
+Bandwidth from BS 10: 0.000000
+MSs served by BS 10: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 11: 0.002800
+DS from BS 11: 0
+Bandwidth from BS 11: 0.000000
+MSs served by BS 11: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 12: 5.000009
+DS from BS 12: 3
+Bandwidth from BS 12: 3.520000
+MSs served by BS 12: 2
+Spectrum efficiency: 1.865000
+Spectrum-energy efficiency: 0.372999
+
+Power from BS 13: 0.002800
+DS from BS 13: 0
+Bandwidth from BS 13: 0.000000
+MSs served by BS 13: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 14: 0.002800
+DS from BS 14: 0
+Bandwidth from BS 14: 0.000000
+MSs served by BS 14: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 15: 0.002800
+DS from BS 15: 0
+Bandwidth from BS 15: 0.000000
+MSs served by BS 15: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 16: 0.002800
+DS from BS 16: 0
+Bandwidth from BS 16: 0.000000
+MSs served by BS 16: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 17: 0.002800
+DS from BS 17: 0
+Bandwidth from BS 17: 0.000000
+MSs served by BS 17: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 18: 0.002800
+DS from BS 18: 0
+Bandwidth from BS 18: 0.000000
+MSs served by BS 18: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 19: 0.002800
+DS from BS 19: 0
+Bandwidth from BS 19: 0.000000
+MSs served by BS 19: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 20: 0.002800
+DS from BS 20: 0
+Bandwidth from BS 20: 0.000000
+MSs served by BS 20: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 21: 0.002800
+DS from BS 21: 0
+Bandwidth from BS 21: 0.000000
+MSs served by BS 21: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 22: 0.002800
+DS from BS 22: 0
+Bandwidth from BS 22: 0.000000
+MSs served by BS 22: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 23: 0.002800
+DS from BS 23: 0
+Bandwidth from BS 23: 0.000000
+MSs served by BS 23: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 24: 0.002800
+DS from BS 24: 0
+Bandwidth from BS 24: 0.000000
+MSs served by BS 24: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 25: 0.002800
+DS from BS 25: 0
+Bandwidth from BS 25: 0.000000
+MSs served by BS 25: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 26: 0.002800
+DS from BS 26: 0
+Bandwidth from BS 26: 0.000000
+MSs served by BS 26: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 27: 0.002800
+DS from BS 27: 0
+Bandwidth from BS 27: 0.000000
+MSs served by BS 27: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 28: 0.002800
+DS from BS 28: 0
+Bandwidth from BS 28: 0.000000
+MSs served by BS 28: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 29: 0.002800
+DS from BS 29: 0
+Bandwidth from BS 29: 0.000000
+MSs served by BS 29: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 30: 0.002800
+DS from BS 30: 0
+Bandwidth from BS 30: 0.000000
+MSs served by BS 30: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 31: 0.002800
+DS from BS 31: 0
+Bandwidth from BS 31: 0.000000
+MSs served by BS 31: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 32: 0.002800
+DS from BS 32: 0
+Bandwidth from BS 32: 0.000000
+MSs served by BS 32: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 33: 0.002800
+DS from BS 33: 0
+Bandwidth from BS 33: 0.000000
+MSs served by BS 33: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 34: 0.002800
+DS from BS 34: 0
+Bandwidth from BS 34: 0.000000
+MSs served by BS 34: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 35: 0.002800
+DS from BS 35: 0
+Bandwidth from BS 35: 0.000000
+MSs served by BS 35: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 36: 0.002800
+DS from BS 36: 0
+Bandwidth from BS 36: 0.000000
+MSs served by BS 36: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 37: 0.002800
+DS from BS 37: 0
+Bandwidth from BS 37: 0.000000
+MSs served by BS 37: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 38: 0.002800
+DS from BS 38: 0
+Bandwidth from BS 38: 0.000000
+MSs served by BS 38: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 39: 0.002800
+DS from BS 39: 0
+Bandwidth from BS 39: 0.000000
+MSs served by BS 39: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 40: 0.002800
+DS from BS 40: 0
+Bandwidth from BS 40: 0.000000
+MSs served by BS 40: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 41: 0.002800
+DS from BS 41: 0
+Bandwidth from BS 41: 0.000000
+MSs served by BS 41: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Power from BS 42: 0.002800
+DS from BS 42: 0
+Bandwidth from BS 42: 0.000000
+MSs served by BS 42: 0
+Spectrum efficiency: 0.000000
+Spectrum-energy efficiency: 0.000000
+
+Transmit Power: 7.83283e-05
+Total Power 4013.092478
+Total DSs: 225
+Total served MSs: 45
+Total Bandwidth: 237.530000
+Objective Value: 0.000263
+New Objective Value: 0.013895

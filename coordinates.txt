@@ -1,0 +1,49 @@
+#BS38MS3BP0.075
+MS[0] 124 36
+MS[1] 68 89
+MS[2] 73 99
+
+
+"Macro-0" 23 101 15 21
+"Macro-1" 11 94 15 21
+"Macro-2" 5 80 15 21
+"Macro-3" 14 52 15 21
+"Macro-4" 13 33 15 21
+"Macro-5" 25 78 15 21
+"Macro-6" 41 65 15 21
+"Macro-7" 46 86 15 21
+"Macro-8" 48 25 15 21
+"Macro-9" 52 49 15 21
+"Macro-10" 54 15 15 21
+"Macro-11" 60 114 15 21
+"Macro-12" 64 79 15 21
+"Macro-13" 73 45 15 21
+"Macro-14" 75 11 15 21
+"Macro-15" 80 111 15 21
+"Macro-16" 79 68 15 21
+"Macro-17" 94 39 15 21
+"Macro-18" 96 103 15 21
+"Macro-19" 103 3 15 21
+"Macro-20" 108 56 15 21
+"Macro-21" 120 12 15 21
+"Macro-22" 127 68 15 21
+"Macro-23" 129 31 15 21
+"Macro-24" 137 95 15 21
+"Macro-25" 140 48 15 21
+"Macro-26" 146 81 15 21
+"Macro-27" 146 64 15 21
+
+
+"Femto-0" 27 53 1 6
+"Femto-1" 29 74 1 6
+"Femto-2" 59 48 1 6
+"Femto-3" 70 93 1 6
+"Femto-4" 66 35 1 6
+"Femto-5" 78 83 1 6
+"Femto-6" 79 56 1 6
+"Femto-7" 105 29 1 6
+"Femto-8" 106 77 1 6
+"Femto-9" 125 68 1 6
+
+
+plot "coordinates.txt" index 1:1 using 2:3 title "Macros" with points, "coordinates.txt" index 2:2 using 2:3 title "Femtos" with points, "coordinates.txt" index 1:1 using 2:3:4 title "Macros" with circles, "coordinates.txt" index 2:2 using 2:3:4 title "Femtos" with circles, "coordinates.txt" index 0:0 using 2:3 title "UEs" with points

@@ -1,0 +1,184 @@
+
+#This file is meant to display the regular system.
+#BS38MS3BP0.075
+ "BS[0]" 23 101 15
+ "BS[1]" 11 94 15
+ "BS[2]" 5 80 15
+ "BS[3]" 14 52 15
+ "BS[4]" 13 33 15
+ "BS[5]" 25 78 15
+ "BS[6]" 41 65 15
+ "BS[7]" 46 86 15
+ "BS[8]" 48 25 15
+ "BS[9]" 52 49 15
+ "BS[10]" 54 15 15
+ "BS[11]" 60 114 15
+ "BS[12]" 64 79 15
+ "BS[13]" 73 45 15
+ "BS[14]" 75 11 15
+ "BS[15]" 80 111 15
+ "BS[16]" 79 68 15
+ "BS[17]" 94 39 15
+ "BS[18]" 96 103 15
+ "BS[19]" 103 3 15
+ "BS[20]" 108 56 15
+ "BS[21]" 120 12 15
+ "BS[22]" 127 68 15
+ "BS[23]" 129 31 15
+ "BS[24]" 137 95 15
+ "BS[25]" 140 48 15
+ "BS[26]" 146 81 15
+ "BS[27]" 146 64 15
+
+
+ "BS[28]" 27 53 1
+ "BS[29]" 29 74 1
+ "BS[30]" 59 48 1
+ "BS[31]" 70 93 1
+ "BS[32]" 66 35 1
+ "BS[33]" 78 83 1
+ "BS[34]" 79 56 1
+ "BS[35]" 105 29 1
+ "BS[36]" 106 77 1
+ "BS[37]" 125 68 1
+
+
+
+
+BS[0] 23 101 BS[0] 23 101
+
+
+BS[1] 11 94 BS[1] 11 94
+
+
+BS[2] 5 80 BS[2] 5 80
+
+
+BS[3] 14 52 BS[3] 14 52
+
+
+BS[4] 13 33 BS[4] 13 33
+
+
+BS[5] 25 78 BS[5] 25 78
+
+
+BS[6] 41 65 BS[6] 41 65
+
+
+BS[7] 46 86 BS[7] 46 86
+
+
+BS[8] 48 25 BS[8] 48 25
+
+
+BS[9] 52 49 BS[9] 52 49
+
+
+BS[10] 54 15 BS[10] 54 15
+
+
+BS[11] 60 114 BS[11] 60 114
+
+
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[1] 68 89 DS 6 power 0.000000 mW BR 6.645000 with modulation 1
+
+
+BS[13] 73 45 BS[13] 73 45
+
+
+BS[14] 75 11 BS[14] 75 11
+
+
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[2] 73 99 DS 13 power 0.000000 mW BR 14.235000 with modulation 1
+
+
+BS[16] 79 68 BS[16] 79 68
+
+
+BS[17] 94 39 BS[17] 94 39
+
+
+BS[18] 96 103 BS[18] 96 103
+
+
+BS[19] 103 3 BS[19] 103 3
+
+
+BS[20] 108 56 BS[20] 108 56
+
+
+BS[21] 120 12 BS[21] 120 12
+
+
+BS[22] 127 68 BS[22] 127 68
+
+
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[0] 124 36 DS 9 power 0.000000 mW BR 14.490000 with modulation 2
+
+
+BS[24] 137 95 BS[24] 137 95
+
+
+BS[25] 140 48 BS[25] 140 48
+
+
+BS[26] 146 81 BS[26] 146 81
+
+
+BS[27] 146 64 BS[27] 146 64
+
+
+BS[28] 27 53 BS[28] 27 53
+
+
+BS[29] 29 74 BS[29] 29 74
+
+
+BS[30] 59 48 BS[30] 59 48
+
+
+BS[31] 70 93 BS[31] 70 93
+
+
+BS[32] 66 35 BS[32] 66 35
+
+
+BS[33] 78 83 BS[33] 78 83
+
+
+BS[34] 79 56 BS[34] 79 56
+
+
+BS[35] 105 29 BS[35] 105 29
+
+
+BS[36] 106 77 BS[36] 106 77
+
+
+BS[37] 125 68 BS[37] 125 68
+
+
+
+
+MS[1] 68 89 DS 6 BR 6.645000 with modulation 1
+MS[2] 73 99 DS 13 BR 14.235000 with modulation 1
+
+
+MS[0] 124 36 DS 9 BR 14.490000 with modulation 2
+
+
+Total Power 3688.000000
+Total DSs: 28
+Total BR: 35.370000
+Small Cell Connection Count: 0
+Spectrum-energy Efficiency: 0.001034
+
+
+ plot "coordinates.txt" index 0:0 using 2:3 title "users" with points, "FixedCellSize.txt" index 0:0 using 2:3:1 notitle with labels, "FixedCellSize.txt" index 0:0 using 2:3:4 title "Macro Cell" with circles, "FixedCellSize.txt" index 1:1 using 2:3:1 notitle with labels, "FixedCellSize.txt" index 1:1 using 2:3:4 title "micro cell" with circles, "FixedCellSize.txt" index 2:2 using 5:6 title "BS[0]" with lines, "FixedCellSize.txt" index 3:3 using 5:6 title "BS[1]" with lines, "FixedCellSize.txt" index 4:4 using 5:6 title "BS[2]" with lines, "FixedCellSize.txt" index 5:5 using 5:6 title "BS[3]" with lines, "FixedCellSize.txt" index 6:6 using 5:6 title "BS[4]" with lines, "FixedCellSize.txt" index 7:7 using 5:6 title "BS[5]" with lines, "FixedCellSize.txt" index 8:8 using 5:6 title "BS[6]" with lines, "FixedCellSize.txt" index 9:9 using 5:6 title "BS[7]" with lines, "FixedCellSize.txt" index 10:10 using 5:6 title "BS[8]" with lines, "FixedCellSize.txt" index 11:11 using 5:6 title "BS[9]" with lines, "FixedCellSize.txt" index 12:12 using 5:6 title "BS[10]" with lines, "FixedCellSize.txt" index 13:13 using 5:6 title "BS[11]" with lines, "FixedCellSize.txt" index 14:14 using 5:6 title "BS[12]" with lines, "FixedCellSize.txt" index 15:15 using 5:6 title "BS[13]" with lines, "FixedCellSize.txt" index 16:16 using 5:6 title "BS[14]" with lines, "FixedCellSize.txt" index 17:17 using 5:6 title "BS[15]" with lines, "FixedCellSize.txt" index 18:18 using 5:6 title "BS[16]" with lines, "FixedCellSize.txt" index 19:19 using 5:6 title "BS[17]" with lines, "FixedCellSize.txt" index 20:20 using 5:6 title "BS[18]" with lines, "FixedCellSize.txt" index 21:21 using 5:6 title "BS[19]" with lines, "FixedCellSize.txt" index 22:22 using 5:6 title "BS[20]" with lines, "FixedCellSize.txt" index 23:23 using 5:6 title "BS[21]" with lines, "FixedCellSize.txt" index 24:24 using 5:6 title "BS[22]" with lines, "FixedCellSize.txt" index 25:25 using 5:6 title "BS[23]" with lines, "FixedCellSize.txt" index 26:26 using 5:6 title "BS[24]" with lines, "FixedCellSize.txt" index 27:27 using 5:6 title "BS[25]" with lines, "FixedCellSize.txt" index 28:28 using 5:6 title "BS[26]" with lines, "FixedCellSize.txt" index 29:29 using 5:6 title "BS[27]" with lines, "FixedCellSize.txt" index 30:30 using 5:6 title "BS[28]" with lines, "FixedCellSize.txt" index 31:31 using 5:6 title "BS[29]" with lines, "FixedCellSize.txt" index 32:32 using 5:6 title "BS[30]" with lines, "FixedCellSize.txt" index 33:33 using 5:6 title "BS[31]" with lines, "FixedCellSize.txt" index 34:34 using 5:6 title "BS[32]" with lines, "FixedCellSize.txt" index 35:35 using 5:6 title "BS[33]" with lines, "FixedCellSize.txt" index 36:36 using 5:6 title "BS[34]" with lines, "FixedCellSize.txt" index 37:37 using 5:6 title "BS[35]" with lines, "FixedCellSize.txt" index 38:38 using 5:6 title "BS[36]" with lines, "FixedCellSize.txt" index 39:39 using 5:6 title "BS[37]" with lines, "FixedCellSize.txt" index 40:40 using 2:3 title "Modulation0" with points, "FixedCellSize.txt" index 41:41 using 2:3 title "Modulation1" with points, "FixedCellSize.txt" index 42:42 using 2:3 title "Modulation2" with points

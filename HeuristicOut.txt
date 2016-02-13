@@ -1,0 +1,106 @@
+#BS10MS24BP0.14
+ "BS[1]" 1000 250 0
+ "BS[2]" 625 500 688.681
+ "BS[3]" 250 750 0
+ "BS[4]" 1000 750 0
+ "BS[5]" 382 535 0
+ "BS[6]" 480 568 0
+ "BS[7]" 488 518 0
+ "BS[8]" 865 617 0
+ "BS[9]" 873 439 0
+ "BS[10]" 6463488 0 0
+
+
+
+
+BS[1] 1000 250 BS[1] 1000 250
+
+
+
+
+BS[2] 625 500 BS[2] 625 500
+BS[2] 625 500 BS[2] 625 500
+BS[2] 625 500 MS[1] 847 414 DS 195 power 1.12023e-05 mW
+BS[2] 625 500 BS[2] 625 500
+BS[2] 625 500 MS[2] 780 556 DS 130 power 3.70942e-05 mW
+BS[2] 625 500 BS[2] 625 500
+BS[2] 625 500 MS[3] 455 545 DS 98 power 5.61443e-05 mW
+BS[2] 625 500 BS[2] 625 500
+BS[2] 625 500 MS[4] 807 586 DS 65 power 0.000158236 mW
+BS[2] 625 500 BS[2] 625 500
+BS[2] 625 500 MS[6] 521 488 DS 44 power 4.53351e-06 mW
+BS[2] 625 500 BS[2] 625 500
+BS[2] 625 500 MS[7] 410 500 DS 385 power 9.04555e-06 mW
+BS[2] 625 500 BS[2] 625 500
+BS[2] 625 500 MS[8] 375 698 DS 193 power 1.3691e-05 mW
+BS[2] 625 500 BS[2] 625 500
+BS[2] 625 500 MS[9] 375 673 DS 129 power 4.53351e-05 mW
+BS[2] 625 500 BS[2] 625 500
+BS[2] 625 500 MS[10] 875 328 DS 97 power 6.86175e-05 mW
+BS[2] 625 500 BS[2] 625 500
+BS[2] 625 500 MS[11] 875 673 DS 65 power 0.00019339 mW
+BS[2] 625 500 BS[2] 625 500
+BS[2] 625 500 MS[13] 375 690 DS 43 power 3.76085e-06 mW
+BS[2] 625 500 BS[2] 625 500
+BS[2] 625 500 MS[14] 375 663 DS 180 power 7.50389e-06 mW
+BS[2] 625 500 BS[2] 625 500
+BS[2] 625 500 MS[15] 328 50 DS 90 power 1.13576e-05 mW
+BS[2] 625 500 BS[2] 625 500
+BS[2] 625 500 MS[16] 1209 135 DS 60 power 3.76085e-05 mW
+BS[2] 625 500 BS[2] 625 500
+BS[2] 625 500 MS[17] 371 71 DS 45 power 5.69228e-05 mW
+BS[2] 625 500 BS[2] 625 500
+BS[2] 625 500 MS[18] 243 895 DS 30 power 0.00016043 mW
+BS[2] 625 500 BS[2] 625 500
+BS[2] 625 500 MS[20] 122 925 DS 20 power 1.31908e-05 mW
+BS[2] 625 500 BS[2] 625 500
+BS[2] 625 500 MS[21] 1151 836 DS 622 power 2.63191e-05 mW
+BS[2] 625 500 BS[2] 625 500
+BS[2] 625 500 MS[22] 1070 912 DS 311 power 3.98356e-05 mW
+BS[2] 625 500 BS[2] 625 500
+BS[2] 625 500 MS[23] 272 241 DS 208 power 0.000131908 mW
+BS[2] 625 500 BS[2] 625 500
+BS[2] 625 500 MS[24] 559 858993459 DS 156 power 0.000199651 mW
+
+
+
+
+BS[3] 250 750 BS[3] 250 750
+
+
+
+
+BS[4] 1000 750 BS[4] 1000 750
+
+
+
+
+BS[5] 382 535 BS[5] 382 535
+
+
+
+
+BS[6] 480 568 BS[6] 480 568
+
+
+
+
+BS[7] 488 518 BS[7] 488 518
+
+
+
+
+BS[8] 865 617 BS[8] 865 617
+
+
+
+
+BS[9] 873 439 BS[9] 873 439
+
+
+
+
+BS[10] 6463488 0 BS[10] 6463488 0
+
+
+ plot "HeuristicOut.txt" index 0:0 using 2:3:1 notitle with labels, "HeuristicOut.txt" index 0:0 using 2:3:4 title "cell size" with circles, "coordinates.txt" index 0:0 using 6:7 title "users" with points, "HeuristicOut.txt" index 1:1 using 5:6 title "BS[1]" with lines, "HeuristicOut.txt" index 2:2 using 5:6 title "BS[2]" with lines, "HeuristicOut.txt" index 3:3 using 5:6 title "BS[3]" with lines, "HeuristicOut.txt" index 4:4 using 5:6 title "BS[4]" with lines, "HeuristicOut.txt" index 5:5 using 5:6 title "BS[5]" with lines, "HeuristicOut.txt" index 6:6 using 5:6 title "BS[6]" with lines, "HeuristicOut.txt" index 7:7 using 5:6 title "BS[7]" with lines, "HeuristicOut.txt" index 8:8 using 5:6 title "BS[8]" with lines, "HeuristicOut.txt" index 9:9 using 5:6 title "BS[9]" with lines, "HeuristicOut.txt" index 10:10 using 5:6 title "BS[10]" with lines

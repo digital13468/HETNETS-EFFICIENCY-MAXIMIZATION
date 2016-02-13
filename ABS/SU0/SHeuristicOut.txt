@@ -1,0 +1,1322 @@
+#BS38MS360BP0NU0.000000
+ "BS[0]" 23 101 18.6815
+ "BS[1]" 11 94 0
+ "BS[2]" 5 80 20.025
+ "BS[3]" 14 52 14
+ "BS[4]" 13 33 20.2237
+ "BS[5]" 25 78 20.3961
+ "BS[6]" 41 65 0
+ "BS[7]" 46 86 11.0454
+ "BS[8]" 48 25 12.6491
+ "BS[9]" 52 49 19.3132
+ "BS[10]" 54 15 20.2485
+ "BS[11]" 60 114 14.8661
+ "BS[12]" 64 79 20.8087
+ "BS[13]" 73 45 12.3693
+ "BS[14]" 75 11 13.8924
+ "BS[15]" 80 111 20.8806
+ "BS[16]" 79 68 14.3178
+ "BS[17]" 94 39 20.2237
+ "BS[18]" 96 103 14.3178
+ "BS[19]" 103 3 20
+ "BS[20]" 108 56 10.2956
+ "BS[21]" 120 12 0
+ "BS[22]" 127 68 20.0998
+ "BS[23]" 129 31 20.3961
+ "BS[24]" 137 95 14.8661
+ "BS[25]" 140 48 18.7883
+ "BS[26]" 146 81 0
+ "BS[27]" 146 64 0
+
+
+ "BS[28]" 27 53 0
+ "BS[29]" 29 74 0
+ "BS[30]" 59 48 0
+ "BS[31]" 70 93 0
+ "BS[32]" 66 35 0
+ "BS[33]" 78 83 0
+ "BS[34]" 79 56 0
+ "BS[35]" 105 29 0
+ "BS[36]" 106 77 0
+ "BS[37]" 125 68 0
+
+
+
+
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[71] 34 108 DS 3 power 1.1022e-09 mW select Mod 2
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[72] 5 96 DS 12 power 2.8077e-09 mW select Mod 2
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[125] 28 99 DS 9 power 1.1061e-10 mW select Mod 2
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[169] 14 105 DS 3 power 2.66368e-10 mW select Mod 1
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[194] 31 113 DS 16 power 1.43272e-09 mW select Mod 2
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[201] 33 112 DS 9 power 1.5502e-09 mW select Mod 2
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[203] 7 94 DS 13 power 2.3565e-09 mW select Mod 2
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[223] 14 102 DS 13 power 4.27205e-10 mW select Mod 2
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[244] 38 96 DS 4 power 1.8197e-09 mW select Mod 2
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[290] 19 114 DS 18 power 1.23027e-09 mW select Mod 2
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[316] 22 103 DS 7 power 1.12548e-11 mW select Mod 2
+
+
+
+
+BS[1] 11 94 BS[1] 11 94
+
+
+
+
+BS[2] 5 80 BS[2] 5 80
+BS[2] 5 80 BS[2] 5 80
+BS[2] 5 80 MS[5] 4 66 DS 9 power 1.33501e-09 mW select Mod 2
+BS[2] 5 80 BS[2] 5 80
+BS[2] 5 80 MS[73] 1 70 DS 4 power 6.70615e-10 mW select Mod 2
+BS[2] 5 80 BS[2] 5 80
+BS[2] 5 80 MS[90] 2 88 DS 12 power 3.6728e-10 mW select Mod 2
+BS[2] 5 80 BS[2] 5 80
+BS[2] 5 80 MS[266] 6 60 DS 16 power 3.3633e-09 mW select Mod 2
+BS[2] 5 80 BS[2] 5 80
+BS[2] 5 80 MS[340] 4 88 DS 10 power 3.15839e-10 mW select Mod 2
+
+
+
+
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[101] 3 54 DS 15 power 7.39028e-10 mW select Mod 2
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[333] 0 52 DS 18 power 1.32621e-09 mW select Mod 2
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[359] 15 55 DS 7 power 2.77126e-11 mW select Mod 2
+
+
+
+
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[12] 25 48 DS 13 power 3.01865e-09 mW select Mod 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[47] 15 22 DS 1 power 3.70391e-10 mW select Mod 1
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[55] 10 35 DS 15 power 3.89766e-11 mW select Mod 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[80] 19 25 DS 10 power 5.5294e-10 mW select Mod 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[102] 20 37 DS 12 power 3.15839e-10 mW select Mod 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[132] 11 28 DS 18 power 1.1061e-10 mW select Mod 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[149] 4 29 DS 9 power 5.31473e-10 mW select Mod 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[150] 27 31 DS 10 power 1.3615e-09 mW select Mod 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[164] 5 35 DS 9 power 3.34919e-10 mW select Mod 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[187] 20 38 DS 1 power 3.73834e-10 mW select Mod 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[191] 16 53 DS 7 power 3.45079e-09 mW select Mod 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[192] 21 41 DS 4 power 7.62168e-10 mW select Mod 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[217] 9 48 DS 12 power 1.735e-09 mW select Mod 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[219] 11 24 DS 4 power 4.47634e-10 mW select Mod 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[234] 24 48 DS 4 power 2.77637e-09 mW select Mod 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[235] 19 50 DS 13 power 2.55933e-09 mW select Mod 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[259] 17 21 DS 16 power 1.01867e-09 mW select Mod 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[345] 22 44 DS 13 power 1.37922e-09 mW select Mod 2
+
+
+
+
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[21] 31 60 DS 4 power 2.92329e-09 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[30] 32 84 DS 6 power 4.47634e-10 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[60] 24 70 DS 7 power 3.15839e-10 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[70] 34 82 DS 10 power 5.31473e-10 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[82] 39 67 DS 6 power 2.47774e-09 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[88] 24 93 DS 18 power 1.59595e-09 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[91] 25 92 DS 6 power 1.32621e-09 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[104] 31 95 DS 1 power 1.2827e-09 mW select Mod 1
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[105] 37 84 DS 1 power 1.18722e-09 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[124] 21 58 DS 7 power 3.52776e-09 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[129] 31 80 DS 6 power 1.68018e-10 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[133] 29 92 DS 3 power 7.36062e-10 mW select Mod 1
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[139] 20 87 DS 6 power 5.96452e-10 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[151] 27 68 DS 7 power 5.81864e-10 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[152] 14 73 DS 12 power 9.0435e-10 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[173] 9 69 DS 7 power 2.68285e-09 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[190] 42 70 DS 7 power 2.84961e-09 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[236] 25 59 DS 3 power 2.93385e-09 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[237] 23 58 DS 18 power 3.39605e-09 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[254] 13 72 DS 10 power 1.18722e-09 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[258] 25 95 DS 6 power 2.19708e-09 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[274] 12 77 DS 16 power 1.1022e-09 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[287] 40 86 DS 1 power 1.10115e-09 mW select Mod 1
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[307] 32 77 DS 7 power 2.24563e-10 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[321] 41 79 DS 12 power 1.88621e-09 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[323] 16 70 DS 4 power 8.96306e-10 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[339] 15 89 DS 1 power 7.76941e-10 mW select Mod 1
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[343] 24 60 DS 7 power 2.55933e-09 mW select Mod 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[356] 8 89 DS 10 power 3.46176e-09 mW select Mod 2
+
+
+
+
+BS[6] 41 65 BS[6] 41 65
+
+
+
+
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[15] 45 91 DS 7 power 9.59717e-11 mW select Mod 2
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[17] 49 94 DS 13 power 3.6728e-10 mW select Mod 2
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[276] 45 97 DS 9 power 7.16054e-10 mW select Mod 2
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[331] 47 94 DS 10 power 3.15839e-10 mW select Mod 2
+
+
+
+
+BS[8] 48 25 BS[8] 48 25
+BS[8] 48 25 BS[8] 48 25
+BS[8] 48 25 MS[7] 36 29 DS 9 power 1.01867e-09 mW select Mod 2
+
+
+
+
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[13] 40 58 DS 9 power 1.58677e-09 mW select Mod 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[39] 70 42 DS 4 power 3.06125e-09 mW select Mod 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[44] 51 49 DS 6 power 1.38892e-12 mW select Mod 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[52] 68 42 DS 10 power 2.3565e-09 mW select Mod 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[58] 51 47 DS 9 power 1.12548e-11 mW select Mod 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[61] 61 43 DS 10 power 6.7814e-10 mW select Mod 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[74] 49 61 DS 9 power 9.61118e-10 mW select Mod 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[76] 62 52 DS 9 power 6.1849e-10 mW select Mod 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[79] 47 64 DS 1 power 2.29087e-10 mW select Mod 0
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[97] 60 38 DS 12 power 1.23027e-09 mW select Mod 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[138] 65 46 DS 1 power 1.1701e-09 mW select Mod 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[147] 42 35 DS 9 power 2.26651e-09 mW select Mod 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[155] 41 45 DS 15 power 8.32558e-10 mW select Mod 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[161] 65 37 DS 6 power 2.43717e-09 mW select Mod 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[163] 58 58 DS 9 power 6.7814e-10 mW select Mod 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[175] 57 37 DS 6 power 1.09378e-09 mW select Mod 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[185] 38 36 DS 12 power 2.97618e-09 mW select Mod 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[193] 47 41 DS 10 power 4.75209e-10 mW select Mod 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[207] 43 45 DS 9 power 5.31473e-10 mW select Mod 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[281] 63 40 DS 4 power 1.37922e-09 mW select Mod 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[309] 63 45 DS 9 power 8.32558e-10 mW select Mod 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[318] 53 60 DS 7 power 7.16054e-10 mW select Mod 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[342] 64 37 DS 7 power 2.1872e-09 mW select Mod 2
+
+
+
+
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[0] 62 17 DS 16 power 3.34919e-10 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[8] 67 9 DS 18 power 1.40591e-09 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[10] 42 17 DS 9 power 9.20488e-10 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[25] 56 30 DS 16 power 1.62354e-09 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[29] 63 18 DS 4 power 4.82162e-10 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[32] 39 14 DS 15 power 1.59595e-09 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[33] 57 17 DS 18 power 3.89766e-11 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[35] 46 26 DS 7 power 1.23027e-09 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[37] 45 31 DS 18 power 2.68285e-09 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[38] 71 23 DS 12 power 2.84961e-09 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[49] 53 32 DS 6 power 2.20696e-09 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[54] 53 35 DS 15 power 3.3633e-09 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[56] 51 2 DS 7 power 1.1701e-09 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[92] 57 18 DS 9 power 5.95021e-11 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[103] 53 7 DS 15 power 3.15839e-10 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[117] 54 28 DS 4 power 1.09378e-09 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[127] 66 6 DS 1 power 1.99763e-10 mW select Mod 0
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[134] 56 24 DS 3 power 4.47634e-10 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[145] 44 12 DS 7 power 6.1849e-10 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[156] 50 17 DS 7 power 6.82365e-11 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[172] 61 4 DS 1 power 1.1022e-09 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[186] 70 6 DS 4 power 2.68285e-09 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[188] 66 9 DS 1 power 1.18722e-09 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[197] 49 32 DS 13 power 2.4473e-09 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[202] 47 2 DS 12 power 1.5229e-09 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[253] 48 9 DS 18 power 3.60753e-10 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[255] 71 25 DS 12 power 3.23305e-09 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[262] 57 19 DS 7 power 9.12011e-11 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[283] 55 17 DS 10 power 1.12548e-11 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[295] 73 15 DS 12 power 2.93385e-09 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[301] 42 6 DS 1 power 1.99763e-10 mW select Mod 0
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[302] 40 16 DS 4 power 1.33501e-09 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[310] 46 18 DS 1 power 1.84076e-10 mW select Mod 1
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[317] 62 26 DS 7 power 1.23027e-09 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[326] 41 12 DS 12 power 1.1701e-09 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[328] 37 26 DS 16 power 3.46176e-09 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[329] 56 27 DS 7 power 9.20488e-10 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[332] 39 15 DS 3 power 1.58677e-09 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[344] 45 6 DS 4 power 1.03526e-09 mW select Mod 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[347] 64 25 DS 7 power 1.3615e-09 mW select Mod 2
+
+
+
+
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[9] 52 126 DS 1 power 1.43272e-09 mW select Mod 2
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[14] 55 121 DS 10 power 3.73834e-10 mW select Mod 2
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[121] 59 123 DS 3 power 4.27205e-10 mW select Mod 2
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[135] 51 104 DS 15 power 1.1958e-09 mW select Mod 2
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[165] 53 110 DS 6 power 3.15839e-10 mW select Mod 2
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[215] 56 123 DS 9 power 5.31473e-10 mW select Mod 2
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[246] 50 123 DS 1 power 5.99322e-10 mW select Mod 1
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[263] 57 102 DS 4 power 9.61118e-10 mW select Mod 2
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[265] 53 121 DS 10 power 5.38607e-10 mW select Mod 2
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[268] 52 105 DS 6 power 8.96306e-10 mW select Mod 2
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[293] 49 112 DS 9 power 7.39028e-10 mW select Mod 2
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[297] 49 124 DS 13 power 1.5502e-09 mW select Mod 2
+
+
+
+
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[22] 63 71 DS 4 power 3.15839e-10 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[27] 60 67 DS 16 power 1.01867e-09 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[31] 69 92 DS 15 power 1.30864e-09 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[41] 57 74 DS 16 power 3.73834e-10 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[45] 81 69 DS 4 power 3.23305e-09 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[62] 65 76 DS 1 power 2.77126e-11 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[63] 65 77 DS 4 power 1.12548e-11 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[66] 64 82 DS 7 power 2.41654e-11 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[84] 51 92 DS 18 power 2.69321e-09 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[87] 74 90 DS 6 power 1.5502e-09 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[96] 61 87 DS 12 power 3.6728e-10 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[110] 58 91 DS 6 power 1.18722e-09 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[119] 77 67 DS 6 power 2.43717e-09 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[157] 53 64 DS 9 power 2.77637e-09 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[167] 82 76 DS 7 power 2.64153e-09 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[176] 72 82 DS 13 power 3.6728e-10 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[206] 56 84 DS 15 power 4.75209e-10 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[209] 53 91 DS 9 power 1.9629e-09 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[214] 80 74 DS 10 power 2.11834e-09 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[224] 58 94 DS 1 power 2.42276e-10 mW select Mod 0
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[226] 76 86 DS 3 power 1.29988e-09 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[227] 66 89 DS 15 power 5.81864e-10 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[228] 74 87 DS 1 power 5.272e-10 mW select Mod 1
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[229] 65 86 DS 13 power 2.24563e-10 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[252] 80 70 DS 12 power 2.68285e-09 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[267] 47 67 DS 15 power 3.71631e-09 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[289] 53 90 DS 7 power 1.74437e-09 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[291] 56 78 DS 10 power 3.15839e-10 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[305] 77 85 DS 13 power 1.40591e-09 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[335] 72 85 DS 12 power 5.5294e-10 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[336] 60 70 DS 13 power 5.31473e-10 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[341] 63 89 DS 15 power 5.60139e-10 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[346] 54 95 DS 7 power 2.88113e-09 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[352] 46 89 DS 1 power 4.55254e-10 mW select Mod 0
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[353] 78 70 DS 6 power 2.07923e-09 mW select Mod 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[355] 74 79 DS 18 power 5.5294e-10 mW select Mod 2
+
+
+
+
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[51] 70 33 DS 6 power 9.61118e-10 mW select Mod 2
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[144] 73 35 DS 7 power 5.5294e-10 mW select Mod 2
+
+
+
+
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[6] 82 1 DS 16 power 9.28582e-10 mW select Mod 2
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[128] 80 23 DS 3 power 5.48189e-10 mW select Mod 1
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[131] 87 18 DS 6 power 1.29988e-09 mW select Mod 2
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[174] 77 17 DS 9 power 1.68018e-10 mW select Mod 2
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[182] 77 4 DS 4 power 2.42235e-10 mW select Mod 2
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[225] 78 17 DS 6 power 1.95819e-10 mW select Mod 2
+
+
+
+
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[16] 83 119 DS 18 power 3.6728e-10 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[24] 60 105 DS 6 power 3.74982e-09 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[42] 80 114 DS 16 power 2.41654e-11 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[59] 73 99 DS 9 power 1.29988e-09 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[77] 87 117 DS 4 power 4.47634e-10 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[78] 63 109 DS 15 power 2.23669e-09 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[85] 62 108 DS 1 power 2.64153e-09 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[86] 99 109 DS 10 power 2.97618e-09 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[107] 89 109 DS 6 power 4.47634e-10 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[112] 85 113 DS 12 power 1.1061e-10 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[114] 97 112 DS 12 power 2.20696e-09 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[123] 71 100 DS 6 power 1.37922e-09 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[162] 66 118 DS 7 power 1.77253e-09 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[166] 99 115 DS 1 power 1.55569e-09 mW select Mod 1
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[189] 83 109 DS 16 power 3.89766e-11 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[199] 75 102 DS 16 power 5.96452e-10 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[208] 81 125 DS 7 power 1.33501e-09 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[212] 96 107 DS 10 power 2.03057e-09 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[256] 81 121 DS 1 power 5.60139e-10 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[264] 69 126 DS 16 power 2.77637e-09 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[278] 68 126 DS 16 power 3.01865e-09 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[298] 86 102 DS 13 power 6.7814e-10 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[319] 66 114 DS 10 power 1.40591e-09 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[325] 74 100 DS 7 power 9.93911e-10 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[337] 72 116 DS 6 power 4.75209e-10 mW select Mod 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[338] 85 119 DS 18 power 4.75209e-10 mW select Mod 2
+
+
+
+
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[3] 90 75 DS 9 power 1.1022e-09 mW select Mod 2
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[99] 75 61 DS 13 power 3.15839e-10 mW select Mod 2
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[111] 85 78 DS 12 power 8.24667e-10 mW select Mod 2
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[130] 80 65 DS 13 power 2.77126e-11 mW select Mod 2
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[184] 73 55 DS 18 power 1.40591e-09 mW select Mod 2
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[218] 89 76 DS 7 power 1.0519e-09 mW select Mod 2
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[220] 86 68 DS 9 power 2.18742e-10 mW select Mod 2
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[257] 80 60 DS 9 power 3.15839e-10 mW select Mod 2
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[304] 81 61 DS 12 power 2.42235e-10 mW select Mod 2
+
+
+
+
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[34] 99 35 DS 6 power 1.73499e-10 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[36] 95 52 DS 4 power 1.1022e-09 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[43] 90 29 DS 10 power 6.70615e-10 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[50] 112 44 DS 9 power 2.8077e-09 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[93] 93 40 DS 9 power 3.41993e-12 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[108] 98 34 DS 6 power 1.73499e-10 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[115] 98 36 DS 7 power 9.12011e-11 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[137] 100 47 DS 13 power 5.5294e-10 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[153] 83 44 DS 16 power 9.0435e-10 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[159] 98 28 DS 6 power 8.32558e-10 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[179] 87 45 DS 1 power 4.47634e-10 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[198] 110 44 DS 15 power 2.11834e-09 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[204] 96 39 DS 13 power 8.42085e-12 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[205] 109 48 DS 3 power 2.36655e-09 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[222] 84 34 DS 12 power 7.39028e-10 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[238] 106 32 DS 3 power 1.29988e-09 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[239] 99 29 DS 7 power 7.39028e-10 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[240] 99 28 DS 4 power 9.0435e-10 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[241] 98 26 DS 12 power 1.23027e-09 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[243] 102 32 DS 10 power 6.48157e-10 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[260] 78 38 DS 4 power 1.88621e-09 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[272] 74 36 DS 6 power 3.45079e-09 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[277] 91 33 DS 13 power 1.95819e-10 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[279] 96 27 DS 15 power 9.20488e-10 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[288] 89 33 DS 7 power 2.90808e-10 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[312] 95 33 DS 1 power 1.51824e-10 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[313] 103 32 DS 7 power 7.77686e-10 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[314] 86 35 DS 10 power 4.13709e-10 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[322] 101 30 DS 10 power 7.77686e-10 mW select Mod 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[350] 88 33 DS 18 power 3.60753e-10 mW select Mod 2
+
+
+
+
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[136] 98 99 DS 4 power 6.82365e-11 mW select Mod 2
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[245] 110 106 DS 16 power 1.40591e-09 mW select Mod 2
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[282] 105 103 DS 12 power 4.20444e-10 mW select Mod 2
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[296] 102 94 DS 4 power 6.7814e-10 mW select Mod 2
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[300] 106 111 DS 12 power 1.0519e-09 mW select Mod 2
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[324] 95 90 DS 18 power 1.1022e-09 mW select Mod 2
+
+
+
+
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[40] 115 11 DS 1 power 1.80368e-10 mW select Mod 0
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[57] 116 4 DS 3 power 5.5241e-10 mW select Mod 1
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[65] 109 1 DS 3 power 1.68018e-10 mW select Mod 2
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[100] 95 2 DS 7 power 3.15839e-10 mW select Mod 2
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[140] 110 17 DS 3 power 8.8837e-10 mW select Mod 1
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[148] 87 15 DS 6 power 3.3524e-09 mW select Mod 2
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[183] 96 4 DS 7 power 2.24563e-10 mW select Mod 2
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[195] 102 17 DS 9 power 1.33501e-09 mW select Mod 2
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[200] 91 6 DS 12 power 9.61118e-10 mW select Mod 2
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[242] 111 19 DS 10 power 2.50826e-09 mW select Mod 2
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[248] 119 12 DS 10 power 2.68285e-09 mW select Mod 2
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[271] 109 19 DS 6 power 2.22677e-09 mW select Mod 2
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[292] 88 13 DS 3 power 1.2827e-09 mW select Mod 1
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[306] 111 18 DS 13 power 2.19708e-09 mW select Mod 2
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[348] 113 3 DS 3 power 5.5294e-10 mW select Mod 2
+
+
+
+
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[20] 103 65 DS 13 power 5.96452e-10 mW select Mod 2
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[28] 105 58 DS 3 power 1.95346e-11 mW select Mod 1
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[178] 99 60 DS 13 power 5.31473e-10 mW select Mod 2
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[330] 111 54 DS 15 power 3.89766e-11 mW select Mod 2
+
+
+
+
+BS[21] 120 12 BS[21] 120 12
+
+
+
+
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[4] 144 78 DS 10 power 3.23305e-09 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[19] 107 70 DS 12 power 3.39605e-09 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[23] 118 51 DS 13 power 3.02929e-09 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[48] 110 60 DS 13 power 2.84961e-09 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[53] 128 85 DS 13 power 2.20696e-09 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[67] 124 64 DS 10 power 9.12011e-11 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[69] 115 52 DS 13 power 3.3524e-09 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[75] 138 60 DS 18 power 1.23027e-09 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[89] 115 72 DS 16 power 1.01867e-09 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[109] 131 56 DS 10 power 1.01867e-09 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[116] 124 72 DS 6 power 9.12011e-11 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[126] 125 78 DS 1 power 7.32523e-11 mW select Mod 0
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[143] 128 49 DS 13 power 2.94442e-09 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[154] 122 71 DS 7 power 1.36019e-10 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[158] 126 67 DS 15 power 3.41993e-12 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[170] 128 80 DS 12 power 8.96306e-10 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[211] 113 62 DS 4 power 1.65125e-09 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[221] 133 56 DS 9 power 1.18722e-09 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[230] 128 63 DS 10 power 9.59717e-11 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[231] 129 73 DS 12 power 1.1061e-10 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[232] 120 70 DS 1 power 3.04956e-11 mW select Mod 0
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[233] 120 64 DS 4 power 3.15839e-10 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[247] 116 56 DS 7 power 1.9629e-09 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[250] 133 59 DS 10 power 6.7814e-10 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[251] 130 49 DS 1 power 3.81364e-10 mW select Mod 0
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[269] 138 53 DS 16 power 2.77637e-09 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[280] 145 72 DS 16 power 2.71394e-09 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[284] 117 68 DS 18 power 5.5294e-10 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[299] 116 54 DS 1 power 2.47774e-09 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[303] 138 66 DS 4 power 7.39028e-10 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[308] 125 87 DS 7 power 2.97618e-09 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[315] 119 65 DS 18 power 3.6728e-10 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[334] 138 65 DS 15 power 7.77686e-10 mW select Mod 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[358] 120 78 DS 13 power 9.28582e-10 mW select Mod 2
+
+
+
+
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[1] 140 30 DS 10 power 7.16054e-10 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[2] 137 23 DS 12 power 7.62168e-10 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[11] 143 32 DS 16 power 1.33501e-09 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[18] 126 47 DS 10 power 1.9629e-09 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[26] 128 42 DS 6 power 7.16054e-10 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[64] 136 20 DS 10 power 1.1022e-09 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[68] 120 28 DS 3 power 2.41654e-10 mW select Mod 1
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[83] 128 47 DS 18 power 1.88621e-09 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[95] 137 48 DS 13 power 2.84961e-09 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[106] 122 23 DS 15 power 6.48157e-10 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[113] 140 23 DS 7 power 1.23027e-09 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[142] 117 29 DS 18 power 9.20488e-10 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[146] 125 11 DS 18 power 3.52776e-09 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[160] 124 44 DS 10 power 1.30864e-09 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[168] 131 32 DS 1 power 1.12548e-11 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[171] 142 40 DS 18 power 1.8197e-09 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[177] 127 22 DS 9 power 4.47634e-10 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[181] 136 22 DS 4 power 7.77686e-10 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[213] 121 17 DS 13 power 1.91489e-09 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[249] 117 37 DS 4 power 1.18722e-09 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[261] 121 37 DS 16 power 5.5294e-10 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[270] 125 24 DS 4 power 3.15839e-10 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[273] 142 33 DS 10 power 1.12756e-09 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[285] 146 40 DS 3 power 3.02929e-09 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[294] 124 13 DS 16 power 2.8077e-09 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[311] 130 17 DS 10 power 1.33501e-09 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[320] 125 17 DS 3 power 7.36062e-10 mW select Mod 1
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[327] 135 30 DS 18 power 1.51824e-10 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[349] 126 30 DS 10 power 2.77126e-11 mW select Mod 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[354] 129 18 DS 1 power 5.48189e-10 mW select Mod 1
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[357] 135 36 DS 12 power 2.90808e-10 mW select Mod 2
+
+
+
+
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[81] 143 91 DS 6 power 2.3631e-10 mW select Mod 2
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[94] 136 103 DS 6 power 3.15839e-10 mW select Mod 2
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[98] 131 97 DS 6 power 1.68018e-10 mW select Mod 2
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[118] 135 108 DS 10 power 1.12756e-09 mW select Mod 2
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[122] 132 105 DS 7 power 7.39028e-10 mW select Mod 2
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[141] 124 95 DS 4 power 1.09378e-09 mW select Mod 2
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[180] 137 104 DS 18 power 4.20444e-10 mW select Mod 2
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[196] 139 89 DS 15 power 1.68018e-10 mW select Mod 2
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[210] 130 105 DS 10 power 9.28582e-10 mW select Mod 2
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[216] 144 103 DS 7 power 6.48157e-10 mW select Mod 2
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[275] 143 84 DS 10 power 9.93911e-10 mW select Mod 2
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[286] 148 105 DS 1 power 1.95159e-10 mW select Mod 0
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[351] 145 102 DS 1 power 3.24848e-10 mW select Mod 1
+
+
+
+
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[46] 147 60 DS 15 power 1.29988e-09 mW select Mod 2
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[120] 148 65 DS 1 power 1.42819e-09 mW select Mod 1
+
+
+
+
+BS[26] 146 81 BS[26] 146 81
+
+
+
+
+BS[27] 146 64 BS[27] 146 64
+
+
+
+
+BS[28] 27 53 BS[28] 27 53
+
+
+
+
+BS[29] 29 74 BS[29] 29 74
+
+
+
+
+BS[30] 59 48 BS[30] 59 48
+
+
+
+
+BS[31] 70 93 BS[31] 70 93
+
+
+
+
+BS[32] 66 35 BS[32] 66 35
+
+
+
+
+BS[33] 78 83 BS[33] 78 83
+
+
+
+
+BS[34] 79 56 BS[34] 79 56
+
+
+
+
+BS[35] 105 29 BS[35] 105 29
+
+
+
+
+BS[36] 106 77 BS[36] 106 77
+
+
+
+
+BS[37] 125 68 BS[37] 125 68
+
+
+
+
+MS[79] 47 64 DS 1 power 2.29087e-10 mW select Mod 0
+MS[127] 66 6 DS 1 power 1.99763e-10 mW select Mod 0
+MS[301] 42 6 DS 1 power 1.99763e-10 mW select Mod 0
+MS[224] 58 94 DS 1 power 2.42276e-10 mW select Mod 0
+MS[352] 46 89 DS 1 power 4.55254e-10 mW select Mod 0
+MS[40] 115 11 DS 1 power 1.80368e-10 mW select Mod 0
+MS[126] 125 78 DS 1 power 7.32523e-11 mW select Mod 0
+MS[232] 120 70 DS 1 power 3.04956e-11 mW select Mod 0
+MS[251] 130 49 DS 1 power 3.81364e-10 mW select Mod 0
+MS[286] 148 105 DS 1 power 1.95159e-10 mW select Mod 0
+
+
+MS[169] 14 105 DS 3 power 2.66368e-10 mW select Mod 1
+MS[47] 15 22 DS 1 power 3.70391e-10 mW select Mod 1
+MS[104] 31 95 DS 1 power 1.2827e-09 mW select Mod 1
+MS[133] 29 92 DS 3 power 7.36062e-10 mW select Mod 1
+MS[287] 40 86 DS 1 power 1.10115e-09 mW select Mod 1
+MS[339] 15 89 DS 1 power 7.76941e-10 mW select Mod 1
+MS[310] 46 18 DS 1 power 1.84076e-10 mW select Mod 1
+MS[246] 50 123 DS 1 power 5.99322e-10 mW select Mod 1
+MS[228] 74 87 DS 1 power 5.272e-10 mW select Mod 1
+MS[128] 80 23 DS 3 power 5.48189e-10 mW select Mod 1
+MS[166] 99 115 DS 1 power 1.55569e-09 mW select Mod 1
+MS[57] 116 4 DS 3 power 5.5241e-10 mW select Mod 1
+MS[140] 110 17 DS 3 power 8.8837e-10 mW select Mod 1
+MS[292] 88 13 DS 3 power 1.2827e-09 mW select Mod 1
+MS[28] 105 58 DS 3 power 1.95346e-11 mW select Mod 1
+MS[68] 120 28 DS 3 power 2.41654e-10 mW select Mod 1
+MS[320] 125 17 DS 3 power 7.36062e-10 mW select Mod 1
+MS[354] 129 18 DS 1 power 5.48189e-10 mW select Mod 1
+MS[351] 145 102 DS 1 power 3.24848e-10 mW select Mod 1
+MS[120] 148 65 DS 1 power 1.42819e-09 mW select Mod 1
+
+
+MS[71] 34 108 DS 3 power 1.1022e-09 mW select Mod 2
+MS[72] 5 96 DS 12 power 2.8077e-09 mW select Mod 2
+MS[125] 28 99 DS 9 power 1.1061e-10 mW select Mod 2
+MS[194] 31 113 DS 16 power 1.43272e-09 mW select Mod 2
+MS[201] 33 112 DS 9 power 1.5502e-09 mW select Mod 2
+MS[203] 7 94 DS 13 power 2.3565e-09 mW select Mod 2
+MS[223] 14 102 DS 13 power 4.27205e-10 mW select Mod 2
+MS[244] 38 96 DS 4 power 1.8197e-09 mW select Mod 2
+MS[290] 19 114 DS 18 power 1.23027e-09 mW select Mod 2
+MS[316] 22 103 DS 7 power 1.12548e-11 mW select Mod 2
+MS[5] 4 66 DS 9 power 1.33501e-09 mW select Mod 2
+MS[73] 1 70 DS 4 power 6.70615e-10 mW select Mod 2
+MS[90] 2 88 DS 12 power 3.6728e-10 mW select Mod 2
+MS[266] 6 60 DS 16 power 3.3633e-09 mW select Mod 2
+MS[340] 4 88 DS 10 power 3.15839e-10 mW select Mod 2
+MS[101] 3 54 DS 15 power 7.39028e-10 mW select Mod 2
+MS[333] 0 52 DS 18 power 1.32621e-09 mW select Mod 2
+MS[359] 15 55 DS 7 power 2.77126e-11 mW select Mod 2
+MS[12] 25 48 DS 13 power 3.01865e-09 mW select Mod 2
+MS[55] 10 35 DS 15 power 3.89766e-11 mW select Mod 2
+MS[80] 19 25 DS 10 power 5.5294e-10 mW select Mod 2
+MS[102] 20 37 DS 12 power 3.15839e-10 mW select Mod 2
+MS[132] 11 28 DS 18 power 1.1061e-10 mW select Mod 2
+MS[149] 4 29 DS 9 power 5.31473e-10 mW select Mod 2
+MS[150] 27 31 DS 10 power 1.3615e-09 mW select Mod 2
+MS[164] 5 35 DS 9 power 3.34919e-10 mW select Mod 2
+MS[187] 20 38 DS 1 power 3.73834e-10 mW select Mod 2
+MS[191] 16 53 DS 7 power 3.45079e-09 mW select Mod 2
+MS[192] 21 41 DS 4 power 7.62168e-10 mW select Mod 2
+MS[217] 9 48 DS 12 power 1.735e-09 mW select Mod 2
+MS[219] 11 24 DS 4 power 4.47634e-10 mW select Mod 2
+MS[234] 24 48 DS 4 power 2.77637e-09 mW select Mod 2
+MS[235] 19 50 DS 13 power 2.55933e-09 mW select Mod 2
+MS[259] 17 21 DS 16 power 1.01867e-09 mW select Mod 2
+MS[345] 22 44 DS 13 power 1.37922e-09 mW select Mod 2
+MS[21] 31 60 DS 4 power 2.92329e-09 mW select Mod 2
+MS[30] 32 84 DS 6 power 4.47634e-10 mW select Mod 2
+MS[60] 24 70 DS 7 power 3.15839e-10 mW select Mod 2
+MS[70] 34 82 DS 10 power 5.31473e-10 mW select Mod 2
+MS[82] 39 67 DS 6 power 2.47774e-09 mW select Mod 2
+MS[88] 24 93 DS 18 power 1.59595e-09 mW select Mod 2
+MS[91] 25 92 DS 6 power 1.32621e-09 mW select Mod 2
+MS[105] 37 84 DS 1 power 1.18722e-09 mW select Mod 2
+MS[124] 21 58 DS 7 power 3.52776e-09 mW select Mod 2
+MS[129] 31 80 DS 6 power 1.68018e-10 mW select Mod 2
+MS[139] 20 87 DS 6 power 5.96452e-10 mW select Mod 2
+MS[151] 27 68 DS 7 power 5.81864e-10 mW select Mod 2
+MS[152] 14 73 DS 12 power 9.0435e-10 mW select Mod 2
+MS[173] 9 69 DS 7 power 2.68285e-09 mW select Mod 2
+MS[190] 42 70 DS 7 power 2.84961e-09 mW select Mod 2
+MS[236] 25 59 DS 3 power 2.93385e-09 mW select Mod 2
+MS[237] 23 58 DS 18 power 3.39605e-09 mW select Mod 2
+MS[254] 13 72 DS 10 power 1.18722e-09 mW select Mod 2
+MS[258] 25 95 DS 6 power 2.19708e-09 mW select Mod 2
+MS[274] 12 77 DS 16 power 1.1022e-09 mW select Mod 2
+MS[307] 32 77 DS 7 power 2.24563e-10 mW select Mod 2
+MS[321] 41 79 DS 12 power 1.88621e-09 mW select Mod 2
+MS[323] 16 70 DS 4 power 8.96306e-10 mW select Mod 2
+MS[343] 24 60 DS 7 power 2.55933e-09 mW select Mod 2
+MS[356] 8 89 DS 10 power 3.46176e-09 mW select Mod 2
+MS[15] 45 91 DS 7 power 9.59717e-11 mW select Mod 2
+MS[17] 49 94 DS 13 power 3.6728e-10 mW select Mod 2
+MS[276] 45 97 DS 9 power 7.16054e-10 mW select Mod 2
+MS[331] 47 94 DS 10 power 3.15839e-10 mW select Mod 2
+MS[7] 36 29 DS 9 power 1.01867e-09 mW select Mod 2
+MS[13] 40 58 DS 9 power 1.58677e-09 mW select Mod 2
+MS[39] 70 42 DS 4 power 3.06125e-09 mW select Mod 2
+MS[44] 51 49 DS 6 power 1.38892e-12 mW select Mod 2
+MS[52] 68 42 DS 10 power 2.3565e-09 mW select Mod 2
+MS[58] 51 47 DS 9 power 1.12548e-11 mW select Mod 2
+MS[61] 61 43 DS 10 power 6.7814e-10 mW select Mod 2
+MS[74] 49 61 DS 9 power 9.61118e-10 mW select Mod 2
+MS[76] 62 52 DS 9 power 6.1849e-10 mW select Mod 2
+MS[97] 60 38 DS 12 power 1.23027e-09 mW select Mod 2
+MS[138] 65 46 DS 1 power 1.1701e-09 mW select Mod 2
+MS[147] 42 35 DS 9 power 2.26651e-09 mW select Mod 2
+MS[155] 41 45 DS 15 power 8.32558e-10 mW select Mod 2
+MS[161] 65 37 DS 6 power 2.43717e-09 mW select Mod 2
+MS[163] 58 58 DS 9 power 6.7814e-10 mW select Mod 2
+MS[175] 57 37 DS 6 power 1.09378e-09 mW select Mod 2
+MS[185] 38 36 DS 12 power 2.97618e-09 mW select Mod 2
+MS[193] 47 41 DS 10 power 4.75209e-10 mW select Mod 2
+MS[207] 43 45 DS 9 power 5.31473e-10 mW select Mod 2
+MS[281] 63 40 DS 4 power 1.37922e-09 mW select Mod 2
+MS[309] 63 45 DS 9 power 8.32558e-10 mW select Mod 2
+MS[318] 53 60 DS 7 power 7.16054e-10 mW select Mod 2
+MS[342] 64 37 DS 7 power 2.1872e-09 mW select Mod 2
+MS[0] 62 17 DS 16 power 3.34919e-10 mW select Mod 2
+MS[8] 67 9 DS 18 power 1.40591e-09 mW select Mod 2
+MS[10] 42 17 DS 9 power 9.20488e-10 mW select Mod 2
+MS[25] 56 30 DS 16 power 1.62354e-09 mW select Mod 2
+MS[29] 63 18 DS 4 power 4.82162e-10 mW select Mod 2
+MS[32] 39 14 DS 15 power 1.59595e-09 mW select Mod 2
+MS[33] 57 17 DS 18 power 3.89766e-11 mW select Mod 2
+MS[35] 46 26 DS 7 power 1.23027e-09 mW select Mod 2
+MS[37] 45 31 DS 18 power 2.68285e-09 mW select Mod 2
+MS[38] 71 23 DS 12 power 2.84961e-09 mW select Mod 2
+MS[49] 53 32 DS 6 power 2.20696e-09 mW select Mod 2
+MS[54] 53 35 DS 15 power 3.3633e-09 mW select Mod 2
+MS[56] 51 2 DS 7 power 1.1701e-09 mW select Mod 2
+MS[92] 57 18 DS 9 power 5.95021e-11 mW select Mod 2
+MS[103] 53 7 DS 15 power 3.15839e-10 mW select Mod 2
+MS[117] 54 28 DS 4 power 1.09378e-09 mW select Mod 2
+MS[134] 56 24 DS 3 power 4.47634e-10 mW select Mod 2
+MS[145] 44 12 DS 7 power 6.1849e-10 mW select Mod 2
+MS[156] 50 17 DS 7 power 6.82365e-11 mW select Mod 2
+MS[172] 61 4 DS 1 power 1.1022e-09 mW select Mod 2
+MS[186] 70 6 DS 4 power 2.68285e-09 mW select Mod 2
+MS[188] 66 9 DS 1 power 1.18722e-09 mW select Mod 2
+MS[197] 49 32 DS 13 power 2.4473e-09 mW select Mod 2
+MS[202] 47 2 DS 12 power 1.5229e-09 mW select Mod 2
+MS[253] 48 9 DS 18 power 3.60753e-10 mW select Mod 2
+MS[255] 71 25 DS 12 power 3.23305e-09 mW select Mod 2
+MS[262] 57 19 DS 7 power 9.12011e-11 mW select Mod 2
+MS[283] 55 17 DS 10 power 1.12548e-11 mW select Mod 2
+MS[295] 73 15 DS 12 power 2.93385e-09 mW select Mod 2
+MS[302] 40 16 DS 4 power 1.33501e-09 mW select Mod 2
+MS[317] 62 26 DS 7 power 1.23027e-09 mW select Mod 2
+MS[326] 41 12 DS 12 power 1.1701e-09 mW select Mod 2
+MS[328] 37 26 DS 16 power 3.46176e-09 mW select Mod 2
+MS[329] 56 27 DS 7 power 9.20488e-10 mW select Mod 2
+MS[332] 39 15 DS 3 power 1.58677e-09 mW select Mod 2
+MS[344] 45 6 DS 4 power 1.03526e-09 mW select Mod 2
+MS[347] 64 25 DS 7 power 1.3615e-09 mW select Mod 2
+MS[9] 52 126 DS 1 power 1.43272e-09 mW select Mod 2
+MS[14] 55 121 DS 10 power 3.73834e-10 mW select Mod 2
+MS[121] 59 123 DS 3 power 4.27205e-10 mW select Mod 2
+MS[135] 51 104 DS 15 power 1.1958e-09 mW select Mod 2
+MS[165] 53 110 DS 6 power 3.15839e-10 mW select Mod 2
+MS[215] 56 123 DS 9 power 5.31473e-10 mW select Mod 2
+MS[263] 57 102 DS 4 power 9.61118e-10 mW select Mod 2
+MS[265] 53 121 DS 10 power 5.38607e-10 mW select Mod 2
+MS[268] 52 105 DS 6 power 8.96306e-10 mW select Mod 2
+MS[293] 49 112 DS 9 power 7.39028e-10 mW select Mod 2
+MS[297] 49 124 DS 13 power 1.5502e-09 mW select Mod 2
+MS[22] 63 71 DS 4 power 3.15839e-10 mW select Mod 2
+MS[27] 60 67 DS 16 power 1.01867e-09 mW select Mod 2
+MS[31] 69 92 DS 15 power 1.30864e-09 mW select Mod 2
+MS[41] 57 74 DS 16 power 3.73834e-10 mW select Mod 2
+MS[45] 81 69 DS 4 power 3.23305e-09 mW select Mod 2
+MS[62] 65 76 DS 1 power 2.77126e-11 mW select Mod 2
+MS[63] 65 77 DS 4 power 1.12548e-11 mW select Mod 2
+MS[66] 64 82 DS 7 power 2.41654e-11 mW select Mod 2
+MS[84] 51 92 DS 18 power 2.69321e-09 mW select Mod 2
+MS[87] 74 90 DS 6 power 1.5502e-09 mW select Mod 2
+MS[96] 61 87 DS 12 power 3.6728e-10 mW select Mod 2
+MS[110] 58 91 DS 6 power 1.18722e-09 mW select Mod 2
+MS[119] 77 67 DS 6 power 2.43717e-09 mW select Mod 2
+MS[157] 53 64 DS 9 power 2.77637e-09 mW select Mod 2
+MS[167] 82 76 DS 7 power 2.64153e-09 mW select Mod 2
+MS[176] 72 82 DS 13 power 3.6728e-10 mW select Mod 2
+MS[206] 56 84 DS 15 power 4.75209e-10 mW select Mod 2
+MS[209] 53 91 DS 9 power 1.9629e-09 mW select Mod 2
+MS[214] 80 74 DS 10 power 2.11834e-09 mW select Mod 2
+MS[226] 76 86 DS 3 power 1.29988e-09 mW select Mod 2
+MS[227] 66 89 DS 15 power 5.81864e-10 mW select Mod 2
+MS[229] 65 86 DS 13 power 2.24563e-10 mW select Mod 2
+MS[252] 80 70 DS 12 power 2.68285e-09 mW select Mod 2
+MS[267] 47 67 DS 15 power 3.71631e-09 mW select Mod 2
+MS[289] 53 90 DS 7 power 1.74437e-09 mW select Mod 2
+MS[291] 56 78 DS 10 power 3.15839e-10 mW select Mod 2
+MS[305] 77 85 DS 13 power 1.40591e-09 mW select Mod 2
+MS[335] 72 85 DS 12 power 5.5294e-10 mW select Mod 2
+MS[336] 60 70 DS 13 power 5.31473e-10 mW select Mod 2
+MS[341] 63 89 DS 15 power 5.60139e-10 mW select Mod 2
+MS[346] 54 95 DS 7 power 2.88113e-09 mW select Mod 2
+MS[353] 78 70 DS 6 power 2.07923e-09 mW select Mod 2
+MS[355] 74 79 DS 18 power 5.5294e-10 mW select Mod 2
+MS[51] 70 33 DS 6 power 9.61118e-10 mW select Mod 2
+MS[144] 73 35 DS 7 power 5.5294e-10 mW select Mod 2
+MS[6] 82 1 DS 16 power 9.28582e-10 mW select Mod 2
+MS[131] 87 18 DS 6 power 1.29988e-09 mW select Mod 2
+MS[174] 77 17 DS 9 power 1.68018e-10 mW select Mod 2
+MS[182] 77 4 DS 4 power 2.42235e-10 mW select Mod 2
+MS[225] 78 17 DS 6 power 1.95819e-10 mW select Mod 2
+MS[16] 83 119 DS 18 power 3.6728e-10 mW select Mod 2
+MS[24] 60 105 DS 6 power 3.74982e-09 mW select Mod 2
+MS[42] 80 114 DS 16 power 2.41654e-11 mW select Mod 2
+MS[59] 73 99 DS 9 power 1.29988e-09 mW select Mod 2
+MS[77] 87 117 DS 4 power 4.47634e-10 mW select Mod 2
+MS[78] 63 109 DS 15 power 2.23669e-09 mW select Mod 2
+MS[85] 62 108 DS 1 power 2.64153e-09 mW select Mod 2
+MS[86] 99 109 DS 10 power 2.97618e-09 mW select Mod 2
+MS[107] 89 109 DS 6 power 4.47634e-10 mW select Mod 2
+MS[112] 85 113 DS 12 power 1.1061e-10 mW select Mod 2
+MS[114] 97 112 DS 12 power 2.20696e-09 mW select Mod 2
+MS[123] 71 100 DS 6 power 1.37922e-09 mW select Mod 2
+MS[162] 66 118 DS 7 power 1.77253e-09 mW select Mod 2
+MS[189] 83 109 DS 16 power 3.89766e-11 mW select Mod 2
+MS[199] 75 102 DS 16 power 5.96452e-10 mW select Mod 2
+MS[208] 81 125 DS 7 power 1.33501e-09 mW select Mod 2
+MS[212] 96 107 DS 10 power 2.03057e-09 mW select Mod 2
+MS[256] 81 121 DS 1 power 5.60139e-10 mW select Mod 2
+MS[264] 69 126 DS 16 power 2.77637e-09 mW select Mod 2
+MS[278] 68 126 DS 16 power 3.01865e-09 mW select Mod 2
+MS[298] 86 102 DS 13 power 6.7814e-10 mW select Mod 2
+MS[319] 66 114 DS 10 power 1.40591e-09 mW select Mod 2
+MS[325] 74 100 DS 7 power 9.93911e-10 mW select Mod 2
+MS[337] 72 116 DS 6 power 4.75209e-10 mW select Mod 2
+MS[338] 85 119 DS 18 power 4.75209e-10 mW select Mod 2
+MS[3] 90 75 DS 9 power 1.1022e-09 mW select Mod 2
+MS[99] 75 61 DS 13 power 3.15839e-10 mW select Mod 2
+MS[111] 85 78 DS 12 power 8.24667e-10 mW select Mod 2
+MS[130] 80 65 DS 13 power 2.77126e-11 mW select Mod 2
+MS[184] 73 55 DS 18 power 1.40591e-09 mW select Mod 2
+MS[218] 89 76 DS 7 power 1.0519e-09 mW select Mod 2
+MS[220] 86 68 DS 9 power 2.18742e-10 mW select Mod 2
+MS[257] 80 60 DS 9 power 3.15839e-10 mW select Mod 2
+MS[304] 81 61 DS 12 power 2.42235e-10 mW select Mod 2
+MS[34] 99 35 DS 6 power 1.73499e-10 mW select Mod 2
+MS[36] 95 52 DS 4 power 1.1022e-09 mW select Mod 2
+MS[43] 90 29 DS 10 power 6.70615e-10 mW select Mod 2
+MS[50] 112 44 DS 9 power 2.8077e-09 mW select Mod 2
+MS[93] 93 40 DS 9 power 3.41993e-12 mW select Mod 2
+MS[108] 98 34 DS 6 power 1.73499e-10 mW select Mod 2
+MS[115] 98 36 DS 7 power 9.12011e-11 mW select Mod 2
+MS[137] 100 47 DS 13 power 5.5294e-10 mW select Mod 2
+MS[153] 83 44 DS 16 power 9.0435e-10 mW select Mod 2
+MS[159] 98 28 DS 6 power 8.32558e-10 mW select Mod 2
+MS[179] 87 45 DS 1 power 4.47634e-10 mW select Mod 2
+MS[198] 110 44 DS 15 power 2.11834e-09 mW select Mod 2
+MS[204] 96 39 DS 13 power 8.42085e-12 mW select Mod 2
+MS[205] 109 48 DS 3 power 2.36655e-09 mW select Mod 2
+MS[222] 84 34 DS 12 power 7.39028e-10 mW select Mod 2
+MS[238] 106 32 DS 3 power 1.29988e-09 mW select Mod 2
+MS[239] 99 29 DS 7 power 7.39028e-10 mW select Mod 2
+MS[240] 99 28 DS 4 power 9.0435e-10 mW select Mod 2
+MS[241] 98 26 DS 12 power 1.23027e-09 mW select Mod 2
+MS[243] 102 32 DS 10 power 6.48157e-10 mW select Mod 2
+MS[260] 78 38 DS 4 power 1.88621e-09 mW select Mod 2
+MS[272] 74 36 DS 6 power 3.45079e-09 mW select Mod 2
+MS[277] 91 33 DS 13 power 1.95819e-10 mW select Mod 2
+MS[279] 96 27 DS 15 power 9.20488e-10 mW select Mod 2
+MS[288] 89 33 DS 7 power 2.90808e-10 mW select Mod 2
+MS[312] 95 33 DS 1 power 1.51824e-10 mW select Mod 2
+MS[313] 103 32 DS 7 power 7.77686e-10 mW select Mod 2
+MS[314] 86 35 DS 10 power 4.13709e-10 mW select Mod 2
+MS[322] 101 30 DS 10 power 7.77686e-10 mW select Mod 2
+MS[350] 88 33 DS 18 power 3.60753e-10 mW select Mod 2
+MS[136] 98 99 DS 4 power 6.82365e-11 mW select Mod 2
+MS[245] 110 106 DS 16 power 1.40591e-09 mW select Mod 2
+MS[282] 105 103 DS 12 power 4.20444e-10 mW select Mod 2
+MS[296] 102 94 DS 4 power 6.7814e-10 mW select Mod 2
+MS[300] 106 111 DS 12 power 1.0519e-09 mW select Mod 2
+MS[324] 95 90 DS 18 power 1.1022e-09 mW select Mod 2
+MS[65] 109 1 DS 3 power 1.68018e-10 mW select Mod 2
+MS[100] 95 2 DS 7 power 3.15839e-10 mW select Mod 2
+MS[148] 87 15 DS 6 power 3.3524e-09 mW select Mod 2
+MS[183] 96 4 DS 7 power 2.24563e-10 mW select Mod 2
+MS[195] 102 17 DS 9 power 1.33501e-09 mW select Mod 2
+MS[200] 91 6 DS 12 power 9.61118e-10 mW select Mod 2
+MS[242] 111 19 DS 10 power 2.50826e-09 mW select Mod 2
+MS[248] 119 12 DS 10 power 2.68285e-09 mW select Mod 2
+MS[271] 109 19 DS 6 power 2.22677e-09 mW select Mod 2
+MS[306] 111 18 DS 13 power 2.19708e-09 mW select Mod 2
+MS[348] 113 3 DS 3 power 5.5294e-10 mW select Mod 2
+MS[20] 103 65 DS 13 power 5.96452e-10 mW select Mod 2
+MS[178] 99 60 DS 13 power 5.31473e-10 mW select Mod 2
+MS[330] 111 54 DS 15 power 3.89766e-11 mW select Mod 2
+MS[4] 144 78 DS 10 power 3.23305e-09 mW select Mod 2
+MS[19] 107 70 DS 12 power 3.39605e-09 mW select Mod 2
+MS[23] 118 51 DS 13 power 3.02929e-09 mW select Mod 2
+MS[48] 110 60 DS 13 power 2.84961e-09 mW select Mod 2
+MS[53] 128 85 DS 13 power 2.20696e-09 mW select Mod 2
+MS[67] 124 64 DS 10 power 9.12011e-11 mW select Mod 2
+MS[69] 115 52 DS 13 power 3.3524e-09 mW select Mod 2
+MS[75] 138 60 DS 18 power 1.23027e-09 mW select Mod 2
+MS[89] 115 72 DS 16 power 1.01867e-09 mW select Mod 2
+MS[109] 131 56 DS 10 power 1.01867e-09 mW select Mod 2
+MS[116] 124 72 DS 6 power 9.12011e-11 mW select Mod 2
+MS[143] 128 49 DS 13 power 2.94442e-09 mW select Mod 2
+MS[154] 122 71 DS 7 power 1.36019e-10 mW select Mod 2
+MS[158] 126 67 DS 15 power 3.41993e-12 mW select Mod 2
+MS[170] 128 80 DS 12 power 8.96306e-10 mW select Mod 2
+MS[211] 113 62 DS 4 power 1.65125e-09 mW select Mod 2
+MS[221] 133 56 DS 9 power 1.18722e-09 mW select Mod 2
+MS[230] 128 63 DS 10 power 9.59717e-11 mW select Mod 2
+MS[231] 129 73 DS 12 power 1.1061e-10 mW select Mod 2
+MS[233] 120 64 DS 4 power 3.15839e-10 mW select Mod 2
+MS[247] 116 56 DS 7 power 1.9629e-09 mW select Mod 2
+MS[250] 133 59 DS 10 power 6.7814e-10 mW select Mod 2
+MS[269] 138 53 DS 16 power 2.77637e-09 mW select Mod 2
+MS[280] 145 72 DS 16 power 2.71394e-09 mW select Mod 2
+MS[284] 117 68 DS 18 power 5.5294e-10 mW select Mod 2
+MS[299] 116 54 DS 1 power 2.47774e-09 mW select Mod 2
+MS[303] 138 66 DS 4 power 7.39028e-10 mW select Mod 2
+MS[308] 125 87 DS 7 power 2.97618e-09 mW select Mod 2
+MS[315] 119 65 DS 18 power 3.6728e-10 mW select Mod 2
+MS[334] 138 65 DS 15 power 7.77686e-10 mW select Mod 2
+MS[358] 120 78 DS 13 power 9.28582e-10 mW select Mod 2
+MS[1] 140 30 DS 10 power 7.16054e-10 mW select Mod 2
+MS[2] 137 23 DS 12 power 7.62168e-10 mW select Mod 2
+MS[11] 143 32 DS 16 power 1.33501e-09 mW select Mod 2
+MS[18] 126 47 DS 10 power 1.9629e-09 mW select Mod 2
+MS[26] 128 42 DS 6 power 7.16054e-10 mW select Mod 2
+MS[64] 136 20 DS 10 power 1.1022e-09 mW select Mod 2
+MS[83] 128 47 DS 18 power 1.88621e-09 mW select Mod 2
+MS[95] 137 48 DS 13 power 2.84961e-09 mW select Mod 2
+MS[106] 122 23 DS 15 power 6.48157e-10 mW select Mod 2
+MS[113] 140 23 DS 7 power 1.23027e-09 mW select Mod 2
+MS[142] 117 29 DS 18 power 9.20488e-10 mW select Mod 2
+MS[146] 125 11 DS 18 power 3.52776e-09 mW select Mod 2
+MS[160] 124 44 DS 10 power 1.30864e-09 mW select Mod 2
+MS[168] 131 32 DS 1 power 1.12548e-11 mW select Mod 2
+MS[171] 142 40 DS 18 power 1.8197e-09 mW select Mod 2
+MS[177] 127 22 DS 9 power 4.47634e-10 mW select Mod 2
+MS[181] 136 22 DS 4 power 7.77686e-10 mW select Mod 2
+MS[213] 121 17 DS 13 power 1.91489e-09 mW select Mod 2
+MS[249] 117 37 DS 4 power 1.18722e-09 mW select Mod 2
+MS[261] 121 37 DS 16 power 5.5294e-10 mW select Mod 2
+MS[270] 125 24 DS 4 power 3.15839e-10 mW select Mod 2
+MS[273] 142 33 DS 10 power 1.12756e-09 mW select Mod 2
+MS[285] 146 40 DS 3 power 3.02929e-09 mW select Mod 2
+MS[294] 124 13 DS 16 power 2.8077e-09 mW select Mod 2
+MS[311] 130 17 DS 10 power 1.33501e-09 mW select Mod 2
+MS[327] 135 30 DS 18 power 1.51824e-10 mW select Mod 2
+MS[349] 126 30 DS 10 power 2.77126e-11 mW select Mod 2
+MS[357] 135 36 DS 12 power 2.90808e-10 mW select Mod 2
+MS[81] 143 91 DS 6 power 2.3631e-10 mW select Mod 2
+MS[94] 136 103 DS 6 power 3.15839e-10 mW select Mod 2
+MS[98] 131 97 DS 6 power 1.68018e-10 mW select Mod 2
+MS[118] 135 108 DS 10 power 1.12756e-09 mW select Mod 2
+MS[122] 132 105 DS 7 power 7.39028e-10 mW select Mod 2
+MS[141] 124 95 DS 4 power 1.09378e-09 mW select Mod 2
+MS[180] 137 104 DS 18 power 4.20444e-10 mW select Mod 2
+MS[196] 139 89 DS 15 power 1.68018e-10 mW select Mod 2
+MS[210] 130 105 DS 10 power 9.28582e-10 mW select Mod 2
+MS[216] 144 103 DS 7 power 6.48157e-10 mW select Mod 2
+MS[275] 143 84 DS 10 power 9.93911e-10 mW select Mod 2
+MS[46] 147 60 DS 15 power 1.29988e-09 mW select Mod 2
+
+
+ plot "coordinates.txt" index 0:0 using 2:3 title "users" with points, "SHeuristicOut.txt" index 0:0 using 2:3:1 notitle with labels, "SHeuristicOut.txt" index 0:0 using 2:3:4 title "Macro Cell" with circles, "SHeuristicOut.txt" index 1:1 using 2:3:1 notitle with labels, "SHeuristicOut.txt" index 1:1 using 2:3:4 title "micro cell" with circles, "SHeuristicOut.txt" index 2:2 using 5:6 title "BS[0]", "SHeuristicOut.txt" index 3:3 using 5:6 title "BS[1]", "SHeuristicOut.txt" index 4:4 using 5:6 title "BS[2]", "SHeuristicOut.txt" index 5:5 using 5:6 title "BS[3]", "SHeuristicOut.txt" index 6:6 using 5:6 title "BS[4]", "SHeuristicOut.txt" index 7:7 using 5:6 title "BS[5]", "SHeuristicOut.txt" index 8:8 using 5:6 title "BS[6]", "SHeuristicOut.txt" index 9:9 using 5:6 title "BS[7]", "SHeuristicOut.txt" index 10:10 using 5:6 title "BS[8]", "SHeuristicOut.txt" index 11:11 using 5:6 title "BS[9]", "SHeuristicOut.txt" index 12:12 using 5:6 title "BS[10]", "SHeuristicOut.txt" index 13:13 using 5:6 title "BS[11]", "SHeuristicOut.txt" index 14:14 using 5:6 title "BS[12]", "SHeuristicOut.txt" index 15:15 using 5:6 title "BS[13]", "SHeuristicOut.txt" index 16:16 using 5:6 title "BS[14]", "SHeuristicOut.txt" index 17:17 using 5:6 title "BS[15]", "SHeuristicOut.txt" index 18:18 using 5:6 title "BS[16]", "SHeuristicOut.txt" index 19:19 using 5:6 title "BS[17]", "SHeuristicOut.txt" index 20:20 using 5:6 title "BS[18]", "SHeuristicOut.txt" index 21:21 using 5:6 title "BS[19]", "SHeuristicOut.txt" index 22:22 using 5:6 title "BS[20]", "SHeuristicOut.txt" index 23:23 using 5:6 title "BS[21]", "SHeuristicOut.txt" index 24:24 using 5:6 title "BS[22]", "SHeuristicOut.txt" index 25:25 using 5:6 title "BS[23]", "SHeuristicOut.txt" index 26:26 using 5:6 title "BS[24]", "SHeuristicOut.txt" index 27:27 using 5:6 title "BS[25]", "SHeuristicOut.txt" index 28:28 using 5:6 title "BS[26]", "SHeuristicOut.txt" index 29:29 using 5:6 title "BS[27]", "SHeuristicOut.txt" index 30:30 using 5:6 title "BS[28]", "SHeuristicOut.txt" index 31:31 using 5:6 title "BS[29]", "SHeuristicOut.txt" index 32:32 using 5:6 title "BS[30]", "SHeuristicOut.txt" index 33:33 using 5:6 title "BS[31]", "SHeuristicOut.txt" index 34:34 using 5:6 title "BS[32]", "SHeuristicOut.txt" index 35:35 using 5:6 title "BS[33]", "SHeuristicOut.txt" index 36:36 using 5:6 title "BS[34]", "SHeuristicOut.txt" index 37:37 using 5:6 title "BS[35]", "SHeuristicOut.txt" index 38:38 using 5:6 title "BS[36]", "SHeuristicOut.txt" index 39:39 using 5:6 title "BS[37]"

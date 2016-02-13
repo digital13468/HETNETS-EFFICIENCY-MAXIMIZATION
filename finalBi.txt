@@ -1,0 +1,134 @@
+Macro BS Statistics
+Power from BS 0: 8.000000
+DS from BS 0: 0
+Bandwidth from BS 0: 0.000000
+MSs served by BS 0: 0
+
+Power from BS 1: 8.000000
+DS from BS 1: 0
+Bandwidth from BS 1: 0.000000
+MSs served by BS 1: 0
+
+Power from BS 2: 8.000000
+DS from BS 2: 0
+Bandwidth from BS 2: 0.000000
+MSs served by BS 2: 0
+
+Power from BS 3: 500.000924
+DS from BS 3: 83
+Bandwidth from BS 3: 227.710000
+MSs served by BS 3: 43
+
+Power from BS 4: 500.001102
+DS from BS 4: 120
+Bandwidth from BS 4: 342.990000
+MSs served by BS 4: 64
+
+Power from BS 5: 8.000000
+DS from BS 5: 0
+Bandwidth from BS 5: 0.000000
+MSs served by BS 5: 0
+
+Power from BS 6: 500.010616
+DS from BS 6: 434
+Bandwidth from BS 6: 1192.410000
+MSs served by BS 6: 234
+
+Power from BS 7: 500.003686
+DS from BS 7: 88
+Bandwidth from BS 7: 232.410000
+MSs served by BS 7: 43
+
+Power from BS 8: 500.001250
+DS from BS 8: 99
+Bandwidth from BS 8: 261.210000
+MSs served by BS 8: 53
+
+Power from BS 9: 500.002633
+DS from BS 9: 323
+Bandwidth from BS 9: 900.510000
+MSs served by BS 9: 170
+
+Power from BS 10: 500.000351
+DS from BS 10: 30
+Bandwidth from BS 10: 85.230000
+MSs served by BS 10: 16
+
+Power from BS 11: 500.003451
+DS from BS 11: 246
+Bandwidth from BS 11: 641.580000
+MSs served by BS 11: 139
+
+Power from BS 12: 8.000000
+DS from BS 12: 0
+Bandwidth from BS 12: 0.000000
+MSs served by BS 12: 0
+
+Power from BS 13: 8.000000
+DS from BS 13: 0
+Bandwidth from BS 13: 0.000000
+MSs served by BS 13: 0
+
+Power from BS 14: 8.000000
+DS from BS 14: 0
+Bandwidth from BS 14: 0.000000
+MSs served by BS 14: 0
+
+Micro BS Statistics
+Power from BS 15: 0.028000
+DS from BS 15: 0
+Bandwidth from BS 15: 0.000000
+MSs served by BS 15: 0
+
+Power from BS 16: 0.028000
+DS from BS 16: 0
+Bandwidth from BS 16: 0.000000
+MSs served by BS 16: 0
+
+Power from BS 17: 0.028000
+DS from BS 17: 0
+Bandwidth from BS 17: 0.000000
+MSs served by BS 17: 0
+
+Power from BS 18: 0.028000
+DS from BS 18: 0
+Bandwidth from BS 18: 0.000000
+MSs served by BS 18: 0
+
+Power from BS 19: 0.028000
+DS from BS 19: 0
+Bandwidth from BS 19: 0.000000
+MSs served by BS 19: 0
+
+Power from BS 20: 0.028000
+DS from BS 20: 0
+Bandwidth from BS 20: 0.000000
+MSs served by BS 20: 0
+
+Power from BS 21: 0.028000
+DS from BS 21: 0
+Bandwidth from BS 21: 0.000000
+MSs served by BS 21: 0
+
+Power from BS 22: 0.028000
+DS from BS 22: 0
+Bandwidth from BS 22: 0.000000
+MSs served by BS 22: 0
+
+Power from BS 23: 0.028000
+DS from BS 23: 0
+Bandwidth from BS 23: 0.000000
+MSs served by BS 23: 0
+
+Power from BS 24: 0.028000
+DS from BS 24: 0
+Bandwidth from BS 24: 0.000000
+MSs served by BS 24: 0
+
+Total Power 4056.304014
+Total DSs: 1423
+Total served MSs: 762
+Total Bandwidth: 3884.050000
+Objective Value: 0.000673
+New Objective Value: 0.484824
+Time spent in solving the problem: 32.120000

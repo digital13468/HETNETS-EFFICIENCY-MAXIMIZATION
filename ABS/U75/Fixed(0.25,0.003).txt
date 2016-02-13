@@ -1,0 +1,2181 @@
+
+#This file is meant to display the Fixed(0.25,0.003) system.
+#BS38MS684BP0.075
+ "BS[0]" 23 101 15
+ "BS[1]" 11 94 15
+ "BS[2]" 5 80 15
+ "BS[3]" 14 52 15
+ "BS[4]" 13 33 15
+ "BS[5]" 25 78 15
+ "BS[6]" 41 65 15
+ "BS[7]" 46 86 15
+ "BS[8]" 48 25 15
+ "BS[9]" 52 49 15
+ "BS[10]" 54 15 15
+ "BS[11]" 60 114 15
+ "BS[12]" 64 79 15
+ "BS[13]" 73 45 15
+ "BS[14]" 75 11 15
+ "BS[15]" 80 111 15
+ "BS[16]" 79 68 15
+ "BS[17]" 94 39 15
+ "BS[18]" 96 103 15
+ "BS[19]" 103 3 15
+ "BS[20]" 108 56 15
+ "BS[21]" 120 12 15
+ "BS[22]" 127 68 15
+ "BS[23]" 129 31 15
+ "BS[24]" 137 95 15
+ "BS[25]" 140 48 15
+ "BS[26]" 146 81 15
+ "BS[27]" 146 64 15
+
+
+ "BS[28]" 27 53 1
+ "BS[29]" 29 74 1
+ "BS[30]" 59 48 1
+ "BS[31]" 70 93 1
+ "BS[32]" 66 35 1
+ "BS[33]" 78 83 1
+ "BS[34]" 79 56 1
+ "BS[35]" 105 29 1
+ "BS[36]" 106 77 1
+ "BS[37]" 125 68 1
+
+
+#UE56 is associated to new eNodeB37 from 22(0.000000 0.000000 0.003000).
+#UE449 is associated to new eNodeB37 from 22(0.000000 0.000000 0.003000).
+#UE462 is associated to new eNodeB37 from 22(0.000000 0.000000 0.003000).
+#UE464 is associated to new eNodeB37 from 22(0.000000 0.000000 0.003000).
+#UE140 is associated to new eNodeB35 from 17(0.000000 0.000000 0.003000).
+#UE474 is associated to new eNodeB35 from 17(0.000000 0.000000 0.003000).
+#UE475 is associated to new eNodeB35 from 17(0.000000 0.000000 0.003000).
+#UE43 is associated to new eNodeB34 from 16(0.000000 0.000000 0.003000).
+#UE51 is associated to new eNodeB34 from 16(0.000000 0.000000 0.003000).
+#UE91 is associated to new eNodeB34 from 16(0.000000 0.000000 0.003000).
+#UE362 is associated to new eNodeB34 from 16(0.000000 0.000000 0.003000).
+#UE370 is associated to new eNodeB33 from 16(0.000000 0.000000 0.003000).
+#UE133 is associated to new eNodeB32 from 13(0.000000 0.000000 0.003000).
+#UE306 is associated to new eNodeB32 from 13(0.000000 0.000000 0.003000).
+#UE365 is associated to new eNodeB30 from 13(0.000000 0.000000 0.003000).
+#UE424 is associated to new eNodeB34 from 13(0.000000 0.000000 0.003000).
+#UE537 is associated to new eNodeB32 from 13(0.000000 0.000000 0.003000).
+#UE554 is associated to new eNodeB34 from 13(0.000000 0.000000 0.003000).
+#UE568 is associated to new eNodeB32 from 13(0.000000 0.000000 0.003000).
+#UE310 is associated to new eNodeB31 from 12(0.000000 0.000000 0.003000).
+#UE405 is associated to new eNodeB33 from 12(0.000000 0.000000 0.003000).
+#UE455 is associated to new eNodeB31 from 12(0.000000 0.000000 0.003000).
+#UE457 is associated to new eNodeB31 from 12(0.000000 0.000000 0.003000).
+#UE516 is associated to new eNodeB33 from 12(0.000000 0.000000 0.003000).
+#UE555 is associated to new eNodeB33 from 12(0.000000 0.000000 0.003000).
+#UE24 is associated to new eNodeB30 from 9(0.000000 0.000000 0.003000).
+#UE39 is associated to new eNodeB30 from 9(0.000000 0.000000 0.003000).
+#UE158 is associated to new eNodeB30 from 9(0.000000 0.000000 0.003000).
+#UE252 is associated to new eNodeB30 from 9(0.000000 0.000000 0.003000).
+#UE549 is associated to new eNodeB30 from 9(0.000000 0.000000 0.003000).
+#UE650 is associated to new eNodeB30 from 9(0.000000 0.000000 0.003000).
+#UE29 is associated to new eNodeB29 from 5(0.000000 0.000000 0.003000).
+#UE109 is associated to new eNodeB29 from 5(0.000000 0.000000 0.003000).
+#UE316 is associated to new eNodeB29 from 5(0.000000 0.000000 0.003000).
+#UE322 is associated to new eNodeB29 from 5(0.000000 0.000000 0.003000).
+#UE6 is associated to new eNodeB28 from 3(0.000000 0.000000 0.003000).
+#UE220 is associated to new eNodeB28 from 3(0.000000 0.000000 0.003000).
+#UE411 is associated to new eNodeB28 from 3(0.000000 0.000000 0.003000).
+#UE446 is associated to new eNodeB28 from 3(0.000000 0.000000 0.003000).
+#UE465 is associated to new eNodeB28 from 3(0.000000 0.000000 0.003000).
+#UE466 is associated to new eNodeB28 from 3(0.000000 0.000000 0.003000).
+#UE467 is associated to new eNodeB28 from 3(0.000000 0.000000 0.003000).
+#UE469 is associated to new eNodeB28 from 3(0.000000 0.000000 0.003000).
+#UE470 is associated to new eNodeB28 from 3(0.000000 0.000000 0.003000).
+#UE647 is associated to new eNodeB28 from 3(0.000000 0.000000 0.003000).
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[11] 22 115 DS 16 power 6.69089e-10 mW BR 18.000000 with modulation 1
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[67] 20 95 DS 4 power 1.95819e-10 mW BR 5.325000 with modulation 2
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[96] 25 94 DS 16 power 2.42235e-10 mW BR 27.495000 with modulation 2
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[108] 16 100 DS 3 power 2.24563e-10 mW BR 3.825000 with modulation 2
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[134] 37 99 DS 25 power 6.82365e-10 mW BR 27.405000 with modulation 1
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[161] 32 112 DS 6 power 6.91249e-10 mW BR 6.240000 with modulation 1
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[217] 20 106 DS 3 power 1.36019e-10 mW BR 4.725000 with modulation 2
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[233] 26 96 DS 10 power 1.36019e-10 mW BR 15.690000 with modulation 2
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[278] 26 90 DS 1 power 3.89766e-10 mW BR 0.300000 with modulation 1
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[304] 35 102 DS 10 power 4.49217e-10 mW BR 10.575000 with modulation 1
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[311] 25 112 DS 18 power 3.70391e-10 mW BR 19.140000 with modulation 1
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[361] 31 107 DS 9 power 2.77126e-10 mW BR 9.135000 with modulation 1
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[376] 31 93 DS 24 power 3.81989e-10 mW BR 25.830000 with modulation 1
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[407] 30 97 DS 13 power 3.15839e-10 mW BR 21.255000 with modulation 2
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[437] 24 91 DS 19 power 2.80734e-10 mW BR 21.495000 with modulation 1
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[484] 37 106 DS 6 power 7.76941e-10 mW BR 5.415000 with modulation 1
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[518] 31 94 DS 15 power 3.24848e-10 mW BR 16.545000 with modulation 1
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[572] 25 110 DS 9 power 4.47634e-10 mW BR 14.685000 with modulation 2
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[643] 22 97 DS 19 power 1.46158e-09 mW BR 13.245000 with modulation 3
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[648] 23 112 DS 9 power 3.55058e-10 mW BR 8.700000 with modulation 1
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[657] 26 100 DS 39 power 5.05298e-09 mW BR 26.250000 with modulation 3
+BS[0] 23 101 BS[0] 23 101
+BS[0] 23 101 MS[662] 29 112 DS 16 power 4.98136e-10 mW BR 17.520000 with modulation 1
+
+
+BS[1] 11 94 BS[1] 11 94
+BS[1] 11 94 BS[1] 11 94
+BS[1] 11 94 MS[97] 2 103 DS 3 power 5.18857e-10 mW BR 2.505000 with modulation 1
+BS[1] 11 94 BS[1] 11 94
+BS[1] 11 94 MS[132] 9 93 DS 43 power 9.33266e-10 mW BR 23.565000 with modulation 3
+BS[1] 11 94 BS[1] 11 94
+BS[1] 11 94 MS[226] 15 85 DS 18 power 5.31473e-10 mW BR 29.400000 with modulation 2
+BS[1] 11 94 BS[1] 11 94
+BS[1] 11 94 MS[388] 0 95 DS 16 power 3.58877e-10 mW BR 16.905000 with modulation 1
+BS[1] 11 94 BS[1] 11 94
+BS[1] 11 94 MS[493] 10 100 DS 6 power 1.51824e-10 mW BR 8.430000 with modulation 2
+BS[1] 11 94 BS[1] 11 94
+BS[1] 11 94 MS[609] 9 90 DS 31 power 9.6717e-10 mW BR 16.200000 with modulation 3
+BS[1] 11 94 BS[1] 11 94
+BS[1] 11 94 MS[629] 14 101 DS 10 power 2.72354e-10 mW BR 16.545000 with modulation 2
+BS[1] 11 94 BS[1] 11 94
+BS[1] 11 94 MS[674] 3 93 DS 12 power 3.15839e-10 mW BR 19.125000 with modulation 2
+
+
+BS[2] 5 80 BS[2] 5 80
+BS[2] 5 80 BS[2] 5 80
+BS[2] 5 80 MS[13] 3 77 DS 51 power 4.05675e-09 mW BR 29.220000 with modulation 3
+BS[2] 5 80 BS[2] 5 80
+BS[2] 5 80 MS[119] 13 74 DS 12 power 2.77126e-10 mW BR 12.195000 with modulation 1
+BS[2] 5 80 BS[2] 5 80
+BS[2] 5 80 MS[152] 10 76 DS 3 power 1.73499e-10 mW BR 4.830000 with modulation 2
+BS[2] 5 80 BS[2] 5 80
+BS[2] 5 80 MS[193] 4 75 DS 16 power 9.59717e-11 mW BR 25.965000 with modulation 2
+BS[2] 5 80 BS[2] 5 80
+BS[2] 5 80 MS[203] 4 87 DS 10 power 2.24563e-10 mW BR 17.595000 with modulation 2
+BS[2] 5 80 BS[2] 5 80
+BS[2] 5 80 MS[211] 7 73 DS 9 power 2.42235e-10 mW BR 13.065000 with modulation 2
+BS[2] 5 80 BS[2] 5 80
+BS[2] 5 80 MS[239] 2 80 DS 3 power 3.03087e-09 mW BR 14.700000 with modulation 3
+BS[2] 5 80 BS[2] 5 80
+BS[2] 5 80 MS[258] 11 83 DS 9 power 1.95819e-10 mW BR 13.230000 with modulation 2
+BS[2] 5 80 BS[2] 5 80
+BS[2] 5 80 MS[308] 0 68 DS 16 power 5.48189e-10 mW BR 18.270000 with modulation 1
+BS[2] 5 80 BS[2] 5 80
+BS[2] 5 80 MS[356] 8 72 DS 10 power 3.6728e-10 mW BR 16.125000 with modulation 2
+BS[2] 5 80 BS[2] 5 80
+BS[2] 5 80 MS[364] 1 81 DS 39 power 5.44285e-10 mW BR 21.840000 with modulation 3
+BS[2] 5 80 BS[2] 5 80
+BS[2] 5 80 MS[375] 4 70 DS 16 power 2.80734e-10 mW BR 18.240000 with modulation 1
+BS[2] 5 80 BS[2] 5 80
+BS[2] 5 80 MS[634] 14 81 DS 9 power 4.27205e-10 mW BR 12.945000 with modulation 2
+BS[2] 5 80 BS[2] 5 80
+BS[2] 5 80 MS[670] 10 84 DS 9 power 1.73499e-10 mW BR 14.340000 with modulation 2
+
+
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[3] 18 44 DS 10 power 4.13709e-10 mW BR 15.690000 with modulation 2
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[52] 11 61 DS 1 power 4.82162e-10 mW BR 0.600000 with modulation 2
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[94] 21 49 DS 18 power 2.72354e-10 mW BR 28.185000 with modulation 2
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[174] 0 52 DS 18 power 6.64677e-10 mW BR 18.825000 with modulation 1
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[186] 17 64 DS 27 power 4.817e-10 mW BR 29.040000 with modulation 1
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[191] 10 50 DS 1 power 1.28243e-10 mW BR 5.385000 with modulation 3
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[192] 10 64 DS 1 power 5.10545e-10 mW BR 0.240000 with modulation 1
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[241] 10 45 DS 13 power 3.15839e-10 mW BR 21.735000 with modulation 2
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[285] 1 56 DS 13 power 6.16597e-10 mW BR 14.160000 with modulation 1
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[295] 23 63 DS 9 power 6.91249e-10 mW BR 8.745000 with modulation 1
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[299] 22 46 DS 18 power 2.77126e-10 mW BR 18.630000 with modulation 1
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[330] 11 57 DS 4 power 1.36019e-10 mW BR 6.090000 with modulation 2
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[333] 8 47 DS 12 power 2.90808e-10 mW BR 18.825000 with modulation 2
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[379] 19 61 DS 19 power 2.98934e-10 mW BR 20.685000 with modulation 1
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[432] 18 45 DS 9 power 3.15839e-10 mW BR 13.710000 with modulation 2
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[468] 26 46 DS 24 power 5.95021e-10 mW BR 26.295000 with modulation 1
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[471] 19 54 DS 7 power 1.1061e-10 mW BR 12.510000 with modulation 2
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[509] 8 44 DS 1 power 2.77126e-10 mW BR 1.605000 with modulation 1
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[521] 20 60 DS 15 power 2.77126e-10 mW BR 16.290000 with modulation 1
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[532] 13 43 DS 9 power 4.27205e-10 mW BR 15.015000 with modulation 2
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[534] 11 64 DS 3 power 4.817e-10 mW BR 3.210000 with modulation 1
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[543] 17 59 DS 12 power 2.72354e-10 mW BR 18.075000 with modulation 2
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[590] 14 43 DS 13 power 4.20444e-10 mW BR 20.820000 with modulation 2
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[599] 5 49 DS 1 power 4.82162e-10 mW BR 1.875000 with modulation 2
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[608] 9 63 DS 16 power 4.53249e-10 mW BR 18.060000 with modulation 1
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[611] 7 45 DS 10 power 5.38607e-10 mW BR 17.070000 with modulation 2
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[623] 4 60 DS 7 power 5.272e-10 mW BR 8.280000 with modulation 1
+BS[3] 14 52 BS[3] 14 52
+BS[3] 14 52 MS[669] 17 51 DS 27 power 1.46158e-09 mW BR 28.695000 with modulation 3
+
+
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[10] 3 29 DS 1 power 3.36104e-10 mW BR 0.705000 with modulation 1
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[37] 20 29 DS 16 power 3.15839e-10 mW BR 26.520000 with modulation 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[45] 21 41 DS 16 power 3.81989e-10 mW BR 17.940000 with modulation 1
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[70] 13 26 DS 4 power 2.18742e-10 mW BR 6.960000 with modulation 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[100] 15 29 DS 21 power 2.82789e-09 mW BR 21.585000 with modulation 3
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[105] 14 41 DS 13 power 3.15839e-10 mW BR 20.250000 with modulation 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[111] 8 23 DS 19 power 3.70391e-10 mW BR 21.540000 with modulation 1
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[118] 0 34 DS 4 power 5.5241e-10 mW BR 4.305000 with modulation 1
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[126] 18 40 DS 9 power 3.73834e-10 mW BR 14.355000 with modulation 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[160] 20 23 DS 1 power 4.65393e-10 mW BR 0.255000 with modulation 1
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[176] 13 40 DS 13 power 2.18742e-10 mW BR 20.790000 with modulation 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[198] 15 19 DS 4 power 6.82365e-10 mW BR 3.390000 with modulation 1
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[251] 24 41 DS 7 power 6.16597e-10 mW BR 6.930000 with modulation 1
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[255] 16 31 DS 13 power 3.80939e-09 mW BR 19.440000 with modulation 3
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[260] 15 24 DS 16 power 4.47634e-10 mW BR 26.175000 with modulation 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[263] 6 26 DS 4 power 5.38607e-10 mW BR 5.595000 with modulation 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[271] 15 35 DS 40 power 8.27374e-10 mW BR 18.435000 with modulation 3
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[276] 23 26 DS 10 power 4.65393e-10 mW BR 11.460000 with modulation 1
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[277] 1 41 DS 12 power 7.18059e-10 mW BR 13.425000 with modulation 1
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[368] 14 35 DS 37 power 5.33648e-09 mW BR 9.645000 with modulation 3
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[382] 10 32 DS 34 power 3.38662e-09 mW BR 20.730000 with modulation 3
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[491] 15 22 DS 25 power 3.70391e-10 mW BR 27.285000 with modulation 1
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[545] 8 27 DS 1 power 2.90808e-10 mW BR 0.015000 with modulation 2
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[596] 16 23 DS 25 power 3.09979e-10 mW BR 27.090000 with modulation 1
+BS[4] 13 33 BS[4] 13 33
+BS[4] 13 33 MS[661] 9 30 DS 10 power 9.12011e-11 mW BR 17.115000 with modulation 2
+
+
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[22] 20 81 DS 12 power 1.36019e-10 mW BR 18.060000 with modulation 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[23] 15 75 DS 12 power 3.09979e-10 mW BR 12.060000 with modulation 1
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[31] 26 82 DS 24 power 1.28984e-09 mW BR 25.470000 with modulation 3
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[60] 33 82 DS 4 power 4.13709e-10 mW BR 7.155000 with modulation 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[66] 21 69 DS 7 power 5.31473e-10 mW BR 10.155000 with modulation 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[144] 16 74 DS 7 power 5.31473e-10 mW BR 12.255000 with modulation 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[148] 17 81 DS 4 power 3.6728e-10 mW BR 6.525000 with modulation 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[150] 16 73 DS 22 power 2.98934e-10 mW BR 23.685000 with modulation 1
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[190] 32 86 DS 1 power 3.24848e-10 mW BR 1.365000 with modulation 1
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[210] 20 82 DS 1 power 1.73499e-10 mW BR 1.380000 with modulation 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[280] 35 81 DS 1 power 3.09979e-10 mW BR 0.855000 with modulation 1
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[291] 22 66 DS 10 power 4.817e-10 mW BR 10.125000 with modulation 1
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[321] 28 81 DS 43 power 4.90687e-12 mW BR 10.125000 with modulation 3
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[413] 34 82 DS 13 power 5.31473e-10 mW BR 20.715000 with modulation 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[422] 35 75 DS 1 power 3.09979e-10 mW BR 0.780000 with modulation 1
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[498] 20 83 DS 12 power 2.24563e-10 mW BR 18.465000 with modulation 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[529] 19 85 DS 13 power 4.47634e-10 mW BR 21.270000 with modulation 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[538] 28 82 DS 7 power 9.12011e-11 mW BR 11.910000 with modulation 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[570] 17 78 DS 3 power 3.09537e-10 mW BR 3.975000 with modulation 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[588] 20 74 DS 16 power 1.73499e-10 mW BR 26.715000 with modulation 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[603] 18 73 DS 13 power 3.73834e-10 mW BR 21.465000 with modulation 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[666] 21 84 DS 18 power 2.3631e-10 mW BR 29.100000 with modulation 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[672] 34 81 DS 6 power 4.82162e-10 mW BR 9.375000 with modulation 2
+BS[5] 25 78 BS[5] 25 78
+BS[5] 25 78 MS[677] 33 86 DS 25 power 3.81989e-10 mW BR 27.675000 with modulation 1
+
+
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[72] 47 69 DS 18 power 2.3631e-10 mW BR 28.725000 with modulation 2
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[141] 31 68 DS 22 power 3.09979e-10 mW BR 24.300000 with modulation 1
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[142] 33 54 DS 4 power 6.16597e-10 mW BR 4.005000 with modulation 1
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[149] 38 57 DS 12 power 3.6728e-10 mW BR 19.260000 with modulation 2
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[159] 28 60 DS 16 power 6.55874e-10 mW BR 17.790000 with modulation 1
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[163] 48 60 DS 12 power 3.73834e-10 mW BR 17.700000 with modulation 2
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[183] 52 69 DS 25 power 4.17268e-10 mW BR 28.170000 with modulation 1
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[194] 43 56 DS 15 power 4.47634e-10 mW BR 23.085000 with modulation 2
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[208] 52 64 DS 18 power 3.58877e-10 mW BR 19.455000 with modulation 1
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[268] 48 67 DS 10 power 2.42235e-10 mW BR 16.920000 with modulation 2
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[283] 47 72 DS 6 power 4.47634e-10 mW BR 9.240000 with modulation 2
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[290] 37 74 DS 1 power 5.31473e-10 mW BR 1.230000 with modulation 2
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[298] 48 62 DS 7 power 2.72354e-10 mW BR 10.110000 with modulation 2
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[309] 35 65 DS 12 power 1.46511e-10 mW BR 19.290000 with modulation 2
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[343] 42 63 DS 45 power 2.06846e-10 mW BR 19.215000 with modulation 3
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[360] 37 60 DS 10 power 1.73499e-10 mW BR 16.470000 with modulation 2
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[383] 44 65 DS 25 power 1.96504e-09 mW BR 18.780000 with modulation 3
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[395] 37 52 DS 4 power 6.16597e-10 mW BR 4.305000 with modulation 1
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[410] 31 59 DS 6 power 4.13313e-10 mW BR 6.105000 with modulation 1
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[412] 43 72 DS 7 power 2.42235e-10 mW BR 12.345000 with modulation 2
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[433] 36 58 DS 16 power 3.73834e-10 mW BR 27.045000 with modulation 2
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[480] 38 67 DS 43 power 2.23126e-09 mW BR 13.950000 with modulation 3
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[503] 52 68 DS 21 power 3.89766e-10 mW BR 22.770000 with modulation 1
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[566] 38 66 DS 12 power 1.02375e-09 mW BR 3.675000 with modulation 3
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[583] 49 73 DS 4 power 3.81989e-10 mW BR 3.450000 with modulation 1
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[641] 36 65 DS 10 power 9.12011e-11 mW BR 16.515000 with modulation 2
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[649] 33 55 DS 6 power 5.272e-10 mW BR 6.645000 with modulation 1
+BS[6] 41 65 BS[6] 41 65
+BS[6] 41 65 MS[665] 43 60 DS 15 power 1.1061e-10 mW BR 24.345000 with modulation 2
+
+
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[53] 39 82 DS 16 power 3.15839e-10 mW BR 26.205000 with modulation 2
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[68] 49 98 DS 7 power 4.817e-10 mW BR 7.725000 with modulation 1
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[79] 46 77 DS 15 power 4.20444e-10 mW BR 24.750000 with modulation 2
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[117] 47 96 DS 4 power 2.80734e-10 mW BR 4.620000 with modulation 1
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[122] 46 96 DS 24 power 2.77126e-10 mW BR 26.190000 with modulation 1
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[157] 47 85 DS 13 power 1.8236e-09 mW BR 17.535000 with modulation 3
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[177] 35 87 DS 4 power 3.58877e-10 mW BR 4.065000 with modulation 1
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[207] 39 98 DS 15 power 6.51482e-10 mW BR 16.005000 with modulation 1
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[288] 48 78 DS 9 power 3.34919e-10 mW BR 13.665000 with modulation 2
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[314] 47 76 DS 21 power 2.80734e-10 mW BR 22.260000 with modulation 1
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[324] 49 91 DS 12 power 1.36019e-10 mW BR 19.740000 with modulation 2
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[328] 37 82 DS 4 power 5.31473e-10 mW BR 6.840000 with modulation 2
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[358] 46 90 DS 31 power 3.14252e-09 mW BR 3.030000 with modulation 3
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[387] 51 86 DS 15 power 9.12011e-11 mW BR 23.715000 with modulation 2
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[416] 50 76 DS 9 power 3.36104e-10 mW BR 9.915000 with modulation 1
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[423] 46 89 DS 25 power 3.82535e-09 mW BR 9.435000 with modulation 3
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[426] 40 91 DS 9 power 2.90808e-10 mW BR 13.740000 with modulation 2
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[489] 41 82 DS 10 power 1.73499e-10 mW BR 16.950000 with modulation 2
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[514] 51 84 DS 3 power 1.1061e-10 mW BR 3.930000 with modulation 2
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[584] 44 83 DS 7 power 3.43525e-09 mW BR 16.740000 with modulation 3
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[610] 37 85 DS 10 power 4.27205e-10 mW BR 16.920000 with modulation 2
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[624] 40 83 DS 6 power 1.95819e-10 mW BR 8.505000 with modulation 2
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[636] 39 94 DS 13 power 3.24848e-10 mW BR 13.515000 with modulation 1
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[637] 50 95 DS 12 power 5.31473e-10 mW BR 18.495000 with modulation 2
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[644] 51 85 DS 7 power 9.59717e-11 mW BR 10.260000 with modulation 2
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[653] 50 85 DS 15 power 5.45129e-10 mW BR 0.615000 with modulation 3
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[659] 48 99 DS 24 power 5.65116e-10 mW BR 26.025000 with modulation 1
+BS[7] 46 86 BS[7] 46 86
+BS[7] 46 86 MS[675] 50 98 DS 13 power 5.10545e-10 mW BR 13.515000 with modulation 1
+
+
+BS[8] 48 25 BS[8] 48 25
+BS[8] 48 25 BS[8] 48 25
+BS[8] 48 25 MS[30] 54 22 DS 10 power 1.95819e-10 mW BR 16.380000 with modulation 2
+BS[8] 48 25 BS[8] 48 25
+BS[8] 48 25 MS[143] 48 20 DS 7 power 9.12011e-11 mW BR 11.805000 with modulation 2
+BS[8] 48 25 BS[8] 48 25
+BS[8] 48 25 MS[171] 49 25 DS 37 power 2.94131e-09 mW BR 13.140000 with modulation 3
+BS[8] 48 25 BS[8] 48 25
+BS[8] 48 25 MS[195] 46 24 DS 34 power 1.11067e-09 mW BR 0.705000 with modulation 3
+BS[8] 48 25 BS[8] 48 25
+BS[8] 48 25 MS[269] 49 20 DS 4 power 9.59717e-11 mW BR 6.690000 with modulation 2
+BS[8] 48 25 BS[8] 48 25
+BS[8] 48 25 MS[315] 47 26 DS 40 power 4.56613e-09 mW BR 18.510000 with modulation 3
+BS[8] 48 25 BS[8] 48 25
+BS[8] 48 25 MS[332] 55 31 DS 12 power 4.47634e-10 mW BR 19.710000 with modulation 2
+BS[8] 48 25 BS[8] 48 25
+BS[8] 48 25 MS[338] 44 36 DS 18 power 4.17268e-10 mW BR 19.245000 with modulation 1
+BS[8] 48 25 BS[8] 48 25
+BS[8] 48 25 MS[341] 46 34 DS 3 power 4.47634e-10 mW BR 2.550000 with modulation 2
+BS[8] 48 25 BS[8] 48 25
+BS[8] 48 25 MS[380] 39 16 DS 9 power 5.18857e-10 mW BR 9.210000 with modulation 1
+BS[8] 48 25 BS[8] 48 25
+BS[8] 48 25 MS[399] 39 36 DS 19 power 6.91249e-10 mW BR 20.475000 with modulation 1
+BS[8] 48 25 BS[8] 48 25
+BS[8] 48 25 MS[434] 38 35 DS 24 power 6.82365e-10 mW BR 25.815000 with modulation 1
+BS[8] 48 25 BS[8] 48 25
+BS[8] 48 25 MS[442] 36 33 DS 18 power 7.18059e-10 mW BR 19.500000 with modulation 1
+BS[8] 48 25 BS[8] 48 25
+BS[8] 48 25 MS[448] 50 25 DS 48 power 1.14939e-09 mW BR 7.035000 with modulation 3
+BS[8] 48 25 BS[8] 48 25
+BS[8] 48 25 MS[513] 42 35 DS 12 power 4.13313e-10 mW BR 12.255000 with modulation 1
+BS[8] 48 25 BS[8] 48 25
+BS[8] 48 25 MS[522] 52 28 DS 9 power 9.12011e-11 mW BR 12.690000 with modulation 2
+BS[8] 48 25 BS[8] 48 25
+BS[8] 48 25 MS[542] 45 28 DS 33 power 3.68227e-09 mW BR 2.190000 with modulation 3
+BS[8] 48 25 BS[8] 48 25
+BS[8] 48 25 MS[558] 34 30 DS 22 power 7.76941e-10 mW BR 25.155000 with modulation 1
+BS[8] 48 25 BS[8] 48 25
+BS[8] 48 25 MS[589] 44 35 DS 21 power 3.36104e-10 mW BR 21.945000 with modulation 1
+BS[8] 48 25 BS[8] 48 25
+BS[8] 48 25 MS[683] 58 32 DS 22 power 4.65393e-10 mW BR 24.075000 with modulation 1
+
+
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[7] 43 49 DS 15 power 4.20444e-10 mW BR 25.200000 with modulation 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[27] 48 57 DS 4 power 4.13709e-10 mW BR 5.835000 with modulation 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[166] 51 45 DS 16 power 3.20552e-10 mW BR 13.470000 with modulation 3
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[318] 40 47 DS 9 power 4.61337e-10 mW BR 10.080000 with modulation 1
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[339] 52 55 DS 16 power 1.46511e-10 mW BR 27.390000 with modulation 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[350] 48 45 DS 1 power 1.25711e-10 mW BR 1.695000 with modulation 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[359] 41 43 DS 16 power 4.98136e-10 mW BR 16.845000 with modulation 1
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[438] 62 55 DS 22 power 4.13313e-10 mW BR 24.270000 with modulation 1
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[443] 42 47 DS 25 power 2.91623e-10 mW BR 28.275000 with modulation 1
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[486] 50 39 DS 21 power 2.91623e-10 mW BR 22.560000 with modulation 1
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[512] 51 37 DS 18 power 4.49217e-10 mW BR 19.770000 with modulation 1
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[556] 63 55 DS 15 power 4.98136e-10 mW BR 15.765000 with modulation 1
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[632] 51 55 DS 9 power 1.51824e-10 mW BR 12.870000 with modulation 2
+BS[9] 52 49 BS[9] 52 49
+BS[9] 52 49 MS[656] 41 53 DS 10 power 4.17268e-10 mW BR 11.610000 with modulation 1
+
+
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[20] 61 19 DS 9 power 3.15839e-10 mW BR 13.140000 with modulation 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[49] 58 9 DS 3 power 2.3631e-10 mW BR 4.410000 with modulation 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[90] 47 4 DS 10 power 5.5241e-10 mW BR 10.980000 with modulation 1
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[113] 61 3 DS 22 power 6.51482e-10 mW BR 23.775000 with modulation 1
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[115] 65 22 DS 9 power 5.5241e-10 mW BR 9.255000 with modulation 1
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[181] 54 16 DS 6 power 1.94634e-09 mW BR 2.475000 with modulation 3
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[209] 46 14 DS 18 power 3.15839e-10 mW BR 29.235000 with modulation 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[223] 62 4 DS 6 power 6.16597e-10 mW BR 5.100000 with modulation 1
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[236] 54 13 DS 15 power 3.21895e-10 mW BR 1.365000 with modulation 3
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[254] 42 6 DS 12 power 1.99763e-10 mW BR 5.925000 with modulation 0
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[256] 51 6 DS 4 power 4.82162e-10 mW BR 7.170000 with modulation 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[281] 59 7 DS 13 power 4.75209e-10 mW BR 20.940000 with modulation 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[297] 49 12 DS 16 power 1.36019e-10 mW BR 25.665000 with modulation 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[303] 62 15 DS 9 power 3.09537e-10 mW BR 12.720000 with modulation 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[347] 46 13 DS 7 power 3.34919e-10 mW BR 10.215000 with modulation 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[393] 48 4 DS 22 power 4.98136e-10 mW BR 24.870000 with modulation 1
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[409] 58 17 DS 12 power 4.48787e-09 mW BR 24.135000 with modulation 3
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[414] 54 3 DS 6 power 4.45194e-10 mW BR 5.565000 with modulation 1
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[519] 53 19 DS 15 power 6.51156e-10 mW BR 15.120000 with modulation 3
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[557] 63 6 DS 21 power 5.18857e-10 mW BR 23.280000 with modulation 1
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[565] 57 21 DS 6 power 1.95819e-10 mW BR 7.800000 with modulation 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[652] 61 9 DS 12 power 4.47634e-10 mW BR 19.455000 with modulation 2
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[654] 64 21 DS 7 power 4.13313e-10 mW BR 8.190000 with modulation 1
+BS[10] 54 15 BS[10] 54 15
+BS[10] 54 15 MS[671] 46 15 DS 4 power 3.09537e-10 mW BR 5.880000 with modulation 2
+
+
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[77] 68 106 DS 18 power 3.81989e-10 mW BR 19.410000 with modulation 1
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[82] 56 110 DS 7 power 1.25711e-10 mW BR 11.985000 with modulation 2
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[84] 66 107 DS 6 power 4.47634e-10 mW BR 9.885000 with modulation 2
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[99] 54 123 DS 6 power 3.39875e-10 mW BR 5.505000 with modulation 1
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[175] 66 104 DS 3 power 4.13313e-10 mW BR 3.120000 with modulation 1
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[179] 47 111 DS 19 power 5.86441e-10 mW BR 21.210000 with modulation 1
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[224] 62 100 DS 10 power 6.82365e-10 mW BR 11.070000 with modulation 1
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[230] 59 114 DS 21 power 3.8909e-09 mW BR 13.020000 with modulation 3
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[250] 58 109 DS 13 power 1.1061e-10 mW BR 20.625000 with modulation 2
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[270] 70 124 DS 21 power 6.82365e-10 mW BR 22.185000 with modulation 1
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[273] 59 123 DS 9 power 4.27205e-10 mW BR 14.115000 with modulation 2
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[287] 58 102 DS 19 power 4.61337e-10 mW BR 21.285000 with modulation 1
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[300] 56 109 DS 16 power 1.73499e-10 mW BR 26.235000 with modulation 2
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[345] 53 115 DS 9 power 2.24563e-10 mW BR 14.475000 with modulation 2
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[394] 52 124 DS 10 power 5.272e-10 mW BR 10.155000 with modulation 1
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[403] 58 118 DS 45 power 5.36373e-10 mW BR 19.380000 with modulation 3
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[427] 63 115 DS 30 power 3.0167e-09 mW BR 1.080000 with modulation 3
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[435] 50 107 DS 9 power 4.65393e-10 mW BR 9.135000 with modulation 1
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[447] 61 107 DS 15 power 2.24563e-10 mW BR 25.170000 with modulation 2
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[456] 64 100 DS 19 power 7.36062e-10 mW BR 21.780000 with modulation 1
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[488] 54 120 DS 7 power 3.60753e-10 mW BR 12.120000 with modulation 2
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[546] 53 101 DS 13 power 7.63258e-10 mW BR 13.560000 with modulation 1
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[550] 52 114 DS 18 power 3.09537e-10 mW BR 29.460000 with modulation 2
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[559] 55 119 DS 15 power 2.24563e-10 mW BR 24.135000 with modulation 2
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[577] 61 121 DS 3 power 2.24563e-10 mW BR 4.725000 with modulation 2
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[601] 67 107 DS 16 power 5.38607e-10 mW BR 26.040000 with modulation 2
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[620] 62 116 DS 24 power 7.23218e-10 mW BR 27.030000 with modulation 3
+BS[11] 60 114 BS[11] 60 114
+BS[11] 60 114 MS[660] 70 121 DS 12 power 4.65393e-10 mW BR 13.080000 with modulation 1
+
+
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[42] 65 69 DS 24 power 2.80734e-10 mW BR 25.755000 with modulation 1
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[81] 62 83 DS 22 power 1.43423e-09 mW BR 13.395000 with modulation 3
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[135] 59 76 DS 16 power 1.36019e-10 mW BR 25.485000 with modulation 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[155] 63 90 DS 7 power 3.58877e-10 mW BR 6.990000 with modulation 1
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[265] 57 67 DS 13 power 6.51482e-10 mW BR 14.910000 with modulation 1
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[272] 71 82 DS 13 power 2.72354e-10 mW BR 22.320000 with modulation 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[355] 67 79 DS 30 power 2.90969e-10 mW BR 29.295000 with modulation 3
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[454] 68 86 DS 6 power 3.15839e-10 mW BR 7.620000 with modulation 2
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[526] 61 67 DS 3 power 4.817e-10 mW BR 2.805000 with modulation 1
+BS[12] 64 79 BS[12] 64 79
+BS[12] 64 79 MS[628] 59 85 DS 9 power 2.90808e-10 mW BR 14.415000 with modulation 2
+
+
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[2] 76 44 DS 28 power 2.65874e-10 mW BR 9.135000 with modulation 3
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[17] 84 52 DS 25 power 5.5241e-10 mW BR 27.810000 with modulation 1
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[76] 64 41 DS 9 power 5.31473e-10 mW BR 14.835000 with modulation 2
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[110] 76 42 DS 39 power 5.79349e-10 mW BR 11.790000 with modulation 3
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[114] 77 45 DS 18 power 7.04124e-10 mW BR 10.125000 with modulation 3
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[116] 78 44 DS 4 power 9.59717e-11 mW BR 5.355000 with modulation 2
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[131] 85 53 DS 12 power 7.18059e-10 mW BR 12.915000 with modulation 1
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[151] 70 40 DS 10 power 1.36019e-10 mW BR 17.385000 with modulation 2
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[169] 70 51 DS 16 power 1.95819e-10 mW BR 25.995000 with modulation 2
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[187] 78 46 DS 9 power 9.59717e-11 mW BR 13.275000 with modulation 2
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[219] 77 41 DS 6 power 1.25711e-10 mW BR 9.105000 with modulation 2
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[397] 78 42 DS 7 power 1.36019e-10 mW BR 11.490000 with modulation 2
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[406] 81 45 DS 1 power 3.09537e-10 mW BR 1.800000 with modulation 2
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[417] 67 53 DS 16 power 2.77126e-10 mW BR 17.805000 with modulation 1
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[450] 71 44 DS 9 power 2.67114e-10 mW BR 22.290000 with modulation 3
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[515] 71 47 DS 16 power 2.09725e-09 mW BR 25.185000 with modulation 3
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[527] 75 35 DS 3 power 2.91623e-10 mW BR 2.115000 with modulation 1
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[531] 81 48 DS 7 power 3.6728e-10 mW BR 10.155000 with modulation 2
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[576] 77 33 DS 6 power 5.10545e-10 mW BR 6.180000 with modulation 1
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[594] 70 45 DS 40 power 2.46521e-11 mW BR 29.460000 with modulation 3
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[595] 76 39 DS 13 power 1.95819e-10 mW BR 22.020000 with modulation 2
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[612] 68 41 DS 13 power 1.73499e-10 mW BR 20.505000 with modulation 2
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[633] 66 51 DS 15 power 4.47634e-10 mW BR 23.790000 with modulation 2
+BS[13] 73 45 BS[13] 73 45
+BS[13] 73 45 MS[655] 82 40 DS 19 power 2.98934e-10 mW BR 21.840000 with modulation 1
+
+
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[12] 84 6 DS 16 power 2.98934e-10 mW BR 18.450000 with modulation 1
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[48] 70 10 DS 10 power 9.59717e-11 mW BR 16.035000 with modulation 2
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[50] 78 16 DS 9 power 1.36019e-10 mW BR 14.250000 with modulation 2
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[61] 74 18 DS 18 power 2.24563e-10 mW BR 28.125000 with modulation 2
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[63] 77 7 DS 43 power 3.11879e-10 mW BR 20.310000 with modulation 3
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[75] 66 20 DS 7 power 5.18857e-10 mW BR 8.160000 with modulation 1
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[87] 80 16 DS 1 power 2.24563e-10 mW BR 1.155000 with modulation 2
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[95] 77 20 DS 18 power 4.47634e-10 mW BR 28.575000 with modulation 2
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[172] 89 15 DS 19 power 7.36062e-10 mW BR 20.580000 with modulation 1
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[196] 77 24 DS 18 power 5.65116e-10 mW BR 18.540000 with modulation 1
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[199] 65 2 DS 18 power 5.99322e-10 mW BR 19.245000 with modulation 1
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[212] 69 12 DS 16 power 1.51824e-10 mW BR 25.590000 with modulation 2
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[225] 75 7 DS 52 power 1.84007e-09 mW BR 7.875000 with modulation 3
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[257] 74 11 DS 24 power 1.91353e-09 mW BR 29.205000 with modulation 3
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[312] 87 13 DS 4 power 4.61337e-10 mW BR 4.395000 with modulation 1
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[378] 79 12 DS 37 power 7.95045e-10 mW BR 22.335000 with modulation 3
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[419] 73 20 DS 16 power 4.47634e-10 mW BR 26.820000 with modulation 2
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[439] 83 8 DS 16 power 3.6728e-10 mW BR 26.595000 with modulation 2
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[508] 86 1 DS 3 power 7.76941e-10 mW BR 2.670000 with modulation 1
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[533] 72 19 DS 10 power 3.6728e-10 mW BR 15.900000 with modulation 2
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[535] 64 7 DS 9 power 4.17268e-10 mW BR 9.660000 with modulation 1
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[562] 81 21 DS 4 power 4.13313e-10 mW BR 4.575000 with modulation 1
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[630] 65 6 DS 24 power 3.70391e-10 mW BR 25.230000 with modulation 1
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[645] 72 0 DS 25 power 3.89766e-10 mW BR 27.225000 with modulation 1
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[667] 86 15 DS 18 power 4.17268e-10 mW BR 18.600000 with modulation 1
+BS[14] 75 11 BS[14] 75 11
+BS[14] 75 11 MS[676] 84 18 DS 18 power 3.89766e-10 mW BR 18.555000 with modulation 1
+
+
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[18] 81 117 DS 7 power 1.51824e-10 mW BR 10.365000 with modulation 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[35] 70 103 DS 18 power 5.272e-10 mW BR 19.560000 with modulation 1
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[101] 85 113 DS 7 power 1.1061e-10 mW BR 11.145000 with modulation 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[112] 78 97 DS 6 power 6.82365e-10 mW BR 5.490000 with modulation 1
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[146] 75 107 DS 13 power 1.73499e-10 mW BR 21.075000 with modulation 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[184] 79 119 DS 10 power 3.15839e-10 mW BR 16.530000 with modulation 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[238] 75 105 DS 13 power 2.90808e-10 mW BR 20.355000 with modulation 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[275] 75 104 DS 7 power 3.73834e-10 mW BR 12.375000 with modulation 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[286] 83 114 DS 39 power 6.61212e-10 mW BR 22.560000 with modulation 3
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[336] 83 109 DS 43 power 9.79049e-11 mW BR 8.100000 with modulation 3
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[337] 89 118 DS 22 power 3.89766e-10 mW BR 23.685000 with modulation 1
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[344] 81 97 DS 22 power 6.69089e-10 mW BR 24.810000 with modulation 1
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[373] 73 99 DS 16 power 6.51482e-10 mW BR 17.460000 with modulation 1
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[386] 84 108 DS 7 power 9.12011e-11 mW BR 12.240000 with modulation 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[404] 75 98 DS 22 power 6.55874e-10 mW BR 25.140000 with modulation 1
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[429] 79 114 DS 39 power 2.4969e-10 mW BR 6.030000 with modulation 3
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[431] 78 114 DS 25 power 1.53885e-09 mW BR 12.555000 with modulation 3
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[451] 76 100 DS 4 power 4.17268e-10 mW BR 4.305000 with modulation 1
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[452] 73 100 DS 15 power 5.5241e-10 mW BR 15.300000 with modulation 1
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[453] 76 99 DS 16 power 5.10545e-10 mW BR 16.950000 with modulation 1
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[501] 74 105 DS 18 power 3.60753e-10 mW BR 29.580000 with modulation 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[505] 82 112 DS 52 power 1.8508e-09 mW BR 15.045000 with modulation 3
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[551] 73 112 DS 13 power 2.24563e-10 mW BR 21.900000 with modulation 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[581] 80 117 DS 7 power 1.46511e-10 mW BR 10.410000 with modulation 2
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[600] 80 96 DS 24 power 1.99763e-10 mW BR 12.900000 with modulation 0
+BS[15] 80 111 BS[15] 80 111
+BS[15] 80 111 MS[639] 72 118 DS 3 power 3.24848e-10 mW BR 1.860000 with modulation 1
+
+
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[0] 83 71 DS 1 power 9.12011e-11 mW BR 0.795000 with modulation 2
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[36] 79 73 DS 10 power 9.12011e-11 mW BR 17.220000 with modulation 2
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[55] 91 64 DS 12 power 5.10545e-10 mW BR 12.015000 with modulation 1
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[92] 71 62 DS 10 power 2.77126e-10 mW BR 10.755000 with modulation 1
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[185] 75 75 DS 18 power 3.15839e-10 mW BR 29.535000 with modulation 2
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[189] 77 71 DS 3 power 1.94379e-10 mW BR 0.120000 with modulation 3
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[229] 84 61 DS 16 power 3.73834e-10 mW BR 26.685000 with modulation 2
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[292] 79 69 DS 40 power 3.40957e-10 mW BR 2.625000 with modulation 3
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[302] 86 63 DS 1 power 3.73834e-10 mW BR 1.245000 with modulation 2
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[346] 74 71 DS 4 power 1.36019e-10 mW BR 5.550000 with modulation 2
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[374] 83 73 DS 3 power 1.73499e-10 mW BR 4.230000 with modulation 2
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[391] 82 63 DS 3 power 1.36019e-10 mW BR 3.675000 with modulation 2
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[420] 83 70 DS 45 power 4.23217e-10 mW BR 26.970000 with modulation 3
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[440] 73 67 DS 10 power 1.51824e-10 mW BR 15.930000 with modulation 2
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[441] 82 70 DS 36 power 2.73347e-10 mW BR 0.660000 with modulation 3
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[481] 77 77 DS 15 power 4.47634e-10 mW BR 24.285000 with modulation 2
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[485] 91 69 DS 24 power 4.49217e-10 mW BR 26.580000 with modulation 1
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[492] 76 73 DS 16 power 1.36019e-10 mW BR 26.775000 with modulation 2
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[499] 78 72 DS 4 power 7.34705e-10 mW BR 9.810000 with modulation 3
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[511] 84 81 DS 10 power 6.55874e-10 mW BR 10.515000 with modulation 1
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[536] 74 73 DS 1 power 2.24563e-10 mW BR 1.245000 with modulation 2
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[561] 84 66 DS 15 power 1.1061e-10 mW BR 24.855000 with modulation 2
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[575] 90 70 DS 24 power 3.70391e-10 mW BR 26.025000 with modulation 1
+BS[16] 79 68 BS[16] 79 68
+BS[16] 79 68 MS[631] 70 62 DS 25 power 3.39875e-10 mW BR 27.315000 with modulation 1
+
+
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[1] 86 40 DS 6 power 3.15839e-10 mW BR 7.635000 with modulation 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[4] 96 38 DS 39 power 1.66942e-09 mW BR 12.525000 with modulation 3
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[41] 88 28 DS 9 power 4.98136e-10 mW BR 9.645000 with modulation 1
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[46] 87 37 DS 1 power 2.42235e-10 mW BR 0.165000 with modulation 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[154] 85 42 DS 3 power 4.82162e-10 mW BR 3.180000 with modulation 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[178] 91 50 DS 13 power 3.89766e-10 mW BR 14.625000 with modulation 1
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[201] 88 27 DS 16 power 5.95021e-10 mW BR 18.270000 with modulation 1
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[205] 85 44 DS 15 power 2.98934e-10 mW BR 15.375000 with modulation 1
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[249] 107 36 DS 21 power 5.86441e-10 mW BR 23.265000 with modulation 1
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[266] 81 33 DS 15 power 7.04625e-10 mW BR 16.050000 with modulation 1
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[329] 97 32 DS 12 power 2.72354e-10 mW BR 18.465000 with modulation 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[349] 102 46 DS 6 power 3.24848e-10 mW BR 5.550000 with modulation 1
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[353] 103 36 DS 12 power 4.82162e-10 mW BR 19.395000 with modulation 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[389] 93 40 DS 19 power 3.39055e-10 mW BR 15.285000 with modulation 3
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[473] 104 35 DS 22 power 3.36104e-10 mW BR 24.495000 with modulation 1
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[476] 99 25 DS 18 power 7.76941e-10 mW BR 19.845000 with modulation 1
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[477] 98 29 DS 16 power 3.36104e-10 mW BR 17.340000 with modulation 1
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[478] 99 30 DS 3 power 2.98934e-10 mW BR 1.995000 with modulation 1
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[494] 92 40 DS 9 power 4.23974e-10 mW BR 2.865000 with modulation 3
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[523] 104 39 DS 4 power 2.77126e-10 mW BR 4.695000 with modulation 1
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[563] 85 35 DS 1 power 5.31473e-10 mW BR 0.135000 with modulation 2
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[591] 89 25 DS 6 power 7.76941e-10 mW BR 5.715000 with modulation 1
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[593] 94 25 DS 24 power 6.64677e-10 mW BR 25.410000 with modulation 1
+BS[17] 94 39 BS[17] 94 39
+BS[17] 94 39 MS[615] 94 45 DS 1 power 1.46511e-10 mW BR 1.410000 with modulation 2
+
+
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[19] 95 91 DS 10 power 4.49217e-10 mW BR 11.040000 with modulation 1
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[69] 101 105 DS 12 power 1.1061e-10 mW BR 19.080000 with modulation 2
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[71] 86 102 DS 24 power 2.80734e-10 mW BR 25.230000 with modulation 1
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[120] 97 103 DS 28 power 8.18296e-10 mW BR 10.860000 with modulation 3
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[153] 94 114 DS 13 power 3.70391e-10 mW BR 14.040000 with modulation 1
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[164] 104 96 DS 1 power 3.24848e-10 mW BR 0.450000 with modulation 1
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[168] 90 108 DS 4 power 2.90808e-10 mW BR 6.810000 with modulation 2
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[182] 107 96 DS 3 power 5.5241e-10 mW BR 2.760000 with modulation 1
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[197] 99 107 DS 4 power 9.12011e-11 mW BR 6.855000 with modulation 2
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[214] 98 92 DS 6 power 3.70391e-10 mW BR 5.400000 with modulation 1
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[222] 103 92 DS 13 power 5.5241e-10 mW BR 14.490000 with modulation 1
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[248] 110 102 DS 3 power 6.69089e-10 mW BR 2.070000 with modulation 1
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[259] 102 97 DS 10 power 3.60753e-10 mW BR 15.780000 with modulation 2
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[279] 97 114 DS 13 power 3.58877e-10 mW BR 13.545000 with modulation 1
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[296] 104 95 DS 3 power 3.81989e-10 mW BR 1.710000 with modulation 1
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[319] 98 113 DS 19 power 2.91623e-10 mW BR 21.195000 with modulation 1
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[331] 104 103 DS 3 power 3.09537e-10 mW BR 3.300000 with modulation 2
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[334] 95 110 DS 6 power 2.24563e-10 mW BR 7.755000 with modulation 2
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[348] 91 90 DS 22 power 6.55874e-10 mW BR 24.570000 with modulation 1
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[351] 105 109 DS 6 power 3.39875e-10 mW BR 6.165000 with modulation 1
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[372] 88 99 DS 15 power 4.13709e-10 mW BR 23.145000 with modulation 2
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[392] 103 115 DS 16 power 6.51482e-10 mW BR 18.300000 with modulation 1
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[398] 100 96 DS 18 power 3.15839e-10 mW BR 28.125000 with modulation 2
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[401] 99 106 DS 21 power 4.68877e-10 mW BR 13.785000 with modulation 3
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[445] 107 102 DS 22 power 3.58877e-10 mW BR 25.065000 with modulation 1
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[495] 104 101 DS 3 power 3.34919e-10 mW BR 4.230000 with modulation 2
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[606] 90 96 DS 7 power 4.47634e-10 mW BR 11.655000 with modulation 2
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[613] 105 101 DS 15 power 4.47634e-10 mW BR 23.460000 with modulation 2
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[616] 101 101 DS 16 power 1.1061e-10 mW BR 26.880000 with modulation 2
+BS[18] 96 103 BS[18] 96 103
+BS[18] 96 103 MS[627] 93 103 DS 27 power 2.7538e-09 mW BR 29.475000 with modulation 3
+
+
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[9] 96 16 DS 24 power 7.63258e-10 mW BR 26.820000 with modulation 1
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[15] 94 15 DS 1 power 1.99763e-10 mW BR 0.045000 with modulation 0
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[21] 108 9 DS 1 power 2.90808e-10 mW BR 2.295000 with modulation 2
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[102] 109 12 DS 22 power 3.39875e-10 mW BR 24.615000 with modulation 1
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[104] 90 9 DS 7 power 7.04625e-10 mW BR 8.025000 with modulation 1
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[123] 106 11 DS 13 power 3.6728e-10 mW BR 21.615000 with modulation 2
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[130] 114 2 DS 6 power 3.58877e-10 mW BR 5.430000 with modulation 1
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[162] 95 4 DS 1 power 3.15839e-10 mW BR 1.005000 with modulation 2
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[170] 92 7 DS 13 power 4.17268e-10 mW BR 14.880000 with modulation 1
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[218] 104 13 DS 18 power 2.80734e-10 mW BR 19.575000 with modulation 1
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[227] 108 10 DS 18 power 3.73834e-10 mW BR 29.610000 with modulation 2
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[228] 103 14 DS 9 power 3.55058e-10 mW BR 8.610000 with modulation 1
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[313] 101 12 DS 6 power 4.47634e-10 mW BR 7.995000 with modulation 2
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[325] 108 2 DS 16 power 9.59717e-11 mW BR 26.445000 with modulation 2
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[326] 95 10 DS 6 power 3.24848e-10 mW BR 5.955000 with modulation 1
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[340] 93 7 DS 10 power 3.36104e-10 mW BR 11.205000 with modulation 1
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[418] 97 2 DS 9 power 1.51824e-10 mW BR 13.950000 with modulation 2
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[421] 103 10 DS 15 power 2.18742e-10 mW BR 24.795000 with modulation 2
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[497] 101 14 DS 4 power 3.70391e-10 mW BR 5.040000 with modulation 1
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[502] 95 3 DS 10 power 3.09537e-10 mW BR 16.215000 with modulation 2
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[504] 91 4 DS 22 power 4.49217e-10 mW BR 24.360000 with modulation 1
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[544] 97 1 DS 10 power 1.68018e-10 mW BR 17.460000 with modulation 2
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[548] 93 11 DS 19 power 5.272e-10 mW BR 20.400000 with modulation 1
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[560] 91 9 DS 13 power 5.95021e-10 mW BR 14.835000 with modulation 1
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[567] 96 6 DS 4 power 2.72354e-10 mW BR 6.165000 with modulation 2
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[614] 106 16 DS 13 power 5.86441e-10 mW BR 14.400000 with modulation 1
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[619] 90 3 DS 16 power 5.48189e-10 mW BR 17.760000 with modulation 1
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[635] 99 16 DS 9 power 6.16597e-10 mW BR 9.255000 with modulation 1
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[638] 93 4 DS 27 power 2.80734e-10 mW BR 29.310000 with modulation 1
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[680] 101 13 DS 4 power 2.91623e-10 mW BR 4.620000 with modulation 1
+BS[19] 103 3 BS[19] 103 3
+BS[19] 103 3 MS[681] 97 12 DS 19 power 3.39875e-10 mW BR 21.675000 with modulation 1
+
+
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[16] 106 59 DS 51 power 7.02581e-10 mW BR 23.775000 with modulation 3
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[26] 101 67 DS 3 power 5.5241e-10 mW BR 2.355000 with modulation 1
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[32] 108 55 DS 46 power 2.86426e-09 mW BR 13.140000 with modulation 3
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[38] 116 44 DS 13 power 7.18059e-10 mW BR 15.045000 with modulation 1
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[73] 115 58 DS 3 power 2.42235e-10 mW BR 3.000000 with modulation 2
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[127] 120 48 DS 27 power 7.18059e-10 mW BR 29.640000 with modulation 1
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[139] 104 53 DS 7 power 9.12011e-11 mW BR 12.180000 with modulation 2
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[156] 98 65 DS 3 power 5.99322e-10 mW BR 2.865000 with modulation 1
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[167] 110 50 DS 6 power 1.68018e-10 mW BR 8.805000 with modulation 2
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[180] 94 60 DS 21 power 7.36062e-10 mW BR 23.325000 with modulation 1
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[235] 98 56 DS 10 power 2.77126e-10 mW BR 10.455000 with modulation 1
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[240] 110 48 DS 1 power 3.34919e-10 mW BR 1.515000 with modulation 2
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[242] 109 69 DS 25 power 5.5241e-10 mW BR 27.765000 with modulation 1
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[253] 109 52 DS 12 power 1.12272e-09 mW BR 5.415000 with modulation 3
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[323] 108 58 DS 36 power 5.78699e-10 mW BR 4.230000 with modulation 3
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[342] 105 49 DS 16 power 2.72354e-10 mW BR 25.680000 with modulation 2
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[363] 108 51 DS 4 power 9.12011e-11 mW BR 6.480000 with modulation 2
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[381] 102 53 DS 15 power 1.95819e-10 mW BR 24.030000 with modulation 2
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[390] 111 46 DS 10 power 3.09979e-10 mW BR 10.845000 with modulation 1
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[487] 113 62 DS 16 power 2.90808e-10 mW BR 27.195000 with modulation 2
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[507] 115 47 DS 7 power 3.89766e-10 mW BR 8.370000 with modulation 1
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[528] 114 52 DS 9 power 2.3631e-10 mW BR 14.490000 with modulation 2
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[540] 122 53 DS 4 power 7.04625e-10 mW BR 4.425000 with modulation 1
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[541] 112 62 DS 4 power 2.3631e-10 mW BR 5.205000 with modulation 2
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[564] 107 50 DS 7 power 1.51824e-10 mW BR 11.040000 with modulation 2
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[580] 120 58 DS 27 power 4.61337e-10 mW BR 28.725000 with modulation 1
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[592] 105 68 DS 10 power 4.817e-10 mW BR 10.965000 with modulation 1
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[598] 110 55 DS 4 power 2.44195e-09 mW BR 28.185000 with modulation 3
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[602] 94 61 DS 25 power 7.76941e-10 mW BR 28.275000 with modulation 1
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[604] 113 46 DS 24 power 3.70391e-10 mW BR 26.100000 with modulation 1
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[625] 112 48 DS 10 power 4.13709e-10 mW BR 17.115000 with modulation 2
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[626] 99 56 DS 15 power 4.20444e-10 mW BR 24.180000 with modulation 2
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[646] 111 64 DS 9 power 3.6728e-10 mW BR 14.670000 with modulation 2
+BS[20] 108 56 BS[20] 108 56
+BS[20] 108 56 MS[668] 111 68 DS 12 power 4.817e-10 mW BR 13.125000 with modulation 1
+
+
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 MS[47] 118 18 DS 3 power 1.68018e-10 mW BR 3.210000 with modulation 2
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 MS[54] 123 0 DS 27 power 4.817e-10 mW BR 29.010000 with modulation 1
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 MS[58] 127 10 DS 12 power 2.42235e-10 mW BR 17.850000 with modulation 2
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 MS[62] 125 8 DS 7 power 1.73499e-10 mW BR 11.700000 with modulation 2
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 MS[65] 128 8 DS 10 power 4.13709e-10 mW BR 17.040000 with modulation 2
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 MS[106] 129 11 DS 13 power 4.27205e-10 mW BR 22.650000 with modulation 2
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 MS[206] 131 9 DS 13 power 3.89766e-10 mW BR 14.610000 with modulation 1
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 MS[213] 115 23 DS 4 power 4.53249e-10 mW BR 4.155000 with modulation 1
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 MS[231] 119 12 DS 28 power 4.56491e-10 mW BR 11.745000 with modulation 3
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 MS[237] 112 12 DS 6 power 3.09537e-10 mW BR 8.115000 with modulation 2
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 MS[244] 128 17 DS 12 power 4.75209e-10 mW BR 19.770000 with modulation 2
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 MS[264] 114 22 DS 6 power 4.13313e-10 mW BR 6.120000 with modulation 1
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 MS[317] 110 20 DS 13 power 5.272e-10 mW BR 15.105000 with modulation 1
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 MS[335] 112 18 DS 1 power 2.77126e-10 mW BR 0.975000 with modulation 1
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 MS[371] 115 12 DS 13 power 9.12011e-11 mW BR 20.850000 with modulation 2
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 MS[384] 127 20 DS 13 power 3.24848e-10 mW BR 13.710000 with modulation 1
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 MS[408] 119 22 DS 18 power 2.80734e-10 mW BR 19.515000 with modulation 1
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 MS[472] 110 23 DS 25 power 7.76941e-10 mW BR 27.105000 with modulation 1
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 MS[479] 124 17 DS 13 power 1.73499e-10 mW BR 20.760000 with modulation 2
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 MS[524] 131 8 DS 18 power 4.17268e-10 mW BR 18.600000 with modulation 1
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 MS[539] 133 9 DS 25 power 5.86441e-10 mW BR 27.510000 with modulation 1
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 MS[573] 132 17 DS 6 power 5.48189e-10 mW BR 6.165000 with modulation 1
+BS[21] 120 12 BS[21] 120 12
+BS[21] 120 12 MS[651] 117 10 DS 36 power 3.41819e-10 mW BR 29.610000 with modulation 3
+
+
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[5] 118 63 DS 19 power 2.98934e-10 mW BR 21.420000 with modulation 1
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[8] 115 69 DS 24 power 4.49217e-10 mW BR 26.355000 with modulation 1
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[14] 122 57 DS 25 power 4.53249e-10 mW BR 28.020000 with modulation 1
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[93] 117 70 DS 15 power 2.91623e-10 mW BR 16.575000 with modulation 1
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[147] 129 78 DS 16 power 2.91623e-10 mW BR 17.610000 with modulation 1
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[232] 132 75 DS 10 power 3.73834e-10 mW BR 15.240000 with modulation 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[327] 127 78 DS 9 power 2.77126e-10 mW BR 9.570000 with modulation 1
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[377] 120 59 DS 9 power 3.89766e-10 mW BR 9.780000 with modulation 1
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[425] 117 72 DS 4 power 3.36104e-10 mW BR 4.815000 with modulation 1
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[430] 114 69 DS 19 power 5.5241e-10 mW BR 21.555000 with modulation 1
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[459] 132 69 DS 6 power 9.59717e-11 mW BR 8.370000 with modulation 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[460] 131 71 DS 13 power 9.12011e-11 mW BR 21.285000 with modulation 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[461] 132 73 DS 10 power 2.24563e-10 mW BR 15.945000 with modulation 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[463] 121 75 DS 4 power 4.47634e-10 mW BR 5.280000 with modulation 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[525] 125 77 DS 6 power 4.47634e-10 mW BR 9.435000 with modulation 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[553] 118 72 DS 7 power 5.31473e-10 mW BR 12.450000 with modulation 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[607] 131 72 DS 16 power 1.25711e-10 mW BR 26.160000 with modulation 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[664] 134 71 DS 7 power 2.72354e-10 mW BR 11.190000 with modulation 2
+BS[22] 127 68 BS[22] 127 68
+BS[22] 127 68 MS[673] 115 70 DS 25 power 4.61337e-10 mW BR 27.165000 with modulation 1
+
+
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[25] 122 32 DS 15 power 2.24563e-10 mW BR 24.495000 with modulation 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[28] 126 34 DS 21 power 3.19534e-09 mW BR 24.675000 with modulation 3
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[33] 136 25 DS 16 power 4.47634e-10 mW BR 25.515000 with modulation 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[57] 133 37 DS 1 power 2.3631e-10 mW BR 1.650000 with modulation 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[64] 132 19 DS 22 power 4.817e-10 mW BR 23.925000 with modulation 1
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[88] 119 28 DS 12 power 3.09979e-10 mW BR 12.945000 with modulation 1
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[121] 116 30 DS 15 power 5.5241e-10 mW BR 15.285000 with modulation 1
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[124] 125 41 DS 3 power 3.36104e-10 mW BR 2.145000 with modulation 1
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[125] 133 22 DS 12 power 5.31473e-10 mW BR 18.540000 with modulation 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[128] 122 37 DS 13 power 4.47634e-10 mW BR 21.045000 with modulation 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[136] 116 37 DS 13 power 7.04625e-10 mW BR 14.475000 with modulation 1
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[137] 138 33 DS 9 power 4.47634e-10 mW BR 14.235000 with modulation 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[138] 122 34 DS 7 power 2.72354e-10 mW BR 12.510000 with modulation 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[188] 130 39 DS 7 power 3.15839e-10 mW BR 11.250000 with modulation 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[200] 125 25 DS 3 power 2.3631e-10 mW BR 3.135000 with modulation 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[216] 136 19 DS 25 power 6.51482e-10 mW BR 27.570000 with modulation 1
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[243] 133 20 DS 25 power 4.17268e-10 mW BR 27.120000 with modulation 1
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[267] 116 28 DS 7 power 5.86441e-10 mW BR 7.485000 with modulation 1
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[289] 137 24 DS 6 power 3.24848e-10 mW BR 6.075000 with modulation 1
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[305] 134 32 DS 7 power 9.59717e-11 mW BR 10.965000 with modulation 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[367] 132 27 DS 15 power 9.12011e-11 mW BR 23.820000 with modulation 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[400] 140 23 DS 24 power 6.16597e-10 mW BR 25.950000 with modulation 1
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[402] 120 43 DS 21 power 1.99763e-10 mW BR 11.610000 with modulation 0
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[415] 124 25 DS 12 power 2.90808e-10 mW BR 19.935000 with modulation 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[490] 132 37 DS 18 power 1.95819e-10 mW BR 29.445000 with modulation 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[506] 139 36 DS 27 power 3.70391e-10 mW BR 29.310000 with modulation 1
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[517] 121 40 DS 19 power 4.49217e-10 mW BR 20.385000 with modulation 1
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[520] 120 41 DS 7 power 5.99322e-10 mW BR 7.620000 with modulation 1
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[578] 115 28 DS 10 power 7.04625e-10 mW BR 10.665000 with modulation 1
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[585] 142 25 DS 4 power 7.04625e-10 mW BR 3.420000 with modulation 1
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[605] 121 35 DS 12 power 4.13709e-10 mW BR 19.440000 with modulation 2
+BS[23] 129 31 BS[23] 129 31
+BS[23] 129 31 MS[658] 132 36 DS 13 power 1.36019e-10 mW BR 21.600000 with modulation 2
+
+
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[59] 129 101 DS 15 power 2.77126e-10 mW BR 15.945000 with modulation 1
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[74] 149 93 DS 24 power 4.61337e-10 mW BR 25.350000 with modulation 1
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[78] 148 101 DS 6 power 4.98136e-10 mW BR 5.265000 with modulation 1
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[98] 146 100 DS 4 power 2.98934e-10 mW BR 4.185000 with modulation 1
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[202] 142 92 DS 3 power 1.36019e-10 mW BR 2.670000 with modulation 2
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[215] 136 86 DS 7 power 4.27205e-10 mW BR 12.405000 with modulation 2
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[234] 131 88 DS 15 power 4.47634e-10 mW BR 23.220000 with modulation 2
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[261] 149 104 DS 48 power 1.99763e-10 mW BR 26.250000 with modulation 0
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[262] 134 108 DS 19 power 5.86441e-10 mW BR 21.405000 with modulation 1
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[274] 133 95 DS 22 power 4.20383e-10 mW BR 9.720000 with modulation 3
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[282] 127 103 DS 13 power 5.272e-10 mW BR 14.355000 with modulation 1
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[294] 149 97 DS 15 power 4.61337e-10 mW BR 15.720000 with modulation 1
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[301] 139 93 DS 3 power 3.65449e-10 mW BR 26.175000 with modulation 3
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[320] 132 101 DS 7 power 2.90808e-10 mW BR 11.310000 with modulation 2
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[354] 128 99 DS 3 power 5.31473e-10 mW BR 4.290000 with modulation 2
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[357] 140 106 DS 4 power 3.89766e-10 mW BR 4.125000 with modulation 1
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[385] 136 97 DS 22 power 2.58491e-10 mW BR 18.900000 with modulation 3
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[482] 139 91 DS 42 power 1.64748e-10 mW BR 18.945000 with modulation 3
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[483] 132 82 DS 21 power 6.55874e-10 mW BR 23.130000 with modulation 1
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[547] 144 100 DS 13 power 3.73834e-10 mW BR 20.460000 with modulation 2
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[574] 130 91 DS 13 power 3.15839e-10 mW BR 20.880000 with modulation 2
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[579] 127 100 DS 19 power 3.70391e-10 mW BR 20.460000 with modulation 1
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[621] 130 93 DS 9 power 2.42235e-10 mW BR 12.810000 with modulation 2
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[622] 147 93 DS 16 power 2.91623e-10 mW BR 17.370000 with modulation 1
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[642] 138 87 DS 9 power 3.15839e-10 mW BR 12.810000 with modulation 2
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[663] 133 100 DS 12 power 1.73499e-10 mW BR 19.845000 with modulation 2
+BS[24] 137 95 BS[24] 137 95
+BS[24] 137 95 MS[682] 127 97 DS 19 power 2.91623e-10 mW BR 21.045000 with modulation 1
+
+
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[34] 131 47 DS 7 power 4.27205e-10 mW BR 11.445000 with modulation 2
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[40] 140 40 DS 10 power 3.09537e-10 mW BR 17.505000 with modulation 2
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[80] 146 52 DS 12 power 2.3631e-10 mW BR 17.700000 with modulation 2
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[86] 138 49 DS 3 power 5.61057e-10 mW BR 0.615000 with modulation 3
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[89] 146 40 DS 12 power 2.77126e-10 mW BR 12.345000 with modulation 1
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[103] 134 42 DS 13 power 3.60753e-10 mW BR 20.610000 with modulation 2
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[107] 144 54 DS 10 power 2.3631e-10 mW BR 16.740000 with modulation 2
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[145] 146 53 DS 6 power 2.90808e-10 mW BR 8.025000 with modulation 2
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[165] 137 57 DS 13 power 4.82162e-10 mW BR 22.290000 with modulation 2
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[204] 149 51 DS 1 power 4.82162e-10 mW BR 1.335000 with modulation 2
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[221] 129 54 DS 19 power 4.98136e-10 mW BR 20.940000 with modulation 1
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[246] 139 45 DS 31 power 1.14815e-11 mW BR 3.690000 with modulation 3
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[247] 140 43 DS 10 power 9.12011e-11 mW BR 17.640000 with modulation 2
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[307] 129 53 DS 15 power 4.53249e-10 mW BR 15.930000 with modulation 1
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[352] 143 54 DS 6 power 1.95819e-10 mW BR 9.555000 with modulation 2
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[369] 140 55 DS 13 power 2.18742e-10 mW BR 20.580000 with modulation 2
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[428] 139 38 DS 15 power 2.80734e-10 mW BR 16.305000 with modulation 1
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[500] 146 38 DS 3 power 4.13313e-10 mW BR 1.785000 with modulation 1
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[510] 136 40 DS 15 power 4.13709e-10 mW BR 23.010000 with modulation 2
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[530] 144 51 DS 4 power 9.12011e-11 mW BR 5.805000 with modulation 2
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[552] 148 46 DS 7 power 3.34919e-10 mW BR 10.560000 with modulation 2
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[571] 135 40 DS 3 power 4.75209e-10 mW BR 2.805000 with modulation 2
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[587] 147 39 DS 24 power 3.89766e-10 mW BR 26.400000 with modulation 1
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[640] 141 44 DS 30 power 2.62519e-09 mW BR 28.575000 with modulation 3
+BS[25] 140 48 BS[25] 140 48
+BS[25] 140 48 MS[678] 140 38 DS 9 power 2.77126e-10 mW BR 8.715000 with modulation 1
+
+
+BS[26] 146 81 BS[26] 146 81
+BS[26] 146 81 BS[26] 146 81
+BS[26] 146 81 MS[44] 147 78 DS 33 power 5.68756e-09 mW BR 9.150000 with modulation 3
+BS[26] 146 81 BS[26] 146 81
+BS[26] 146 81 MS[85] 148 77 DS 1 power 1.54987e-09 mW BR 11.295000 with modulation 3
+BS[26] 146 81 BS[26] 146 81
+BS[26] 146 81 MS[129] 149 92 DS 18 power 3.89766e-10 mW BR 18.540000 with modulation 1
+BS[26] 146 81 BS[26] 146 81
+BS[26] 146 81 MS[396] 144 83 DS 21 power 9.25823e-10 mW BR 16.950000 with modulation 3
+BS[26] 146 81 BS[26] 146 81
+BS[26] 146 81 MS[582] 146 84 DS 7 power 1.98418e-09 mW BR 12.660000 with modulation 3
+BS[26] 146 81 BS[26] 146 81
+BS[26] 146 81 MS[618] 139 77 DS 18 power 3.15839e-10 mW BR 27.810000 with modulation 2
+
+
+BS[27] 146 64 BS[27] 146 64
+BS[27] 146 64 BS[27] 146 64
+BS[27] 146 64 MS[83] 139 71 DS 12 power 5.38607e-10 mW BR 18.300000 with modulation 2
+BS[27] 146 64 BS[27] 146 64
+BS[27] 146 64 MS[245] 145 61 DS 7 power 4.3581e-10 mW BR 3.465000 with modulation 3
+BS[27] 146 64 BS[27] 146 64
+BS[27] 146 64 MS[293] 138 66 DS 13 power 3.34919e-10 mW BR 22.635000 with modulation 2
+BS[27] 146 64 BS[27] 146 64
+BS[27] 146 64 MS[366] 140 58 DS 4 power 3.60753e-10 mW BR 7.455000 with modulation 2
+BS[27] 146 64 BS[27] 146 64
+BS[27] 146 64 MS[436] 146 62 DS 39 power 4.78375e-09 mW BR 13.185000 with modulation 3
+BS[27] 146 64 BS[27] 146 64
+BS[27] 146 64 MS[444] 144 66 DS 45 power 2.56507e-10 mW BR 21.375000 with modulation 3
+BS[27] 146 64 BS[27] 146 64
+BS[27] 146 64 MS[496] 145 60 DS 9 power 5.40074e-10 mW BR 13.230000 with modulation 3
+BS[27] 146 64 BS[27] 146 64
+BS[27] 146 64 MS[569] 147 61 DS 7 power 5.46386e-09 mW BR 9.465000 with modulation 3
+BS[27] 146 64 BS[27] 146 64
+BS[27] 146 64 MS[597] 139 60 DS 3 power 3.15839e-10 mW BR 3.420000 with modulation 2
+BS[27] 146 64 BS[27] 146 64
+BS[27] 146 64 MS[617] 142 61 DS 7 power 9.12011e-11 mW BR 11.190000 with modulation 2
+BS[27] 146 64 BS[27] 146 64
+BS[27] 146 64 MS[679] 148 59 DS 16 power 1.1061e-10 mW BR 27.255000 with modulation 2
+
+
+BS[28] 27 53 BS[28] 27 53
+BS[28] 27 53 BS[28] 27 53
+BS[28] 27 53 MS[6] 27 47 DS 39 power 3.6802e-09 mW BR 21.180000 with modulation 0
+BS[28] 27 53 BS[28] 27 53
+BS[28] 27 53 MS[173] 26 53 DS 18 power 1.38892e-10 mW BR 18.885000 with modulation 1
+BS[28] 27 53 BS[28] 27 53
+BS[28] 27 53 MS[220] 25 58 DS 9 power 2.7784e-09 mW BR 4.860000 with modulation 0
+BS[28] 27 53 BS[28] 27 53
+BS[28] 27 53 MS[411] 25 53 DS 40 power 2.11522e-10 mW BR 22.620000 with modulation 0
+BS[28] 27 53 BS[28] 27 53
+BS[28] 27 53 MS[446] 27 50 DS 33 power 6.07006e-10 mW BR 18.495000 with modulation 0
+BS[28] 27 53 BS[28] 27 53
+BS[28] 27 53 MS[465] 22 51 DS 9 power 2.7784e-09 mW BR 4.800000 with modulation 0
+BS[28] 27 53 BS[28] 27 53
+BS[28] 27 53 MS[466] 28 48 DS 15 power 2.4107e-09 mW BR 8.295000 with modulation 0
+BS[28] 27 53 BS[28] 27 53
+BS[28] 27 53 MS[467] 25 52 DS 37 power 2.82709e-10 mW BR 20.355000 with modulation 0
+BS[28] 27 53 BS[28] 27 53
+BS[28] 27 53 MS[469] 27 57 DS 6 power 1.28243e-09 mW BR 2.850000 with modulation 0
+BS[28] 27 53 BS[28] 27 53
+BS[28] 27 53 MS[470] 28 49 DS 21 power 1.38759e-09 mW BR 11.115000 with modulation 0
+BS[28] 27 53 BS[28] 27 53
+BS[28] 27 53 MS[647] 24 55 DS 3 power 9.79049e-10 mW BR 1.305000 with modulation 0
+
+
+BS[29] 29 74 BS[29] 29 74
+BS[29] 29 74 BS[29] 29 74
+BS[29] 29 74 MS[29] 25 71 DS 21 power 2.29087e-09 mW BR 11.625000 with modulation 0
+BS[29] 29 74 BS[29] 29 74
+BS[29] 29 74 MS[109] 27 77 DS 39 power 9.79049e-10 mW BR 21.795000 with modulation 0
+BS[29] 29 74 BS[29] 29 74
+BS[29] 29 74 MS[316] 31 72 DS 40 power 5.20829e-10 mW BR 22.170000 with modulation 0
+BS[29] 29 74 BS[29] 29 74
+BS[29] 29 74 MS[322] 27 75 DS 43 power 2.82709e-10 mW BR 23.820000 with modulation 0
+
+
+BS[30] 59 48 BS[30] 59 48
+BS[30] 59 48 BS[30] 59 48
+BS[30] 59 48 MS[24] 60 44 DS 21 power 1.38759e-09 mW BR 11.415000 with modulation 0
+BS[30] 59 48 BS[30] 59 48
+BS[30] 59 48 MS[39] 58 45 DS 15 power 6.9611e-10 mW BR 7.755000 with modulation 0
+BS[30] 59 48 BS[30] 59 48
+BS[30] 59 48 MS[158] 58 53 DS 13 power 2.4107e-09 mW BR 6.915000 with modulation 0
+BS[30] 59 48 BS[30] 59 48
+BS[30] 59 48 MS[252] 60 52 DS 15 power 1.38759e-09 mW BR 8.370000 with modulation 0
+BS[30] 59 48 BS[30] 59 48
+BS[30] 59 48 MS[365] 62 44 DS 39 power 2.29087e-09 mW BR 21.780000 with modulation 0
+BS[30] 59 48 BS[30] 59 48
+BS[30] 59 48 MS[549] 61 51 DS 1 power 9.79049e-10 mW BR 0.390000 with modulation 0
+BS[30] 59 48 BS[30] 59 48
+BS[30] 59 48 MS[650] 59 45 DS 24 power 6.07006e-10 mW BR 12.960000 with modulation 0
+
+
+BS[31] 70 93 BS[31] 70 93
+BS[31] 70 93 BS[31] 70 93
+BS[31] 70 93 MS[310] 71 91 DS 42 power 2.82709e-10 mW BR 23.355000 with modulation 0
+BS[31] 70 93 BS[31] 70 93
+BS[31] 70 93 MS[455] 73 88 DS 52 power 3.41665e-09 mW BR 29.145000 with modulation 0
+BS[31] 70 93 BS[31] 70 93
+BS[31] 70 93 MS[457] 71 90 DS 28 power 6.9611e-10 mW BR 15.255000 with modulation 0
+
+
+BS[32] 66 35 BS[32] 66 35
+BS[32] 66 35 BS[32] 66 35
+BS[32] 66 35 MS[133] 64 36 DS 43 power 2.82709e-10 mW BR 23.925000 with modulation 0
+BS[32] 66 35 BS[32] 66 35
+BS[32] 66 35 MS[306] 72 35 DS 45 power 3.6802e-09 mW BR 25.110000 with modulation 0
+BS[32] 66 35 BS[32] 66 35
+BS[32] 66 35 MS[537] 63 38 DS 6 power 1.49463e-09 mW BR 2.820000 with modulation 0
+BS[32] 66 35 BS[32] 66 35
+BS[32] 66 35 MS[568] 71 32 DS 9 power 3.41665e-09 mW BR 4.500000 with modulation 0
+
+
+BS[33] 78 83 BS[33] 78 83
+BS[33] 78 83 BS[33] 78 83
+BS[33] 78 83 MS[284] 79 82 DS 19 power 3.41993e-10 mW BR 20.235000 with modulation 1
+BS[33] 78 83 BS[33] 78 83
+BS[33] 78 83 MS[370] 79 79 DS 39 power 1.38759e-09 mW BR 21.495000 with modulation 0
+BS[33] 78 83 BS[33] 78 83
+BS[33] 78 83 MS[405] 73 84 DS 28 power 2.4107e-09 mW BR 15.855000 with modulation 0
+BS[33] 78 83 BS[33] 78 83
+BS[33] 78 83 MS[516] 75 82 DS 16 power 6.9611e-10 mW BR 9.120000 with modulation 0
+BS[33] 78 83 BS[33] 78 83
+BS[33] 78 83 MS[555] 73 83 DS 52 power 2.29087e-09 mW BR 29.160000 with modulation 0
+BS[33] 78 83 BS[33] 78 83
+BS[33] 78 83 MS[586] 77 82 DS 24 power 3.41993e-10 mW BR 26.505000 with modulation 1
+
+
+BS[34] 79 56 BS[34] 79 56
+BS[34] 79 56 BS[34] 79 56
+BS[34] 79 56 MS[43] 75 57 DS 1 power 1.38759e-09 mW BR 0.120000 with modulation 0
+BS[34] 79 56 BS[34] 79 56
+BS[34] 79 56 MS[51] 84 58 DS 42 power 2.7784e-09 mW BR 23.070000 with modulation 0
+BS[34] 79 56 BS[34] 79 56
+BS[34] 79 56 MS[91] 78 59 DS 25 power 6.9611e-10 mW BR 13.995000 with modulation 0
+BS[34] 79 56 BS[34] 79 56
+BS[34] 79 56 MS[362] 82 61 DS 36 power 3.41665e-09 mW BR 20.145000 with modulation 0
+BS[34] 79 56 BS[34] 79 56
+BS[34] 79 56 MS[424] 78 52 DS 25 power 1.38759e-09 mW BR 13.845000 with modulation 0
+BS[34] 79 56 BS[34] 79 56
+BS[34] 79 56 MS[554] 76 55 DS 37 power 6.9611e-10 mW BR 20.475000 with modulation 0
+
+
+BS[35] 105 29 BS[35] 105 29
+BS[35] 105 29 BS[35] 105 29
+BS[35] 105 29 MS[140] 104 31 DS 12 power 2.82709e-10 mW BR 6.315000 with modulation 0
+BS[35] 105 29 BS[35] 105 29
+BS[35] 105 29 MS[474] 102 30 DS 9 power 6.9611e-10 mW BR 4.950000 with modulation 0
+BS[35] 105 29 BS[35] 105 29
+BS[35] 105 29 MS[475] 100 32 DS 24 power 3.41665e-09 mW BR 12.660000 with modulation 0
+
+
+BS[36] 106 77 BS[36] 106 77
+
+
+BS[37] 125 68 BS[37] 125 68
+BS[37] 125 68 BS[37] 125 68
+BS[37] 125 68 MS[56] 124 71 DS 37 power 6.9611e-10 mW BR 20.985000 with modulation 0
+BS[37] 125 68 BS[37] 125 68
+BS[37] 125 68 MS[449] 120 67 DS 48 power 2.4107e-09 mW BR 26.325000 with modulation 0
+BS[37] 125 68 BS[37] 125 68
+BS[37] 125 68 MS[458] 125 67 DS 22 power 1.38892e-10 mW BR 24.105000 with modulation 1
+BS[37] 125 68 BS[37] 125 68
+BS[37] 125 68 MS[462] 127 71 DS 27 power 9.79049e-10 mW BR 14.805000 with modulation 0
+BS[37] 125 68 BS[37] 125 68
+BS[37] 125 68 MS[464] 124 65 DS 13 power 6.9611e-10 mW BR 7.155000 with modulation 0
+
+
+
+
+MS[6] 27 47 DS 39 BR 21.180000 with modulation 0
+MS[15] 94 15 DS 1 BR 0.045000 with modulation 0
+MS[24] 60 44 DS 21 BR 11.415000 with modulation 0
+MS[29] 25 71 DS 21 BR 11.625000 with modulation 0
+MS[39] 58 45 DS 15 BR 7.755000 with modulation 0
+MS[43] 75 57 DS 1 BR 0.120000 with modulation 0
+MS[51] 84 58 DS 42 BR 23.070000 with modulation 0
+MS[56] 124 71 DS 37 BR 20.985000 with modulation 0
+MS[91] 78 59 DS 25 BR 13.995000 with modulation 0
+MS[109] 27 77 DS 39 BR 21.795000 with modulation 0
+MS[133] 64 36 DS 43 BR 23.925000 with modulation 0
+MS[140] 104 31 DS 12 BR 6.315000 with modulation 0
+MS[158] 58 53 DS 13 BR 6.915000 with modulation 0
+MS[220] 25 58 DS 9 BR 4.860000 with modulation 0
+MS[252] 60 52 DS 15 BR 8.370000 with modulation 0
+MS[254] 42 6 DS 12 BR 5.925000 with modulation 0
+MS[261] 149 104 DS 48 BR 26.250000 with modulation 0
+MS[306] 72 35 DS 45 BR 25.110000 with modulation 0
+MS[310] 71 91 DS 42 BR 23.355000 with modulation 0
+MS[316] 31 72 DS 40 BR 22.170000 with modulation 0
+MS[322] 27 75 DS 43 BR 23.820000 with modulation 0
+MS[362] 82 61 DS 36 BR 20.145000 with modulation 0
+MS[365] 62 44 DS 39 BR 21.780000 with modulation 0
+MS[370] 79 79 DS 39 BR 21.495000 with modulation 0
+MS[402] 120 43 DS 21 BR 11.610000 with modulation 0
+MS[405] 73 84 DS 28 BR 15.855000 with modulation 0
+MS[411] 25 53 DS 40 BR 22.620000 with modulation 0
+MS[424] 78 52 DS 25 BR 13.845000 with modulation 0
+MS[446] 27 50 DS 33 BR 18.495000 with modulation 0
+MS[449] 120 67 DS 48 BR 26.325000 with modulation 0
+MS[455] 73 88 DS 52 BR 29.145000 with modulation 0
+MS[457] 71 90 DS 28 BR 15.255000 with modulation 0
+MS[462] 127 71 DS 27 BR 14.805000 with modulation 0
+MS[464] 124 65 DS 13 BR 7.155000 with modulation 0
+MS[465] 22 51 DS 9 BR 4.800000 with modulation 0
+MS[466] 28 48 DS 15 BR 8.295000 with modulation 0
+MS[467] 25 52 DS 37 BR 20.355000 with modulation 0
+MS[469] 27 57 DS 6 BR 2.850000 with modulation 0
+MS[470] 28 49 DS 21 BR 11.115000 with modulation 0
+MS[474] 102 30 DS 9 BR 4.950000 with modulation 0
+MS[475] 100 32 DS 24 BR 12.660000 with modulation 0
+MS[516] 75 82 DS 16 BR 9.120000 with modulation 0
+MS[537] 63 38 DS 6 BR 2.820000 with modulation 0
+MS[549] 61 51 DS 1 BR 0.390000 with modulation 0
+MS[554] 76 55 DS 37 BR 20.475000 with modulation 0
+MS[555] 73 83 DS 52 BR 29.160000 with modulation 0
+MS[568] 71 32 DS 9 BR 4.500000 with modulation 0
+MS[600] 80 96 DS 24 BR 12.900000 with modulation 0
+MS[647] 24 55 DS 3 BR 1.305000 with modulation 0
+MS[650] 59 45 DS 24 BR 12.960000 with modulation 0
+
+
+MS[5] 118 63 DS 19 BR 21.420000 with modulation 1
+MS[8] 115 69 DS 24 BR 26.355000 with modulation 1
+MS[9] 96 16 DS 24 BR 26.820000 with modulation 1
+MS[10] 3 29 DS 1 BR 0.705000 with modulation 1
+MS[11] 22 115 DS 16 BR 18.000000 with modulation 1
+MS[12] 84 6 DS 16 BR 18.450000 with modulation 1
+MS[14] 122 57 DS 25 BR 28.020000 with modulation 1
+MS[17] 84 52 DS 25 BR 27.810000 with modulation 1
+MS[19] 95 91 DS 10 BR 11.040000 with modulation 1
+MS[23] 15 75 DS 12 BR 12.060000 with modulation 1
+MS[26] 101 67 DS 3 BR 2.355000 with modulation 1
+MS[35] 70 103 DS 18 BR 19.560000 with modulation 1
+MS[38] 116 44 DS 13 BR 15.045000 with modulation 1
+MS[41] 88 28 DS 9 BR 9.645000 with modulation 1
+MS[42] 65 69 DS 24 BR 25.755000 with modulation 1
+MS[45] 21 41 DS 16 BR 17.940000 with modulation 1
+MS[54] 123 0 DS 27 BR 29.010000 with modulation 1
+MS[55] 91 64 DS 12 BR 12.015000 with modulation 1
+MS[59] 129 101 DS 15 BR 15.945000 with modulation 1
+MS[64] 132 19 DS 22 BR 23.925000 with modulation 1
+MS[68] 49 98 DS 7 BR 7.725000 with modulation 1
+MS[71] 86 102 DS 24 BR 25.230000 with modulation 1
+MS[74] 149 93 DS 24 BR 25.350000 with modulation 1
+MS[75] 66 20 DS 7 BR 8.160000 with modulation 1
+MS[77] 68 106 DS 18 BR 19.410000 with modulation 1
+MS[78] 148 101 DS 6 BR 5.265000 with modulation 1
+MS[88] 119 28 DS 12 BR 12.945000 with modulation 1
+MS[89] 146 40 DS 12 BR 12.345000 with modulation 1
+MS[90] 47 4 DS 10 BR 10.980000 with modulation 1
+MS[92] 71 62 DS 10 BR 10.755000 with modulation 1
+MS[93] 117 70 DS 15 BR 16.575000 with modulation 1
+MS[97] 2 103 DS 3 BR 2.505000 with modulation 1
+MS[98] 146 100 DS 4 BR 4.185000 with modulation 1
+MS[99] 54 123 DS 6 BR 5.505000 with modulation 1
+MS[102] 109 12 DS 22 BR 24.615000 with modulation 1
+MS[104] 90 9 DS 7 BR 8.025000 with modulation 1
+MS[111] 8 23 DS 19 BR 21.540000 with modulation 1
+MS[112] 78 97 DS 6 BR 5.490000 with modulation 1
+MS[113] 61 3 DS 22 BR 23.775000 with modulation 1
+MS[115] 65 22 DS 9 BR 9.255000 with modulation 1
+MS[117] 47 96 DS 4 BR 4.620000 with modulation 1
+MS[118] 0 34 DS 4 BR 4.305000 with modulation 1
+MS[119] 13 74 DS 12 BR 12.195000 with modulation 1
+MS[121] 116 30 DS 15 BR 15.285000 with modulation 1
+MS[122] 46 96 DS 24 BR 26.190000 with modulation 1
+MS[124] 125 41 DS 3 BR 2.145000 with modulation 1
+MS[127] 120 48 DS 27 BR 29.640000 with modulation 1
+MS[129] 149 92 DS 18 BR 18.540000 with modulation 1
+MS[130] 114 2 DS 6 BR 5.430000 with modulation 1
+MS[131] 85 53 DS 12 BR 12.915000 with modulation 1
+MS[134] 37 99 DS 25 BR 27.405000 with modulation 1
+MS[136] 116 37 DS 13 BR 14.475000 with modulation 1
+MS[141] 31 68 DS 22 BR 24.300000 with modulation 1
+MS[142] 33 54 DS 4 BR 4.005000 with modulation 1
+MS[147] 129 78 DS 16 BR 17.610000 with modulation 1
+MS[150] 16 73 DS 22 BR 23.685000 with modulation 1
+MS[153] 94 114 DS 13 BR 14.040000 with modulation 1
+MS[155] 63 90 DS 7 BR 6.990000 with modulation 1
+MS[156] 98 65 DS 3 BR 2.865000 with modulation 1
+MS[159] 28 60 DS 16 BR 17.790000 with modulation 1
+MS[160] 20 23 DS 1 BR 0.255000 with modulation 1
+MS[161] 32 112 DS 6 BR 6.240000 with modulation 1
+MS[164] 104 96 DS 1 BR 0.450000 with modulation 1
+MS[170] 92 7 DS 13 BR 14.880000 with modulation 1
+MS[172] 89 15 DS 19 BR 20.580000 with modulation 1
+MS[173] 26 53 DS 18 BR 18.885000 with modulation 1
+MS[174] 0 52 DS 18 BR 18.825000 with modulation 1
+MS[175] 66 104 DS 3 BR 3.120000 with modulation 1
+MS[177] 35 87 DS 4 BR 4.065000 with modulation 1
+MS[178] 91 50 DS 13 BR 14.625000 with modulation 1
+MS[179] 47 111 DS 19 BR 21.210000 with modulation 1
+MS[180] 94 60 DS 21 BR 23.325000 with modulation 1
+MS[182] 107 96 DS 3 BR 2.760000 with modulation 1
+MS[183] 52 69 DS 25 BR 28.170000 with modulation 1
+MS[186] 17 64 DS 27 BR 29.040000 with modulation 1
+MS[190] 32 86 DS 1 BR 1.365000 with modulation 1
+MS[192] 10 64 DS 1 BR 0.240000 with modulation 1
+MS[196] 77 24 DS 18 BR 18.540000 with modulation 1
+MS[198] 15 19 DS 4 BR 3.390000 with modulation 1
+MS[199] 65 2 DS 18 BR 19.245000 with modulation 1
+MS[201] 88 27 DS 16 BR 18.270000 with modulation 1
+MS[205] 85 44 DS 15 BR 15.375000 with modulation 1
+MS[206] 131 9 DS 13 BR 14.610000 with modulation 1
+MS[207] 39 98 DS 15 BR 16.005000 with modulation 1
+MS[208] 52 64 DS 18 BR 19.455000 with modulation 1
+MS[213] 115 23 DS 4 BR 4.155000 with modulation 1
+MS[214] 98 92 DS 6 BR 5.400000 with modulation 1
+MS[216] 136 19 DS 25 BR 27.570000 with modulation 1
+MS[218] 104 13 DS 18 BR 19.575000 with modulation 1
+MS[221] 129 54 DS 19 BR 20.940000 with modulation 1
+MS[222] 103 92 DS 13 BR 14.490000 with modulation 1
+MS[223] 62 4 DS 6 BR 5.100000 with modulation 1
+MS[224] 62 100 DS 10 BR 11.070000 with modulation 1
+MS[228] 103 14 DS 9 BR 8.610000 with modulation 1
+MS[235] 98 56 DS 10 BR 10.455000 with modulation 1
+MS[242] 109 69 DS 25 BR 27.765000 with modulation 1
+MS[243] 133 20 DS 25 BR 27.120000 with modulation 1
+MS[248] 110 102 DS 3 BR 2.070000 with modulation 1
+MS[249] 107 36 DS 21 BR 23.265000 with modulation 1
+MS[251] 24 41 DS 7 BR 6.930000 with modulation 1
+MS[262] 134 108 DS 19 BR 21.405000 with modulation 1
+MS[264] 114 22 DS 6 BR 6.120000 with modulation 1
+MS[265] 57 67 DS 13 BR 14.910000 with modulation 1
+MS[266] 81 33 DS 15 BR 16.050000 with modulation 1
+MS[267] 116 28 DS 7 BR 7.485000 with modulation 1
+MS[270] 70 124 DS 21 BR 22.185000 with modulation 1
+MS[276] 23 26 DS 10 BR 11.460000 with modulation 1
+MS[277] 1 41 DS 12 BR 13.425000 with modulation 1
+MS[278] 26 90 DS 1 BR 0.300000 with modulation 1
+MS[279] 97 114 DS 13 BR 13.545000 with modulation 1
+MS[280] 35 81 DS 1 BR 0.855000 with modulation 1
+MS[282] 127 103 DS 13 BR 14.355000 with modulation 1
+MS[284] 79 82 DS 19 BR 20.235000 with modulation 1
+MS[285] 1 56 DS 13 BR 14.160000 with modulation 1
+MS[287] 58 102 DS 19 BR 21.285000 with modulation 1
+MS[289] 137 24 DS 6 BR 6.075000 with modulation 1
+MS[291] 22 66 DS 10 BR 10.125000 with modulation 1
+MS[294] 149 97 DS 15 BR 15.720000 with modulation 1
+MS[295] 23 63 DS 9 BR 8.745000 with modulation 1
+MS[296] 104 95 DS 3 BR 1.710000 with modulation 1
+MS[299] 22 46 DS 18 BR 18.630000 with modulation 1
+MS[304] 35 102 DS 10 BR 10.575000 with modulation 1
+MS[307] 129 53 DS 15 BR 15.930000 with modulation 1
+MS[308] 0 68 DS 16 BR 18.270000 with modulation 1
+MS[311] 25 112 DS 18 BR 19.140000 with modulation 1
+MS[312] 87 13 DS 4 BR 4.395000 with modulation 1
+MS[314] 47 76 DS 21 BR 22.260000 with modulation 1
+MS[317] 110 20 DS 13 BR 15.105000 with modulation 1
+MS[318] 40 47 DS 9 BR 10.080000 with modulation 1
+MS[319] 98 113 DS 19 BR 21.195000 with modulation 1
+MS[326] 95 10 DS 6 BR 5.955000 with modulation 1
+MS[327] 127 78 DS 9 BR 9.570000 with modulation 1
+MS[335] 112 18 DS 1 BR 0.975000 with modulation 1
+MS[337] 89 118 DS 22 BR 23.685000 with modulation 1
+MS[338] 44 36 DS 18 BR 19.245000 with modulation 1
+MS[340] 93 7 DS 10 BR 11.205000 with modulation 1
+MS[344] 81 97 DS 22 BR 24.810000 with modulation 1
+MS[348] 91 90 DS 22 BR 24.570000 with modulation 1
+MS[349] 102 46 DS 6 BR 5.550000 with modulation 1
+MS[351] 105 109 DS 6 BR 6.165000 with modulation 1
+MS[357] 140 106 DS 4 BR 4.125000 with modulation 1
+MS[359] 41 43 DS 16 BR 16.845000 with modulation 1
+MS[361] 31 107 DS 9 BR 9.135000 with modulation 1
+MS[373] 73 99 DS 16 BR 17.460000 with modulation 1
+MS[375] 4 70 DS 16 BR 18.240000 with modulation 1
+MS[376] 31 93 DS 24 BR 25.830000 with modulation 1
+MS[377] 120 59 DS 9 BR 9.780000 with modulation 1
+MS[379] 19 61 DS 19 BR 20.685000 with modulation 1
+MS[380] 39 16 DS 9 BR 9.210000 with modulation 1
+MS[384] 127 20 DS 13 BR 13.710000 with modulation 1
+MS[388] 0 95 DS 16 BR 16.905000 with modulation 1
+MS[390] 111 46 DS 10 BR 10.845000 with modulation 1
+MS[392] 103 115 DS 16 BR 18.300000 with modulation 1
+MS[393] 48 4 DS 22 BR 24.870000 with modulation 1
+MS[394] 52 124 DS 10 BR 10.155000 with modulation 1
+MS[395] 37 52 DS 4 BR 4.305000 with modulation 1
+MS[399] 39 36 DS 19 BR 20.475000 with modulation 1
+MS[400] 140 23 DS 24 BR 25.950000 with modulation 1
+MS[404] 75 98 DS 22 BR 25.140000 with modulation 1
+MS[408] 119 22 DS 18 BR 19.515000 with modulation 1
+MS[410] 31 59 DS 6 BR 6.105000 with modulation 1
+MS[414] 54 3 DS 6 BR 5.565000 with modulation 1
+MS[416] 50 76 DS 9 BR 9.915000 with modulation 1
+MS[417] 67 53 DS 16 BR 17.805000 with modulation 1
+MS[422] 35 75 DS 1 BR 0.780000 with modulation 1
+MS[425] 117 72 DS 4 BR 4.815000 with modulation 1
+MS[428] 139 38 DS 15 BR 16.305000 with modulation 1
+MS[430] 114 69 DS 19 BR 21.555000 with modulation 1
+MS[434] 38 35 DS 24 BR 25.815000 with modulation 1
+MS[435] 50 107 DS 9 BR 9.135000 with modulation 1
+MS[437] 24 91 DS 19 BR 21.495000 with modulation 1
+MS[438] 62 55 DS 22 BR 24.270000 with modulation 1
+MS[442] 36 33 DS 18 BR 19.500000 with modulation 1
+MS[443] 42 47 DS 25 BR 28.275000 with modulation 1
+MS[445] 107 102 DS 22 BR 25.065000 with modulation 1
+MS[451] 76 100 DS 4 BR 4.305000 with modulation 1
+MS[452] 73 100 DS 15 BR 15.300000 with modulation 1
+MS[453] 76 99 DS 16 BR 16.950000 with modulation 1
+MS[456] 64 100 DS 19 BR 21.780000 with modulation 1
+MS[458] 125 67 DS 22 BR 24.105000 with modulation 1
+MS[468] 26 46 DS 24 BR 26.295000 with modulation 1
+MS[472] 110 23 DS 25 BR 27.105000 with modulation 1
+MS[473] 104 35 DS 22 BR 24.495000 with modulation 1
+MS[476] 99 25 DS 18 BR 19.845000 with modulation 1
+MS[477] 98 29 DS 16 BR 17.340000 with modulation 1
+MS[478] 99 30 DS 3 BR 1.995000 with modulation 1
+MS[483] 132 82 DS 21 BR 23.130000 with modulation 1
+MS[484] 37 106 DS 6 BR 5.415000 with modulation 1
+MS[485] 91 69 DS 24 BR 26.580000 with modulation 1
+MS[486] 50 39 DS 21 BR 22.560000 with modulation 1
+MS[491] 15 22 DS 25 BR 27.285000 with modulation 1
+MS[497] 101 14 DS 4 BR 5.040000 with modulation 1
+MS[500] 146 38 DS 3 BR 1.785000 with modulation 1
+MS[503] 52 68 DS 21 BR 22.770000 with modulation 1
+MS[504] 91 4 DS 22 BR 24.360000 with modulation 1
+MS[506] 139 36 DS 27 BR 29.310000 with modulation 1
+MS[507] 115 47 DS 7 BR 8.370000 with modulation 1
+MS[508] 86 1 DS 3 BR 2.670000 with modulation 1
+MS[509] 8 44 DS 1 BR 1.605000 with modulation 1
+MS[511] 84 81 DS 10 BR 10.515000 with modulation 1
+MS[512] 51 37 DS 18 BR 19.770000 with modulation 1
+MS[513] 42 35 DS 12 BR 12.255000 with modulation 1
+MS[517] 121 40 DS 19 BR 20.385000 with modulation 1
+MS[518] 31 94 DS 15 BR 16.545000 with modulation 1
+MS[520] 120 41 DS 7 BR 7.620000 with modulation 1
+MS[521] 20 60 DS 15 BR 16.290000 with modulation 1
+MS[523] 104 39 DS 4 BR 4.695000 with modulation 1
+MS[524] 131 8 DS 18 BR 18.600000 with modulation 1
+MS[526] 61 67 DS 3 BR 2.805000 with modulation 1
+MS[527] 75 35 DS 3 BR 2.115000 with modulation 1
+MS[534] 11 64 DS 3 BR 3.210000 with modulation 1
+MS[535] 64 7 DS 9 BR 9.660000 with modulation 1
+MS[539] 133 9 DS 25 BR 27.510000 with modulation 1
+MS[540] 122 53 DS 4 BR 4.425000 with modulation 1
+MS[546] 53 101 DS 13 BR 13.560000 with modulation 1
+MS[548] 93 11 DS 19 BR 20.400000 with modulation 1
+MS[556] 63 55 DS 15 BR 15.765000 with modulation 1
+MS[557] 63 6 DS 21 BR 23.280000 with modulation 1
+MS[558] 34 30 DS 22 BR 25.155000 with modulation 1
+MS[560] 91 9 DS 13 BR 14.835000 with modulation 1
+MS[562] 81 21 DS 4 BR 4.575000 with modulation 1
+MS[573] 132 17 DS 6 BR 6.165000 with modulation 1
+MS[575] 90 70 DS 24 BR 26.025000 with modulation 1
+MS[576] 77 33 DS 6 BR 6.180000 with modulation 1
+MS[578] 115 28 DS 10 BR 10.665000 with modulation 1
+MS[579] 127 100 DS 19 BR 20.460000 with modulation 1
+MS[580] 120 58 DS 27 BR 28.725000 with modulation 1
+MS[583] 49 73 DS 4 BR 3.450000 with modulation 1
+MS[585] 142 25 DS 4 BR 3.420000 with modulation 1
+MS[586] 77 82 DS 24 BR 26.505000 with modulation 1
+MS[587] 147 39 DS 24 BR 26.400000 with modulation 1
+MS[589] 44 35 DS 21 BR 21.945000 with modulation 1
+MS[591] 89 25 DS 6 BR 5.715000 with modulation 1
+MS[592] 105 68 DS 10 BR 10.965000 with modulation 1
+MS[593] 94 25 DS 24 BR 25.410000 with modulation 1
+MS[596] 16 23 DS 25 BR 27.090000 with modulation 1
+MS[602] 94 61 DS 25 BR 28.275000 with modulation 1
+MS[604] 113 46 DS 24 BR 26.100000 with modulation 1
+MS[608] 9 63 DS 16 BR 18.060000 with modulation 1
+MS[614] 106 16 DS 13 BR 14.400000 with modulation 1
+MS[619] 90 3 DS 16 BR 17.760000 with modulation 1
+MS[622] 147 93 DS 16 BR 17.370000 with modulation 1
+MS[623] 4 60 DS 7 BR 8.280000 with modulation 1
+MS[630] 65 6 DS 24 BR 25.230000 with modulation 1
+MS[631] 70 62 DS 25 BR 27.315000 with modulation 1
+MS[635] 99 16 DS 9 BR 9.255000 with modulation 1
+MS[636] 39 94 DS 13 BR 13.515000 with modulation 1
+MS[638] 93 4 DS 27 BR 29.310000 with modulation 1
+MS[639] 72 118 DS 3 BR 1.860000 with modulation 1
+MS[645] 72 0 DS 25 BR 27.225000 with modulation 1
+MS[648] 23 112 DS 9 BR 8.700000 with modulation 1
+MS[649] 33 55 DS 6 BR 6.645000 with modulation 1
+MS[654] 64 21 DS 7 BR 8.190000 with modulation 1
+MS[655] 82 40 DS 19 BR 21.840000 with modulation 1
+MS[656] 41 53 DS 10 BR 11.610000 with modulation 1
+MS[659] 48 99 DS 24 BR 26.025000 with modulation 1
+MS[660] 70 121 DS 12 BR 13.080000 with modulation 1
+MS[662] 29 112 DS 16 BR 17.520000 with modulation 1
+MS[667] 86 15 DS 18 BR 18.600000 with modulation 1
+MS[668] 111 68 DS 12 BR 13.125000 with modulation 1
+MS[673] 115 70 DS 25 BR 27.165000 with modulation 1
+MS[675] 50 98 DS 13 BR 13.515000 with modulation 1
+MS[676] 84 18 DS 18 BR 18.555000 with modulation 1
+MS[677] 33 86 DS 25 BR 27.675000 with modulation 1
+MS[678] 140 38 DS 9 BR 8.715000 with modulation 1
+MS[680] 101 13 DS 4 BR 4.620000 with modulation 1
+MS[681] 97 12 DS 19 BR 21.675000 with modulation 1
+MS[682] 127 97 DS 19 BR 21.045000 with modulation 1
+MS[683] 58 32 DS 22 BR 24.075000 with modulation 1
+
+
+MS[0] 83 71 DS 1 BR 0.795000 with modulation 2
+MS[1] 86 40 DS 6 BR 7.635000 with modulation 2
+MS[3] 18 44 DS 10 BR 15.690000 with modulation 2
+MS[7] 43 49 DS 15 BR 25.200000 with modulation 2
+MS[18] 81 117 DS 7 BR 10.365000 with modulation 2
+MS[20] 61 19 DS 9 BR 13.140000 with modulation 2
+MS[21] 108 9 DS 1 BR 2.295000 with modulation 2
+MS[22] 20 81 DS 12 BR 18.060000 with modulation 2
+MS[25] 122 32 DS 15 BR 24.495000 with modulation 2
+MS[27] 48 57 DS 4 BR 5.835000 with modulation 2
+MS[30] 54 22 DS 10 BR 16.380000 with modulation 2
+MS[33] 136 25 DS 16 BR 25.515000 with modulation 2
+MS[34] 131 47 DS 7 BR 11.445000 with modulation 2
+MS[36] 79 73 DS 10 BR 17.220000 with modulation 2
+MS[37] 20 29 DS 16 BR 26.520000 with modulation 2
+MS[40] 140 40 DS 10 BR 17.505000 with modulation 2
+MS[46] 87 37 DS 1 BR 0.165000 with modulation 2
+MS[47] 118 18 DS 3 BR 3.210000 with modulation 2
+MS[48] 70 10 DS 10 BR 16.035000 with modulation 2
+MS[49] 58 9 DS 3 BR 4.410000 with modulation 2
+MS[50] 78 16 DS 9 BR 14.250000 with modulation 2
+MS[52] 11 61 DS 1 BR 0.600000 with modulation 2
+MS[53] 39 82 DS 16 BR 26.205000 with modulation 2
+MS[57] 133 37 DS 1 BR 1.650000 with modulation 2
+MS[58] 127 10 DS 12 BR 17.850000 with modulation 2
+MS[60] 33 82 DS 4 BR 7.155000 with modulation 2
+MS[61] 74 18 DS 18 BR 28.125000 with modulation 2
+MS[62] 125 8 DS 7 BR 11.700000 with modulation 2
+MS[65] 128 8 DS 10 BR 17.040000 with modulation 2
+MS[66] 21 69 DS 7 BR 10.155000 with modulation 2
+MS[67] 20 95 DS 4 BR 5.325000 with modulation 2
+MS[69] 101 105 DS 12 BR 19.080000 with modulation 2
+MS[70] 13 26 DS 4 BR 6.960000 with modulation 2
+MS[72] 47 69 DS 18 BR 28.725000 with modulation 2
+MS[73] 115 58 DS 3 BR 3.000000 with modulation 2
+MS[76] 64 41 DS 9 BR 14.835000 with modulation 2
+MS[79] 46 77 DS 15 BR 24.750000 with modulation 2
+MS[80] 146 52 DS 12 BR 17.700000 with modulation 2
+MS[82] 56 110 DS 7 BR 11.985000 with modulation 2
+MS[83] 139 71 DS 12 BR 18.300000 with modulation 2
+MS[84] 66 107 DS 6 BR 9.885000 with modulation 2
+MS[87] 80 16 DS 1 BR 1.155000 with modulation 2
+MS[94] 21 49 DS 18 BR 28.185000 with modulation 2
+MS[95] 77 20 DS 18 BR 28.575000 with modulation 2
+MS[96] 25 94 DS 16 BR 27.495000 with modulation 2
+MS[101] 85 113 DS 7 BR 11.145000 with modulation 2
+MS[103] 134 42 DS 13 BR 20.610000 with modulation 2
+MS[105] 14 41 DS 13 BR 20.250000 with modulation 2
+MS[106] 129 11 DS 13 BR 22.650000 with modulation 2
+MS[107] 144 54 DS 10 BR 16.740000 with modulation 2
+MS[108] 16 100 DS 3 BR 3.825000 with modulation 2
+MS[116] 78 44 DS 4 BR 5.355000 with modulation 2
+MS[123] 106 11 DS 13 BR 21.615000 with modulation 2
+MS[125] 133 22 DS 12 BR 18.540000 with modulation 2
+MS[126] 18 40 DS 9 BR 14.355000 with modulation 2
+MS[128] 122 37 DS 13 BR 21.045000 with modulation 2
+MS[135] 59 76 DS 16 BR 25.485000 with modulation 2
+MS[137] 138 33 DS 9 BR 14.235000 with modulation 2
+MS[138] 122 34 DS 7 BR 12.510000 with modulation 2
+MS[139] 104 53 DS 7 BR 12.180000 with modulation 2
+MS[143] 48 20 DS 7 BR 11.805000 with modulation 2
+MS[144] 16 74 DS 7 BR 12.255000 with modulation 2
+MS[145] 146 53 DS 6 BR 8.025000 with modulation 2
+MS[146] 75 107 DS 13 BR 21.075000 with modulation 2
+MS[148] 17 81 DS 4 BR 6.525000 with modulation 2
+MS[149] 38 57 DS 12 BR 19.260000 with modulation 2
+MS[151] 70 40 DS 10 BR 17.385000 with modulation 2
+MS[152] 10 76 DS 3 BR 4.830000 with modulation 2
+MS[154] 85 42 DS 3 BR 3.180000 with modulation 2
+MS[162] 95 4 DS 1 BR 1.005000 with modulation 2
+MS[163] 48 60 DS 12 BR 17.700000 with modulation 2
+MS[165] 137 57 DS 13 BR 22.290000 with modulation 2
+MS[167] 110 50 DS 6 BR 8.805000 with modulation 2
+MS[168] 90 108 DS 4 BR 6.810000 with modulation 2
+MS[169] 70 51 DS 16 BR 25.995000 with modulation 2
+MS[176] 13 40 DS 13 BR 20.790000 with modulation 2
+MS[184] 79 119 DS 10 BR 16.530000 with modulation 2
+MS[185] 75 75 DS 18 BR 29.535000 with modulation 2
+MS[187] 78 46 DS 9 BR 13.275000 with modulation 2
+MS[188] 130 39 DS 7 BR 11.250000 with modulation 2
+MS[193] 4 75 DS 16 BR 25.965000 with modulation 2
+MS[194] 43 56 DS 15 BR 23.085000 with modulation 2
+MS[197] 99 107 DS 4 BR 6.855000 with modulation 2
+MS[200] 125 25 DS 3 BR 3.135000 with modulation 2
+MS[202] 142 92 DS 3 BR 2.670000 with modulation 2
+MS[203] 4 87 DS 10 BR 17.595000 with modulation 2
+MS[204] 149 51 DS 1 BR 1.335000 with modulation 2
+MS[209] 46 14 DS 18 BR 29.235000 with modulation 2
+MS[210] 20 82 DS 1 BR 1.380000 with modulation 2
+MS[211] 7 73 DS 9 BR 13.065000 with modulation 2
+MS[212] 69 12 DS 16 BR 25.590000 with modulation 2
+MS[215] 136 86 DS 7 BR 12.405000 with modulation 2
+MS[217] 20 106 DS 3 BR 4.725000 with modulation 2
+MS[219] 77 41 DS 6 BR 9.105000 with modulation 2
+MS[226] 15 85 DS 18 BR 29.400000 with modulation 2
+MS[227] 108 10 DS 18 BR 29.610000 with modulation 2
+MS[229] 84 61 DS 16 BR 26.685000 with modulation 2
+MS[232] 132 75 DS 10 BR 15.240000 with modulation 2
+MS[233] 26 96 DS 10 BR 15.690000 with modulation 2
+MS[234] 131 88 DS 15 BR 23.220000 with modulation 2
+MS[237] 112 12 DS 6 BR 8.115000 with modulation 2
+MS[238] 75 105 DS 13 BR 20.355000 with modulation 2
+MS[240] 110 48 DS 1 BR 1.515000 with modulation 2
+MS[241] 10 45 DS 13 BR 21.735000 with modulation 2
+MS[244] 128 17 DS 12 BR 19.770000 with modulation 2
+MS[247] 140 43 DS 10 BR 17.640000 with modulation 2
+MS[250] 58 109 DS 13 BR 20.625000 with modulation 2
+MS[256] 51 6 DS 4 BR 7.170000 with modulation 2
+MS[258] 11 83 DS 9 BR 13.230000 with modulation 2
+MS[259] 102 97 DS 10 BR 15.780000 with modulation 2
+MS[260] 15 24 DS 16 BR 26.175000 with modulation 2
+MS[263] 6 26 DS 4 BR 5.595000 with modulation 2
+MS[268] 48 67 DS 10 BR 16.920000 with modulation 2
+MS[269] 49 20 DS 4 BR 6.690000 with modulation 2
+MS[272] 71 82 DS 13 BR 22.320000 with modulation 2
+MS[273] 59 123 DS 9 BR 14.115000 with modulation 2
+MS[275] 75 104 DS 7 BR 12.375000 with modulation 2
+MS[281] 59 7 DS 13 BR 20.940000 with modulation 2
+MS[283] 47 72 DS 6 BR 9.240000 with modulation 2
+MS[288] 48 78 DS 9 BR 13.665000 with modulation 2
+MS[290] 37 74 DS 1 BR 1.230000 with modulation 2
+MS[293] 138 66 DS 13 BR 22.635000 with modulation 2
+MS[297] 49 12 DS 16 BR 25.665000 with modulation 2
+MS[298] 48 62 DS 7 BR 10.110000 with modulation 2
+MS[300] 56 109 DS 16 BR 26.235000 with modulation 2
+MS[302] 86 63 DS 1 BR 1.245000 with modulation 2
+MS[303] 62 15 DS 9 BR 12.720000 with modulation 2
+MS[305] 134 32 DS 7 BR 10.965000 with modulation 2
+MS[309] 35 65 DS 12 BR 19.290000 with modulation 2
+MS[313] 101 12 DS 6 BR 7.995000 with modulation 2
+MS[320] 132 101 DS 7 BR 11.310000 with modulation 2
+MS[324] 49 91 DS 12 BR 19.740000 with modulation 2
+MS[325] 108 2 DS 16 BR 26.445000 with modulation 2
+MS[328] 37 82 DS 4 BR 6.840000 with modulation 2
+MS[329] 97 32 DS 12 BR 18.465000 with modulation 2
+MS[330] 11 57 DS 4 BR 6.090000 with modulation 2
+MS[331] 104 103 DS 3 BR 3.300000 with modulation 2
+MS[332] 55 31 DS 12 BR 19.710000 with modulation 2
+MS[333] 8 47 DS 12 BR 18.825000 with modulation 2
+MS[334] 95 110 DS 6 BR 7.755000 with modulation 2
+MS[339] 52 55 DS 16 BR 27.390000 with modulation 2
+MS[341] 46 34 DS 3 BR 2.550000 with modulation 2
+MS[342] 105 49 DS 16 BR 25.680000 with modulation 2
+MS[345] 53 115 DS 9 BR 14.475000 with modulation 2
+MS[346] 74 71 DS 4 BR 5.550000 with modulation 2
+MS[347] 46 13 DS 7 BR 10.215000 with modulation 2
+MS[350] 48 45 DS 1 BR 1.695000 with modulation 2
+MS[352] 143 54 DS 6 BR 9.555000 with modulation 2
+MS[353] 103 36 DS 12 BR 19.395000 with modulation 2
+MS[354] 128 99 DS 3 BR 4.290000 with modulation 2
+MS[356] 8 72 DS 10 BR 16.125000 with modulation 2
+MS[360] 37 60 DS 10 BR 16.470000 with modulation 2
+MS[363] 108 51 DS 4 BR 6.480000 with modulation 2
+MS[366] 140 58 DS 4 BR 7.455000 with modulation 2
+MS[367] 132 27 DS 15 BR 23.820000 with modulation 2
+MS[369] 140 55 DS 13 BR 20.580000 with modulation 2
+MS[371] 115 12 DS 13 BR 20.850000 with modulation 2
+MS[372] 88 99 DS 15 BR 23.145000 with modulation 2
+MS[374] 83 73 DS 3 BR 4.230000 with modulation 2
+MS[381] 102 53 DS 15 BR 24.030000 with modulation 2
+MS[386] 84 108 DS 7 BR 12.240000 with modulation 2
+MS[387] 51 86 DS 15 BR 23.715000 with modulation 2
+MS[391] 82 63 DS 3 BR 3.675000 with modulation 2
+MS[397] 78 42 DS 7 BR 11.490000 with modulation 2
+MS[398] 100 96 DS 18 BR 28.125000 with modulation 2
+MS[406] 81 45 DS 1 BR 1.800000 with modulation 2
+MS[407] 30 97 DS 13 BR 21.255000 with modulation 2
+MS[412] 43 72 DS 7 BR 12.345000 with modulation 2
+MS[413] 34 82 DS 13 BR 20.715000 with modulation 2
+MS[415] 124 25 DS 12 BR 19.935000 with modulation 2
+MS[418] 97 2 DS 9 BR 13.950000 with modulation 2
+MS[419] 73 20 DS 16 BR 26.820000 with modulation 2
+MS[421] 103 10 DS 15 BR 24.795000 with modulation 2
+MS[426] 40 91 DS 9 BR 13.740000 with modulation 2
+MS[432] 18 45 DS 9 BR 13.710000 with modulation 2
+MS[433] 36 58 DS 16 BR 27.045000 with modulation 2
+MS[439] 83 8 DS 16 BR 26.595000 with modulation 2
+MS[440] 73 67 DS 10 BR 15.930000 with modulation 2
+MS[447] 61 107 DS 15 BR 25.170000 with modulation 2
+MS[454] 68 86 DS 6 BR 7.620000 with modulation 2
+MS[459] 132 69 DS 6 BR 8.370000 with modulation 2
+MS[460] 131 71 DS 13 BR 21.285000 with modulation 2
+MS[461] 132 73 DS 10 BR 15.945000 with modulation 2
+MS[463] 121 75 DS 4 BR 5.280000 with modulation 2
+MS[471] 19 54 DS 7 BR 12.510000 with modulation 2
+MS[479] 124 17 DS 13 BR 20.760000 with modulation 2
+MS[481] 77 77 DS 15 BR 24.285000 with modulation 2
+MS[487] 113 62 DS 16 BR 27.195000 with modulation 2
+MS[488] 54 120 DS 7 BR 12.120000 with modulation 2
+MS[489] 41 82 DS 10 BR 16.950000 with modulation 2
+MS[490] 132 37 DS 18 BR 29.445000 with modulation 2
+MS[492] 76 73 DS 16 BR 26.775000 with modulation 2
+MS[493] 10 100 DS 6 BR 8.430000 with modulation 2
+MS[495] 104 101 DS 3 BR 4.230000 with modulation 2
+MS[498] 20 83 DS 12 BR 18.465000 with modulation 2
+MS[501] 74 105 DS 18 BR 29.580000 with modulation 2
+MS[502] 95 3 DS 10 BR 16.215000 with modulation 2
+MS[510] 136 40 DS 15 BR 23.010000 with modulation 2
+MS[514] 51 84 DS 3 BR 3.930000 with modulation 2
+MS[522] 52 28 DS 9 BR 12.690000 with modulation 2
+MS[525] 125 77 DS 6 BR 9.435000 with modulation 2
+MS[528] 114 52 DS 9 BR 14.490000 with modulation 2
+MS[529] 19 85 DS 13 BR 21.270000 with modulation 2
+MS[530] 144 51 DS 4 BR 5.805000 with modulation 2
+MS[531] 81 48 DS 7 BR 10.155000 with modulation 2
+MS[532] 13 43 DS 9 BR 15.015000 with modulation 2
+MS[533] 72 19 DS 10 BR 15.900000 with modulation 2
+MS[536] 74 73 DS 1 BR 1.245000 with modulation 2
+MS[538] 28 82 DS 7 BR 11.910000 with modulation 2
+MS[541] 112 62 DS 4 BR 5.205000 with modulation 2
+MS[543] 17 59 DS 12 BR 18.075000 with modulation 2
+MS[544] 97 1 DS 10 BR 17.460000 with modulation 2
+MS[545] 8 27 DS 1 BR 0.015000 with modulation 2
+MS[547] 144 100 DS 13 BR 20.460000 with modulation 2
+MS[550] 52 114 DS 18 BR 29.460000 with modulation 2
+MS[551] 73 112 DS 13 BR 21.900000 with modulation 2
+MS[552] 148 46 DS 7 BR 10.560000 with modulation 2
+MS[553] 118 72 DS 7 BR 12.450000 with modulation 2
+MS[559] 55 119 DS 15 BR 24.135000 with modulation 2
+MS[561] 84 66 DS 15 BR 24.855000 with modulation 2
+MS[563] 85 35 DS 1 BR 0.135000 with modulation 2
+MS[564] 107 50 DS 7 BR 11.040000 with modulation 2
+MS[565] 57 21 DS 6 BR 7.800000 with modulation 2
+MS[567] 96 6 DS 4 BR 6.165000 with modulation 2
+MS[570] 17 78 DS 3 BR 3.975000 with modulation 2
+MS[571] 135 40 DS 3 BR 2.805000 with modulation 2
+MS[572] 25 110 DS 9 BR 14.685000 with modulation 2
+MS[574] 130 91 DS 13 BR 20.880000 with modulation 2
+MS[577] 61 121 DS 3 BR 4.725000 with modulation 2
+MS[581] 80 117 DS 7 BR 10.410000 with modulation 2
+MS[588] 20 74 DS 16 BR 26.715000 with modulation 2
+MS[590] 14 43 DS 13 BR 20.820000 with modulation 2
+MS[595] 76 39 DS 13 BR 22.020000 with modulation 2
+MS[597] 139 60 DS 3 BR 3.420000 with modulation 2
+MS[599] 5 49 DS 1 BR 1.875000 with modulation 2
+MS[601] 67 107 DS 16 BR 26.040000 with modulation 2
+MS[603] 18 73 DS 13 BR 21.465000 with modulation 2
+MS[605] 121 35 DS 12 BR 19.440000 with modulation 2
+MS[606] 90 96 DS 7 BR 11.655000 with modulation 2
+MS[607] 131 72 DS 16 BR 26.160000 with modulation 2
+MS[610] 37 85 DS 10 BR 16.920000 with modulation 2
+MS[611] 7 45 DS 10 BR 17.070000 with modulation 2
+MS[612] 68 41 DS 13 BR 20.505000 with modulation 2
+MS[613] 105 101 DS 15 BR 23.460000 with modulation 2
+MS[615] 94 45 DS 1 BR 1.410000 with modulation 2
+MS[616] 101 101 DS 16 BR 26.880000 with modulation 2
+MS[617] 142 61 DS 7 BR 11.190000 with modulation 2
+MS[618] 139 77 DS 18 BR 27.810000 with modulation 2
+MS[621] 130 93 DS 9 BR 12.810000 with modulation 2
+MS[624] 40 83 DS 6 BR 8.505000 with modulation 2
+MS[625] 112 48 DS 10 BR 17.115000 with modulation 2
+MS[626] 99 56 DS 15 BR 24.180000 with modulation 2
+MS[628] 59 85 DS 9 BR 14.415000 with modulation 2
+MS[629] 14 101 DS 10 BR 16.545000 with modulation 2
+MS[632] 51 55 DS 9 BR 12.870000 with modulation 2
+MS[633] 66 51 DS 15 BR 23.790000 with modulation 2
+MS[634] 14 81 DS 9 BR 12.945000 with modulation 2
+MS[637] 50 95 DS 12 BR 18.495000 with modulation 2
+MS[641] 36 65 DS 10 BR 16.515000 with modulation 2
+MS[642] 138 87 DS 9 BR 12.810000 with modulation 2
+MS[644] 51 85 DS 7 BR 10.260000 with modulation 2
+MS[646] 111 64 DS 9 BR 14.670000 with modulation 2
+MS[652] 61 9 DS 12 BR 19.455000 with modulation 2
+MS[658] 132 36 DS 13 BR 21.600000 with modulation 2
+MS[661] 9 30 DS 10 BR 17.115000 with modulation 2
+MS[663] 133 100 DS 12 BR 19.845000 with modulation 2
+MS[664] 134 71 DS 7 BR 11.190000 with modulation 2
+MS[665] 43 60 DS 15 BR 24.345000 with modulation 2
+MS[666] 21 84 DS 18 BR 29.100000 with modulation 2
+MS[670] 10 84 DS 9 BR 14.340000 with modulation 2
+MS[671] 46 15 DS 4 BR 5.880000 with modulation 2
+MS[672] 34 81 DS 6 BR 9.375000 with modulation 2
+MS[674] 3 93 DS 12 BR 19.125000 with modulation 2
+MS[679] 148 59 DS 16 BR 27.255000 with modulation 2
+
+
+Total Power 3686.000000
+Total DSs: 10085
+Total BR: 10260.660000
+Spectrum-energy Efficiency: 0.223369
+Transmit Spectrum-energy Efficiency: 1974218965.997398
+
+
+ plot "coordinates.txt" index 0:0 using 2:3 title "users" with points, " Fixed(0.25,0.003).txt " index 0:0 using 2:3:1 notitle with labels, " Fixed(0.25,0.003).txt " index 0:0 using 2:3:4 title "Macro Cell" with circles, " Fixed(0.25,0.003).txt " index 1:1 using 2:3:1 notitle with labels, " Fixed(0.25,0.003).txt " index 1:1 using 2:3:4 title "micro cell" with circles, " Fixed(0.25,0.003).txt " index 2:2 using 5:6 title "BS[0]" with lines, " Fixed(0.25,0.003).txt " index 3:3 using 5:6 title "BS[1]" with lines, " Fixed(0.25,0.003).txt " index 4:4 using 5:6 title "BS[2]" with lines, " Fixed(0.25,0.003).txt " index 5:5 using 5:6 title "BS[3]" with lines, " Fixed(0.25,0.003).txt " index 6:6 using 5:6 title "BS[4]" with lines, " Fixed(0.25,0.003).txt " index 7:7 using 5:6 title "BS[5]" with lines, " Fixed(0.25,0.003).txt " index 8:8 using 5:6 title "BS[6]" with lines, " Fixed(0.25,0.003).txt " index 9:9 using 5:6 title "BS[7]" with lines, " Fixed(0.25,0.003).txt " index 10:10 using 5:6 title "BS[8]" with lines, " Fixed(0.25,0.003).txt " index 11:11 using 5:6 title "BS[9]" with lines, " Fixed(0.25,0.003).txt " index 12:12 using 5:6 title "BS[10]" with lines, " Fixed(0.25,0.003).txt " index 13:13 using 5:6 title "BS[11]" with lines, " Fixed(0.25,0.003).txt " index 14:14 using 5:6 title "BS[12]" with lines, " Fixed(0.25,0.003).txt " index 15:15 using 5:6 title "BS[13]" with lines, " Fixed(0.25,0.003).txt " index 16:16 using 5:6 title "BS[14]" with lines, " Fixed(0.25,0.003).txt " index 17:17 using 5:6 title "BS[15]" with lines, " Fixed(0.25,0.003).txt " index 18:18 using 5:6 title "BS[16]" with lines, " Fixed(0.25,0.003).txt " index 19:19 using 5:6 title "BS[17]" with lines, " Fixed(0.25,0.003).txt " index 20:20 using 5:6 title "BS[18]" with lines, " Fixed(0.25,0.003).txt " index 21:21 using 5:6 title "BS[19]" with lines, " Fixed(0.25,0.003).txt " index 22:22 using 5:6 title "BS[20]" with lines, " Fixed(0.25,0.003).txt " index 23:23 using 5:6 title "BS[21]" with lines, " Fixed(0.25,0.003).txt " index 24:24 using 5:6 title "BS[22]" with lines, " Fixed(0.25,0.003).txt " index 25:25 using 5:6 title "BS[23]" with lines, " Fixed(0.25,0.003).txt " index 26:26 using 5:6 title "BS[24]" with lines, " Fixed(0.25,0.003).txt " index 27:27 using 5:6 title "BS[25]" with lines, " Fixed(0.25,0.003).txt " index 28:28 using 5:6 title "BS[26]" with lines, " Fixed(0.25,0.003).txt " index 29:29 using 5:6 title "BS[27]" with lines, " Fixed(0.25,0.003).txt " index 30:30 using 5:6 title "BS[28]" with lines, " Fixed(0.25,0.003).txt " index 31:31 using 5:6 title "BS[29]" with lines, " Fixed(0.25,0.003).txt " index 32:32 using 5:6 title "BS[30]" with lines, " Fixed(0.25,0.003).txt " index 33:33 using 5:6 title "BS[31]" with lines, " Fixed(0.25,0.003).txt " index 34:34 using 5:6 title "BS[32]" with lines, " Fixed(0.25,0.003).txt " index 35:35 using 5:6 title "BS[33]" with lines, " Fixed(0.25,0.003).txt " index 36:36 using 5:6 title "BS[34]" with lines, " Fixed(0.25,0.003).txt " index 37:37 using 5:6 title "BS[35]" with lines, " Fixed(0.25,0.003).txt " index 38:38 using 5:6 title "BS[36]" with lines, " Fixed(0.25,0.003).txt " index 39:39 using 5:6 title "BS[37]" with lines, " Fixed(0.25,0.003).txt " index 40:40 using 2:3 title "Modulation0" with points, " Fixed(0.25,0.003).txt " index 41:41 using 2:3 title "Modulation1" with points, " Fixed(0.25,0.003).txt " index 42:42 using 2:3 title "Modulation2" with points
